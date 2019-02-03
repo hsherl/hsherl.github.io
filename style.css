@@ -8,24 +8,24 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 	display: block;
-}	
+}
 
 body {
 	line-height: 1;
-}	
+}
 
 blockquote,q {
 	quotes: none;
-}	
+}
 
 blockquote:before,blockquote:after,q:before,q:after{
 	content: none;
-}	
+}
 
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
-}	
+}
 
 html,body {
 	height: 100%;
@@ -33,10 +33,11 @@ html,body {
 
 html {
 	font-size: 100.01%;
-}	
+}
 
 body {
 	min-height: 100%;
+	height: 100%;
 	font-family:Helvetica;
 	font-style:normal;
 	font-weight:normal;
@@ -45,18 +46,18 @@ body {
 	padding:0;
 	text-rendering:optimizeLegibility;
 	line-height:1.5;
-}	
+}
 
 span {
 	font-weight:bold;
-}	
+}
 
 h1 {
 	font-family:"HelveticaNeue-CondensedBold","Helvetic Neue Condensed Bold","HelveticaNeue-BoldCondensed","Helvetica Neue Bold Condensed","Helvetica Neue","Arial Narrow","Arial",sans-serif;
 	font-weight:600;
 	font-stretch:condensed;
 	font-size:34px;
-}	
+}
 
 h2 {
 	font-family:"HelveticaNeue-CondensedBold","Helvetic Neue Condensed Bold","HelveticaNeue-BoldCondensed","Helvetica Neue Bold Condensed","Helvetica Neue","Arial Narrow","Arial",sans-serif;
@@ -64,21 +65,21 @@ h2 {
 	font-stretch:condensed;
 	font-size:28px;
 	/*background:red;*/
-}	
+}
 
 h3 {
 	font-family:"HelveticaNeue-CondensedBold","Helvetic Neue Condensed Bold","HelveticaNeue-BoldCondensed","Helvetica Neue Bold Condensed","Helvetica Neue","Arial Narrow","Arial",sans-serif;
 	font-weight:600;
 	font-stretch:condensed;
 	font-size:24px
-}	
+}
 
 h4 {
 	font-family:"HelveticaNeue-CondensedBold","Helvetic Neue Condensed Bold","HelveticaNeue-BoldCondensed","Helvetica Neue Bold Condensed","Helvetica Neue","Arial Narrow","Arial",sans-serif;
 	font-weight:600;
 	font-stretch:condensed;
 	font-size:22px
-}	
+}
 
 h5 {
 	font-family:"Gentium",Georgia,Palatino,serif;
@@ -86,19 +87,20 @@ h5 {
 	font-style:italic;
 	font-weight:normal;
 	color:#222
-}	
+}
 
 h6 {
 	font-family:"HelveticaNeue-CondensedBold","Helvetic Neue Condensed Bold","HelveticaNeue-BoldCondensed","Helvetica Neue Bold Condensed","Helvetica Neue","Arial Narrow","Arial",sans-serif;
 	font-weight:600;
 	font-stretch:condensed;
 	font-size:17px
-}	
+}
 
 p {
 	margin: 1em auto 1em;
+	font-size: 15px;
 	/*background: blue;*/
-}	
+}
 
 hr {
 	margin:20px auto;
@@ -108,13 +110,13 @@ hr {
 	border-bottom:1px solid #bbb;
 	border-left:none;
 	width:100%
-}	
+}
 
 code {
 	font-size:13px;
 	font-family:Menlo,"Courier New",Courier,Monaco,monospace;
 	color:#000
-}	
+}
 
 pre {
 	width:99%;
@@ -133,7 +135,7 @@ pre {
 	-o-box-shadow:inset 0 0 1px #ccc;
 	box-shadow:inset 0 0 1px #ccc;
 	border-collapse:separate
-}	
+}
 
 a{-webkit-transition-timing-function:ease-in-out;-webkit-transition-duration:300ms;-moz-transition-timing-function:ease-in-out;-moz-transition-duration:300ms;-o-transition-timing-function:ease-in-out;-o-transition-duration:300ms;-ms-transition-timing-function:ease-in-out;-ms-transition-duration:300ms;transition-timing-function:ease-in-out;transition-duration:300ms;color:#000;text-decoration:none;border-bottom:1px solid #ccc}
 
@@ -164,7 +166,7 @@ sup,sub,a.footnote {
 	border-bottom:1px solid white;
 	border:1px solid transparent;
 	background:transparent
-}	
+}
 
 sup a,sub a,a.footnote a {
 	-webkit-transition-timing-function:ease-in-out;
@@ -185,7 +187,7 @@ sup a,sub a,a.footnote a {
 	border-radius:3px;
 	border:1px solid transparent;
 	background:transparent
-}	
+}
 
 sup:hover,sub:hover,a.footnote:hover {
 	-webkit-transition-timing-function:ease-in-out;
@@ -206,32 +208,32 @@ sup:hover,sub:hover,a.footnote:hover {
 	border-radius:3px;
 	border:1px solid #eee;
 	background:#eee
-}	
+}
 
 .footnotes p {
 	display:inline
-}	
+}
 
 ul {
 	margin:0 0 1.5em;
-	padding:0
-}	
+	padding:0;
+}
 
 ol {
 	margin:0 0 1.5em;
-	padding:0
-}	
+	padding:0;
+}
 
 blockquote {
 	border-left:1px solid #eee;
 	color:#555;
 	margin:1.4em 1em 1.4em;
 	padding:0 .9em
-}	
+}
 
 blockquote ul,blockquote ol {
 	margin-left: 1.6em;
-}	
+}
 
 /*img {
 	max-width:100%;
@@ -253,48 +255,50 @@ table {
 	padding:5px;
 	border-collapse:collapse;
 	font-size:15px;
-}	
+}
 
 tr,td {
 	border:1px solid #bbb;
 	padding:5px;
-}	
+}
 
 th {
 	font-family:"HelveticaNeue-CondensedBold","Helvetic Neue Condensed Bold","HelveticaNeue-Bold","Helvetica Neue Bold","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
 	padding:7px;
 	font-size:17px;
-}	
+}
 
 #header {
 	font-family:"HelveticaNeue-UltraLight","Helvetica Neue Ultra Light","HelveticaNeue-Light","Helvetica Neue Light","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
-	font-weight:200;
-	font-size:48px;
+	font-weight:400;
+	font-size:34px;
 	line-height:1.45;
-	color:#fff;
+	/* color:#fff; */
+	color:#000;
 	text-align:center;
 	text-indent:0;
 	padding:40px 0 0;
 	margin-bottom:26px;
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#000',EndColorStr='#1f1f1f');
+	/* filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#000',EndColorStr='#1f1f1f');
 	-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorStr='#000', EndColorStr='#1f1f1f')";
 	filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#000000',endColorstr='#1F1F1F');
-	background-image:-ms-linear-gradient(top,#000000 0,#1F1F1F 100%);
+	 background-image:-ms-linear-gradient(top,#000000 0,#1F1F1F 100%);
 	background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0,#000000),color-stop(1,#1F1F1F));
 	background-image:-webkit-linear-gradient(top,#000000 0,#1F1F1F 100%);
 	background-image:-moz-linear-gradient(top,#000000 0,#1F1F1F 100%);
 	background-image:-o-linear-gradient(top,#000000 0,#1F1F1F 100%);
 	background-image:linear-gradient(to bottom,#000000 0,#1F1F1F 100%);
-	border-bottom:4px solid #0ca1ee;
-	-webkit-font-smoothing:antialiased
-}	
+	border-bottom:4px solid #0ca1ee; */
+	-webkit-font-smoothing: antialiased;
+}
 
 #header a {
 	text-decoration:none;
 	border-bottom:none;
-	color:#fff;
+	/* color:#fff; */
+	color:#111;
 	-webkit-font-smoothing:antialiased
-}	
+}
 
 #shell {
 	margin: 0 40px;
@@ -340,6 +344,7 @@ h1,h2,h3,h4,h5,h6 {
 	padding-left:.1em;
 	padding-top:1.8em;
 	-webkit-font-smoothing:antialiased;
+	bottom: 0;
 }
 
 /*.fl{margin:0 17px 0 0}
@@ -353,14 +358,14 @@ h1,h2,h3,h4,h5,h6 {
 @media only screen and (min-width : 580px) {
 	.i {
 		float: right;
-		margin: 0 20px 10px;
+		margin: 36px 20px 10px;
 		border: 1px solid #eee;
 		padding: 2px;
 		width: 200px;
 		height: 200px;
 	}
 	#header {
-		font-size:60px;
+		font-size:42px;
 	}
 }
 
