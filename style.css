@@ -305,6 +305,12 @@ th {
 	/*padding: 50px 0;*/
 }
 
+.ind {
+	margin-left: 10px; 
+	font-size: 90%;
+	margin-top: -.5em;
+}
+
 .c_minor {
 	font-size: 120%;
 	text-align: center;
