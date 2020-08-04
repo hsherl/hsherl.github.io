@@ -58,6 +58,10 @@ a:hover {-webkit-transition-timing-function:ease-in-out;-webkit-transition-durat
 	-webkit-font-smoothing:antialiased;
 }
 
+.left {
+	text-align: left;
+}
+
 #masthead {
 	padding: 0 0;
 	margin: 2em 0 1em 0;
