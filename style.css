@@ -437,6 +437,10 @@ h1,h2,h3,h4,h5,h6 {
 
 #footer a:hover{-webkit-transition-timing-function:ease-in-out;-webkit-transition-duration:200ms;-moz-transition-timing-function:ease-in-out;-moz-transition-duration:200ms;-o-transition-timing-function:ease-in-out;-o-transition-duration:200ms;-ms-transition-timing-function:ease-in-out;-ms-transition-duration:200ms;transition-timing-function:ease-in-out;transition-duration:200ms;border-bottom:1px solid #bbb}
 
+li {
+    font-size: 13px;
+}
+
 @media only screen and (min-width : 580px) {
 	.i {
 		float: right;
@@ -462,6 +466,7 @@ h1,h2,h3,h4,h5,h6 {
 		margin: 0;
 	}
 	p {font-size: 15px;}
+    li{font-size: 15px;}
 }
 
 @media only screen and (min-width : 680px) {
