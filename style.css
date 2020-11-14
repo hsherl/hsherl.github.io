@@ -444,7 +444,7 @@ li {
 @media only screen and (min-width : 580px) {
 	.i {
 		float: right;
-		margin: 5px 9px 10px 20px;
+		margin: 5px 9px 5px 20px;
 		border: 1px solid #eee;
 		padding: 2px;
 		width: 180px;
