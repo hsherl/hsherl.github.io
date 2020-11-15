@@ -397,8 +397,8 @@ ul.one {
 }
 
 .i {
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
 	display: block;
 	margin: 0 auto 5px;
 	border: 1px solid #eee;
@@ -451,8 +451,8 @@ li {
 		margin: 5px 0px 5px 20px;
 		border: 1px solid #eee;
 		padding: 2px;
-		width: 180px;
-		height: 180px;
+		width: 120px;
+		height: 120px;
 	}
 	#header {
 		font-size:42px;
@@ -479,8 +479,8 @@ li {
 		margin: 0 auto;
 	}
 	.i {
-		width: 180px;
-		height: 180px;
+		width: 120px;
+		height: 120px;
 	}
 }
 
