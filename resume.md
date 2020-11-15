@@ -32,7 +32,7 @@ I am currently on the lookout for a job. You can find my work experience and edu
 
 ## Product Analyst, *curalens.ai* (2020-) {.r}
 
-I analysed therapy transcripts and thence created classifiers and testing data for a machine learning algorithm that will perform mental health assessments. 
+I analysed therapy transcripts and thence testing data and classifiers for a machine learning algorithm that will perform mental health assessments. 
 
 ## Strategy Consultant, *EDeeU Education* (2019-) {.r}
 
@@ -80,15 +80,15 @@ Should physics seek constructive rather than principle theories? (80/100, 2018)
 
 ## BA Physics & Philosophy (Discontinued, GPA 3.68/4.00), *UC Berkeley* (2015-2016) {.r}
 
-Philosophy of Mind (A), *Philosophy* (2016)
+Philosophy of Mind, *Philosophy* (A, 2016)
 
-Calculus (A+), *Mathematics* (2015-2016)
+Calculus, *Mathematics* (A+, 2015-2016)
 
-Intermediate Logic (A-), *Philosophy* (2016)
+Intermediate Logic, *Philosophy* (A-, 2016)
 
-Introduction to Logic (A+), *Philosophy* (2015)
+Introduction to Logic, *Philosophy* (A+, 2015)
 
-Astronomy Seminar (A), *Physics*(2015)
+Astronomy Seminar, *Physics* (A, 2015)
 
 *Philosophy of Mind essays*: 
 
