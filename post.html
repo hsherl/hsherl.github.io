@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="$lang$" xml:lang="$lang$"$if(dir)$ dir="$dir$"$endif$>
+<head>
+  <meta charset="utf-8">
+  <title>$title$ &middot; Henrik Sherling</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+  <meta name="description" content="">
+  <link rel="shortcut icon" href="nu.ico" type="image/x-icon">
+$for(author-meta)$
+  <meta name="author" content="$author-meta$"/>
+$endfor$
+$if(date-meta)$
+  <meta name="dcterms.date" content="$date-meta$" />
+$endif$
+$if(keywords)$
+  <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
+$endif$
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+$for(css)$
+  <link rel="stylesheet" href="$css$" />
+$endfor$
+$if(math)$
+  $math$
+$endif$
+</head>
+<body>
+    <div id="shell" class="r">
+        <div id="masthead">
+        <span class="c_minor">Henrik Sherling</span>
+        <ul id="nav" class="nav">
+          <li class="inactive"><a href="index.html">Home</a></li>
+          <li class="inactive"><a href="projects.html">Projects</a></li>
+          <li class="inactive"><a href="contact.html">Contact</a></li>
+        </ul>
+        </div>
+        <img src="imgs/suit-profile.jpg" class="i">
+        $body$
+        <div id="footer"></div>
+  </div>
+  <p></p>
+</body>
+</html>
