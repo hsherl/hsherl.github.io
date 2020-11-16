@@ -3,7 +3,7 @@ output:
   html_document:
     template: "post.html"
     css: "style.css"
-    keep_md: true
+    keep_md: false
     self_contained: false
 title: "Resumé"
 author: Henrik Roeed Sherling
@@ -34,7 +34,7 @@ I am currently on the lookout for a job. You can find my work experience and edu
 
 ## Product Analyst, *curalens.ai* (2020-) {.r}
 
-I analysed therapy transcripts and thence testing data and classifiers for a machine learning algorithm that will perform mental health assessments. 
+I analysed therapy transcripts and thence made testing data and classifiers for a machine learning algorithm that will perform mental health assessments. 
 
 ## Strategy Consultant, *EDeeU Education* (2019-) {.r}
 
