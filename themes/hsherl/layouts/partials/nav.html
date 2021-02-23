@@ -1,0 +1,17 @@
+<nav class="nav">
+  {{ $currentPage := . }}
+  <!-- <a href="{{ "/" | relURL }}" class="nav-logo">
+    <img src="{{ print "images/" .Site.Params.logo.url | relURL }}"
+         width="{{ .Site.Params.logo.width }}"
+         height="{{ .Site.Params.logo.height }}"
+         alt="{{ .Site.Params.logo.alt }}">
+  </a> -->
+
+  <a href="{{ "/" | relURL }}" class="nav-name">{{ .Site.Title }}</a>
+
+  <ul class="nav-links inactive">
+    {{ range .Site.Menus.main }}
+        <li><a {{ if eq $currentPage.URL .URL }}class="active"{{end}} href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+</nav>

@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+<main class="content" role="main">
+
+  <article class="article">
+	 <img src="../../images/suit-profile.jpg" class="i">
+    <div class="article-content">
+      {{ .Content }}
+    </div>
+  </article>
+
+  {{ partial "disqus.html" .}}
+
+</main>
+
+<!-- {{ partial "footer.html" . }} -->
