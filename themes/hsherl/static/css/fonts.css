@@ -52,7 +52,6 @@ p, ul ol, li, a, sup, sub, tr, td {
 }
 
 p {
-	
 	margin: 1em auto 1em;
 	font-size: 15px;
 	font-weight:500;
@@ -229,6 +228,16 @@ th {
 	font-family:"Roboto", "Helvetica","HelveticaNeue-CondensedBold","Helvetic Neue Condensed Bold","HelveticaNeue-Bold","Helvetica Neue Bold","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
 	padding:7px;
 	font-size:17px;
+}
+
+ul {
+  margin-left: 9px;
+  padding-left: 9px;
+}
+
+ol {
+  margin-left: 10px;
+  padding-left: 10px;
 }
 
 ul.ind {
