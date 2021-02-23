@@ -291,7 +291,7 @@ article.article {
   margin-left: 2px;
 }
 
-@media (min-width: 450px) {
+@media (max-width: 450px) {
 	.i {
 		float: right;
 		margin: 4px 0px 4px 20px;
@@ -301,21 +301,35 @@ article.article {
 		height: 120px;
 	}
 	.nav-name {
-	  float: left;
-	  font-weight: 500;
-	  font-size: 20px;
+    display:block;
 		text-align: center;
 	  font-weight: lighter;
-	  padding: 0 0 2px 0;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
 		color:#333;
 		-webkit-font-smoothing:antialiased;
+    width: 100%;
 	}
 	nav.nav {
-	  max-width: 600px;
-	  margin: 10px auto;
-	  text-align: right;
-	  padding: 10px 30px;
+	  margin-bottom: 30px;
+	  padding-bottom: 30px;
 	}
+  .nav-links {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 2px;
+    padding-top: 2px;
+    margin-right: auto;
+    margin-left: 0;
+    padding-right: auto;
+    padding-left: 0;
+  }
+  .nav-links li:last-child a {
+    padding-right: 5px;
+    margin-right: auto;
+  }
+
 }
 
 @media (min-width: 600px) {
