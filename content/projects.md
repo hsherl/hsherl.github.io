@@ -4,12 +4,13 @@ title: Projects
 layout: "front"
 ---
 
-Here are some of my completed projects:
+Recent projects:
 
 - [Philosophy of Mental Disorder Discussion Group](https://philosophyofmentaldisorder.github.io/);
 - Epistemology of Peer Disagreement Reading Group;
 - Alexander Bogdanov Reading Group;
 - Refereeing papers for [Dialexicon](https://www.dialexicon.org);
+- Translating papers from English to Norwegian for [Practical Health Psychology](https://practicalhealthpsychology.com);
 - Presentation for King’s College London Psychiatry Society Journal Club;
 - For St. Swithun’s School:
   - Zoom presentation on the philosophy of language;
