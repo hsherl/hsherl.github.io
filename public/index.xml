@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henrik Sherling</title>
+    <link>https://hsherl.github.io/</link>
+    <description>Recent content on Henrik Sherling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hsherl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://hsherl.github.io/contact/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsherl.github.io/contact/</guid>
+      <description>You can reach me at hsherling @ gmail dot com or come to my office hours any Monday or Wednesday from 16:00 to 17:00 (GMT+00) — if I’m not there, I’ll pop in as soon as I see the email notification that you have joined. I am on Twitter too, though I don’t check it very often.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://hsherl.github.io/projects/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsherl.github.io/projects/</guid>
+      <description>Here are some of my completed projects:
+ Philosophy of Mental Disorder Discussion Group; Epistemology of Peer Disagreement Reading Group; Alexander Bogdanov Reading Group; Refereeing papers for Dialexicon; Presentation for King’s College London Psychiatry Society Journal Club; For St. Swithun’s School:  Zoom presentation on the philosophy of language; Zoom presentation on the epistemology of peer disagreement; Video presentation on the philosophy of science; BMAT group practice sessions; and Oxbridge interview practice sessions;   Lecture on skepticism for Hinchley Wood School; and Co-writing Dark Matter and Dark Energy Lecture Notes for the 2019-2020 7CCP4935 module at King’s College London.</description>
+    </item>
+    
+    <item>
+      <title>Resumé</title>
+      <link>https://hsherl.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsherl.github.io/resume/</guid>
+      <description>I am currently on the lookout for a job. You can find my work experience and education below. Get in touch if you are interested in working with me. PDF version of my resumé is available here. Last updated: November 15th, 2020.
+Work experience Product Analyst, curalens.ai (2020-) I analysed therapy transcripts and thence made testing data and classifiers for a machine learning algorithm that will perform mental health assessments.</description>
+    </item>
+    
+  </channel>
+</rss>
