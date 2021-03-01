@@ -3,6 +3,10 @@ date: "2020-11-24"
 title: Projects
 ---
 
+![Sunset at Storavatnet](/img/storavatnet.jpeg)
+
+Dusk at Storavatnet.
+
 Here are some things I have worked on lately:
 
 - Refereed philosophy papers for [Dialexicon Journal](https://www.dialexicon.org)
