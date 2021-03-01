@@ -5,7 +5,7 @@ title: Projects
 
 ![Sunset at Storavatnet](/img/storavatnet.jpeg)
 
-Dusk at Storavatnet.
+Sunset at Storavatnet.
 
 Here are some things I have worked on lately:
 
