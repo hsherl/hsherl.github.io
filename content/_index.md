@@ -8,4 +8,4 @@ layout: "single"
 
 Sunrise in Tasta.
 
-I recently graduated with an MSci in Physics and Philosophy from King’s College London. I’m currently tutoring philosophy for a living. I am looking for other work, particularly if it involves philosophy, writing, or teaching. [Contact me](/contact) if you have a relevant opportunity.
+I recently graduated with an MSci in Physics and Philosophy from King’s College London. I’m currently tutoring philosophy and mathematics for a living. I am looking for other work, particularly if it involves philosophy, writing, or teaching. [Contact me](/contact) if you have a relevant opportunity.
