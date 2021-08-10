@@ -25,9 +25,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 #     url = "/post/"
 #     weight = 3
 [[menu.main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "/contact/"
+    name = "About"
+    identifier = "about"
+    url = "/about/"
     weight = 4
 
 [params]
