@@ -1,7 +1,7 @@
 baseurl = "https://hsherl.github.io/"
 publishDir = "docs"
 languageCode = "en-us"
-title = "Henrik Sherling"
+title = "Henrik Røed Sherling"
 theme = "hsherl"
 googleAnalytics = ""
 disqusShortname = ""
