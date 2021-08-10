@@ -8,4 +8,4 @@ layout: "single"
 
 Sunrise in Tasta.
 
-I recently graduated with an MSci in Physics and Philosophy from King’s College London. I’m currently tutoring philosophy and mathematics for a living. I am looking for other work, particularly if it involves philosophy, writing, or teaching. [Contact me](/contact) if you have a relevant opportunity.
+I have an MSci in Physics and Philosophy from King’s College London. I am currently training to teach science and physics in secondary schools. I tutor mathematics, physics, and philosophy on the side. I am also part of the training team at [The Philosophy Foundation](https://www.philosophy-foundation.org/training-team). 
