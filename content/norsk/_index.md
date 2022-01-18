@@ -4,6 +4,8 @@ title: "Norsk VG2"
 layout: "single"
 ---
 
-# Veke 3
+## VG2 2022
 
-Denne veka byrjar me med [renessansen](/norsk/norsk-3.html). 
+### Veke 3
+
+Denne veka byrjar me med [renessansen](/norsk/vg2/renessansen1.html). Me går tilbake til kjeldene («ad fontes») og set mennesket i fokus. Essayet og romanen blei til her. 
