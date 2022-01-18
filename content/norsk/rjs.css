@@ -1,0 +1,66 @@
+.reveal ol,
+.reveal dl,
+.reveal ul {
+	margin-left: 20px;
+	padding-left: 20px;
+}
+
+.reveal ol,
+.reveal dl,
+.reveal ul,
+.reveal blockquote {
+	font-size: 20px;
+	font-weight: 400;
+	display: block;
+	text-align: left;
+	margin: 15px auto 15px 15px; 
+	line-height: 1.25;
+}
+.reveal p {
+	font-size: 20px;
+	font-weight: 400;
+	display: block;
+	text-align: left;
+	margin: 15px auto 15px 15px; 
+	line-height: 1.25;
+}
+
+.reveal blockquote {
+	margin: 20px;
+	width: auto;
+	text-align: left;
+	font-family: inherit;
+	background: inherit;
+	font-style: italic;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+	text-align: left;
+	font-weight: 400;
+	line-height: 1.25;
+	margin: 10px auto 10px 15px;
+}
+
+.reveal h1 { font-size: 32px; }
+.reveal h2 { font-size: 28px; }
+.reveal h3 { font-size: 24px; }
+.reveal h4 { font-size: 22px; }
+
+.reveal .csl-entry {
+	font-size: 20px;
+	font-weight: 400;
+	display: block;
+	text-align: left;
+	margin: 15px auto 15px 15px; 
+	line-height: 1.25;
+}
+
+.reveal img, img {
+	display:inline-block;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
