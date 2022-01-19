@@ -8,4 +8,4 @@ layout: "single"
 
 ### Veke 3
 
-Denne veka byrjar me med [renessansen](/norsk/vg2/renessansen1.html). Me går tilbake til kjeldene («ad fontes») og set mennesket i fokus. Essayet og romanen blei til her. 
+Denne veka byrjar me med [renessansen](/norsk/vg2/renessansen1.html). Me går tilbake til kjeldene («ad fontes») og set menneskets kropp og sinn i fokus. 
