@@ -1,0 +1,90 @@
+---
+title: "Renessansen (Del 3)"
+author: "Veke 5"
+date: "2 februar, 2022"
+output:
+  revealjs::revealjs_presentation:
+    transition: slide
+    theme: white
+    highlight: espresso
+    center: true
+    self_contained: false
+    reveal_plugins: ["notes", "chalkboard"]
+    showNotes: true
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+    css: ../rjs.css
+# Tasks
+# TODO: p2
+# TODO: p3
+# TODO: p4
+---
+
+# Informasjon
+
+- **Epost**: hsherling@gmail.com. Alle tidsfristar og påminningar kjem frå denne eposten. 
+- **Nettside**: hsherl.github.io/norsk. Alle lysbilete finn du på denne nettsida. 
+- **Bok**: Intertekst VG2. All informasjonen du treng finst her. _Du må ta den med deg kvar gong_. 
+
+# Quiz
+
+## Del 1
+
+1. Johann Gutenberg er kjend for
+	1. boktrykkarkunsten
+	2. bibelomsetting
+	3. reformasjonen
+2. Boktrykkarkunsten førte til
+	1. at bøker blei dyre og berre var tilgjengelege for dei rike
+	2. at bøker kunne trykkjast i mange eksemplar og spreiast til nye samfunnsgrupper
+	3. at bibliotek blei oppretta
+3. Martin Luther er kjend for å ha
+	1. funne opp boktrykkarkunsten
+	2. skrive den første tyske romanen
+	3. kritisert pavekyrkja
+
+## Del 2
+
+4. Reformasjonen førte til
+	1. at språket i kyrkja ikkje lenger var latin
+	2. at folk slutta å gå i kyrkja
+	3. at prestane fekk auka makt i samfunnet
+5. Noreg på 1500-talet var
+	1. ein rik og mektig stat
+	2. i union med Danmark
+	3. i kulturell og økonomisk vekst
+6. Absalon Pederssøn Beyer var
+	1. ein prest som skreiv salmar
+	2. opptatt av norsk historie, særleg vikingtida
+	3. den siste personen som døydde av svartedauden
+
+## Del 3
+
+7. Peder Clausson Friis er mest kjend for å ha
+	1. skrive Heimskringla
+	2. øydelagt fleire originale sagamanuskript
+	3. omsett Heimskringla frå norrønt til dansk
+8. Topografisk skildring er
+	1. tekstar som handlar om fjelltoppar
+	2. tekstar som skildrar både geografi og historie
+	3. tekstar som handlar om Gud og religion
+9. I renessansen vende ein blikket mot
+	1. mennesket
+	2. samfunnet
+	3. naturen
+
+# Renessansen: læremål
+
+>- snakke om synet på mennesket i renessansen og i vår tid
+>- forklare kva som ligg i omgrepet renessanse, og korleis denne kulturhistoriske epoken skil seg frå mellomalderen
+>- gjere greie for nokre trekk ved samfunnet og skriftkulturen i renessansen
+>- lese og tolke essay, romanutdrag og utdrag frå skodespel frå renessansen og sette desse inn i ein kulturhistorisk samanheng
+>- **drøfte korleis form og tematikk i essay frå renessansen er relevant også i dag**
+>- **drøfte korleis tematikken i nokre utdrag frå romanar og skodespel frå renessansen har betydning for oss i dag**
+
+# Lesing og tolking
+
+# Renessansen i dag
+
+> Renessansen er porten til oss selv og vår egen tid. Der begynner vårt eventyr: Mennesket som tar tilværelsen i sine egne hender. (André Bjerke)
