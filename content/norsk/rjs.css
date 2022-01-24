@@ -39,11 +39,11 @@
 }
 
 .reveal li ol {
-	margin: 0 auto 0 0;
+	margin: 0 auto 0 22px;
 }
 
 .reveal li ul {
-	margin: 0 auto 0 0;
+	margin: 0 auto 0 15px;
 }
 
 .reveal p {
