@@ -8,7 +8,7 @@ layout: "single"
 
 ### Veke 4
 
-Denne veka fortset me med renessansen ([del 2](/norsk/vg2/renessansen2.html)). 
+Denne veka fortset me med renessansen ([del 2](/norsk/vg2/renessansen2.html)). Me sjår på dei mest kjende forfattarane frå tida, både frå Europa og frå Noreg. 
 
 ### Veke 3
 
