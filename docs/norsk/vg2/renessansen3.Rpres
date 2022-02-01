@@ -1,19 +1,23 @@
 ---
-title: "Renessansen (Del 3)"
+title: "Renessansen (siste del)"
 author: "Veke 5"
-date: "2 februar, 2022"
-output:
+date: "26 januar, 2022"
+output: 
+#   bookdown::html_document2: default
   revealjs::revealjs_presentation:
     transition: slide
     theme: white
     highlight: espresso
     center: true
     self_contained: false
-    reveal_plugins: ["notes", "chalkboard"]
+    reveal_plugins: ["notes", "chalkboard", "zoom", "menu"]
     showNotes: true
     reveal_options:
       slideNumber: true
       previewLinks: true
+    chalkboard:
+      theme: whiteboard
+      toggleNotesButton: false
     css: ../rjs.css
 # Tasks
 # TODO: p2
@@ -23,9 +27,9 @@ output:
 
 # Informasjon
 
-- **Epost**: hsherling@gmail.com. Alle tidsfristar og påminningar kjem frå denne eposten. 
-- **Nettside**: hsherl.github.io/norsk. Alle lysbilete finn du på denne nettsida. 
-- **Bok**: Intertekst VG2. All informasjonen du treng finst her. _Du må ta den med deg kvar gong_. 
+- **Epost**: [h.sherling@wlc.ac.uk](mailto:h.sherling@wlc.ac.uk). Alle tidsfristar og påminningar kjem frå denne eposten. 
+- **Nettside**: [hsherl.github.io/norsk](https://hsherl.github.io/norsk). Alle lysbilete finn du på denne nettsida. 
+- **Google Classroom**: dokker har fått invitasjon av Alex Hallawell på skolemailen. Dokker har ansvar for å sjekke her kvar måndag og kvar torsdag. 
 
 # Quiz
 
@@ -61,55 +65,62 @@ output:
 
 ## Del 3
 
-7. Peder Clausson Friis er mest kjend for å ha
-	1. skrive Heimskringla
-	2. øydelagt fleire originale sagamanuskript
-	3. omsett Heimskringla frå norrønt til dansk
-8. Topografisk skildring er
+7. Topografisk skildring er
 	1. tekstar som handlar om fjelltoppar
 	2. tekstar som skildrar både geografi og historie
 	3. tekstar som handlar om Gud og religion
-9. I renessansen vende ein blikket mot
+8. I renessansen vende ein blikket mot
 	1. mennesket
 	2. samfunnet
 	3. naturen
 
-# Renessansen: læremål
+# Kva er ein god tekst?
 
->- snakke om synet på mennesket i renessansen og i vår tid
->- forklare kva som ligg i omgrepet renessanse, og korleis denne kulturhistoriske epoken skil seg frå mellomalderen
->- gjere greie for nokre trekk ved samfunnet og skriftkulturen i renessansen
->- lese og tolke essay, romanutdrag og utdrag frå skodespel frå renessansen og sette desse inn i ein kulturhistorisk samanheng
->- **drøfte korleis form og tematikk i essay frå renessansen er relevant også i dag**
->- **drøfte korleis tematikken i nokre utdrag frå romanar og skodespel frå renessansen har betydning for oss i dag**
+<aside class='notes'>
+1. Ein god tekst har eit formål: 
+	1. Det formålet kan vere å finne ein sannheit. 
+	2. Eller det kan vere å få ein god karakter. 
+	3. Eller det kan vere å overtyde meg om noko. 
+2. Den oppnår dette formålet med bruk av retoriske knep: 
+	1. Etos 
+	2. Patos 
+	3. Logos
+	4. Kairos: evnen til å bruke dei andre knepa til rett tid. 
+3. Kva har halebein, blindtarm, gåsehud, visdomstenner, og den blinde flekken til felles? 
+	1. Dei har ingen funksjon i menneskekroppen. 
+	2. Dei er rester frå evolusjonen. 
+4. Ikkje gi plass til ein blindtarm i teksten din. 
+5. Du må både visa og seie. Bruk eksemplar. 
+</aside>
 
-# Lesing og tolking
+# Skriveoppgåve 1
 
-# Renessansen i dag
+## Rammeverk: 
 
-## Større oppgåver
+1. Velg én oppgave. 
+2. Tittelen skal være «Oppgave 1: \_\_\_\_\_» dersom du velger oppgave 1. Du kan velge resten av tittelen selv. 
+3. Skriv en tekst som svarer på hele oppgavebeskrivelsen. 
+4. Teksten skal være mellom 3 og 5 sider med Times New Roman, skriftstørrelse 12, linjeavstand 1,2. 
+5. Nettressurser, lærebok, og egne notater kan brukes fritt så lenge kilder blir oppgitt. 
 
-> Renessansen er porten til oss selv og vår egen tid. Der begynner vårt eventyr: Mennesket som tar tilværelsen i sine egne hender. (André Bjerke) Diskuter! 
+## Forbud: 
 
-::: nonincremental
+1. Ingen snakking, teksting, eller annen form for samarbeid. 
+2. Ingen bruk av telefon. Telefon skal alltid ligge på pulten, alltid synlig for lærer, med skjermen ned. 
+3. Plagiat betyr stryk. 
+4. Alle må sitte til 16:45. 
 
-3. Snakk saman om kva for bilde Leonardo da Vinci, Michel de Montaigne, Miguel de Cervantes og William Shakespeare gir av mennesket ut frå det inntrykket dokker har fått av dei. Er nokon av desse tankane også typiske for korleis vi ser på mennesket i dag?
-5. Repeter det du har lært om François Rabelais og Miguel de Cervantes i dette kapittelet. Les også kronikken «Satire er i ferd med å bli et maktspråk» av Markus Gaupås Johansen i tekstsamlinga.
-    1. Kva er humoristisk i romanane til Rabelais og Cervantes? Kva kan formålet med dei humoristiske skildringane vere?
-    2. Kven kritiserer Markus Gaupås Johansen i kronikken sin, og kva går kritikken ut på?
-    3. Trur du Johansen ville kritisert Rabelais og Cervantes for å bruke satire som eit maktspråk? Grunngje svaret ditt.
-    4. Gjer humor oss meir eller mindre kritiske, slik du ser det?
+## Velg én oppgave:
 
-:::
+1. «Renessansen er porten til oss selv og vår egen tid. Der begynner vårt eventyr: Mennesket som tar tilværelsen i sine egne hender.» (André Bjerke) **Skriv en fagtekst** om Bjerke sitt utsagn: 
+	1. Hvorfor sier han at “renessansen er porten til oss selv og vår egen tid”? 
+	2. Hva betyr det at mennesket «tar tilværelsen i sine egne hender»? 
+	3. Er det sant? Hvorfor/hvorfor ikke? 
 
-## Skriveoppgåver
+2. Sammenlign et renessansemenneske («renaissance woman/man») fra renessansen med noen som har blitt kalt et renessansemenneske i dag. **Skriv en fagtekst** som diskuterer disse spørsmålene: 
+	1. Hva er et renessansemenneske? 
+	2. Hva må til for å bli et renessansemenneske? 
+	3. Hvorfor er renessansemennesket et forbilde? 
+	4. Er det er forbilde for deg? Hvorfor/hvorfor ikke?  
 
-::: nonincremental
-
-6. I tekstsamlinga finn du to samtidstekstar som har ein skrivestil og forteljemåte som er typisk for essaysjangeren: Karl Ove Knausgårds «Munn» og Oliver Madlands «Naivistisk med fargelegging». Les dei to tekstane. Skriv ein kort tekst (250–500 ord) der du summerer opp kva inntrykk du får av ein essayistisk skrivestil etter å ha lese tekstane.
-7. Vel ei av oppgåvene nedanfor, og skriv ein kort tekst (250–500 ord) med nokre essayistiske trekk. (På vg3 skal du lære å skrive eit fullstendig essay.)
-    1. La deg inspirere av Karl Ove Knausgårds tekst «Munn» i tekstsamlinga, og skriv ein tekst om ein kroppsdel. Teksten din skal innehalde to eller fleire av desse elementa: eit minne du har knytt til denne kroppsdelen, eit sitat, ein kontrast eller ein metafor.
-    2. «All the world’s a stage» seier ein av karakterane i Shakespeare-stykket As you like it. Skriv ein tekst om korleis menneske i dag nyttar sosiale medium, med dette Shakespeare-sitatet som overskrift. 
-8. Vel ein tekst frå renessansen i tekstsamlinga, for eksempel utdraget frå Cervantes’ Don Quijote eller Montaignes essay «Om lukter». Skriv ein fagtekst der du først set denne teksten inn i ein kulturhistorisk samanheng, og deretter drøftar om teksten er relevant for oss i dag. Bruk gjerne skrivekurset i kapittel 5.
-
-:::
+3. **Skriv en kreativ tekst** med renessansetematikk. Du kan for eksempel skrive et tragisk drama, en satirisk novelle, eller et kreativt essay som setter mennesket i sentrum og som bruker kreativ skrivestil. Du kan tolke dette som du vil, så lenge du tydelig knytter din tolkning til renessansen.  
