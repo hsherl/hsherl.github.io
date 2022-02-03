@@ -6,6 +6,10 @@ layout: "single"
 
 ## VG2 2022
 
+### Veke 5
+
+Denne veka har me [skriveoppgåve](/norsk/vg2/renessansen3.html). 
+
 ### Veke 4
 
 Denne veka fortset me med renessansen ([del 2](/norsk/vg2/renessansen2.html)). Me sjår på dei mest kjende forfattarane frå tida, både frå Europa og frå Noreg. 
