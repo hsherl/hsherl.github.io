@@ -1,7 +1,7 @@
 ---
 title: "Renessansen (siste del)"
 author: "Veke 5"
-date: "26 januar, 2022"
+date: "02 februar, 2022"
 output: 
 #   bookdown::html_document2: default
   revealjs::revealjs_presentation:
@@ -113,7 +113,7 @@ Korfor skriv me?
 1. Velg én oppgave. 
 2. Tittelen skal være «Oppgave 1: \_\_\_\_\_» dersom du velger oppgave 1. Du kan velge resten av tittelen selv. 
 3. Skriv en tekst som svarer på hele oppgavebeskrivelsen. 
-4. Teksten skal være mellom 3 og 5 sider med Times New Roman, skriftstørrelse 12, linjeavstand 1,2. 
+4. Teksten skal være mellom 2 og 5 sider med Times New Roman, skriftstørrelse 12, linjeavstand 1,2. 
 5. Nettressurser, lærebok, og egne notater kan brukes fritt så lenge kilder blir oppgitt. 
 
 ## Forbud: 
