@@ -1,5 +1,5 @@
 ---
-title: "Barokken og Opplysningstida"
+title: "Barokken"
 author: "Veke 6"
 date: "09 februar, 2022"
 output: 
