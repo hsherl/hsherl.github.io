@@ -6,6 +6,10 @@ layout: "single"
 
 ## VG2 2022
 
+### Veke 6
+
+Denne veka byrjar me med [barokken](/norsk/vg2/barokken.html). 
+
 ### Veke 5
 
 Denne veka har me [skriveoppgåve](/norsk/vg2/renessansen3.html). 
