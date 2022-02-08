@@ -1,0 +1,29 @@
+---
+title: "Opplysningstida"
+author: "Veke 8"
+date: "23 februar, 2022"
+output: 
+  revealjs::revealjs_presentation:
+    transition: slide
+    theme: white
+    highlight: espresso
+    center: true
+    self_contained: false
+    reveal_plugins: ["notes", "chalkboard", "zoom", "menu"]
+    showNotes: true
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+    chalkboard:
+      theme: whiteboard
+      toggleNotesButton: false
+    css: ../rjs.css
+---
+
+# Informasjon
+
+- **Epost**: [h.sherling@wlc.ac.uk](mailto:h.sherling@wlc.ac.uk). Alle tidsfristar og påminningar kjem frå denne eposten. 
+- **Nettside**: [hsherl.github.io/norsk](https://hsherl.github.io/norsk). Alle lysbilete finn du på denne nettsida. 
+- **Google Classroom**: dokker har fått invitasjon av Alex Hallawell på skolemailen. Dokker har ansvar for å sjekke her kvar måndag og kvar torsdag. 
+
+# Klaging og retting

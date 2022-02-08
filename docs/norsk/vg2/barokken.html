@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Veke 6" />
+  <title>Barokken og Opplysningstida</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="barokken_files/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+
+<link rel="stylesheet" href="barokken_files/reveal.js-3.3.0.1/css/theme/white.css" id="theme">
+
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal .slide-menu-button {
+      left: 105px !important;
+    }
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+    <link rel="stylesheet" href="../rjs.css"/>
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+    <script src="barokken_files/header-attrs-2.11.3/header-attrs.js"></script>
+    <link href="barokken_files/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+    <link href="barokken_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">Barokken og Opplysningstida</h1>
+    <h2 class="author">Veke 6</h2>
+    <h3 class="date">09 februar, 2022</h3>
+</section>
+
+<section id="informasjon" class="title-slide slide level1">
+<h1>Informasjon</h1>
+<ol type="1">
+<li><strong>Google Classroom</strong></li>
+<li><strong>Nettside</strong>: <a href="https://hsherl.github.io/norsk">hsherl.github.io/norsk</a>.</li>
+<li><strong>Epost</strong>: <a href="mailto:h.sherling@wlc.ac.uk">h.sherling@wlc.ac.uk</a>.</li>
+</ol>
+</section>
+
+<section>
+<section id="tilbakemelding" class="title-slide slide level1">
+<h1>Tilbakemelding</h1>
+<aside class="notes">
+<ul>
+<li>Har alle lest tilbakemeldingen og karakteren sin?</li>
+</ul>
+</aside>
+</section>
+<section id="kreativ-tekst" class="slide level2">
+<h2>Kreativ tekst</h2>
+</section>
+<section id="porten-til-oss-sjølv" class="slide level2">
+<h2>Porten til oss sjølv</h2>
+</section>
+<section id="renessansemennesket" class="slide level2">
+<h2>Renessansemennesket</h2>
+<aside class="notes">
+<ul>
+<li>Kven er det eit forbildet for?</li>
+</ul>
+</aside>
+</section></section>
+<section id="neste-prøve" class="title-slide slide level1">
+<h1>Neste prøve</h1>
+<p>Korleis skal vi gjere det med neste prøve?</p>
+</section>
+
+<section>
+<section id="barokken-1500-1700" class="title-slide slide level1">
+<h1>Barokken (1500-1700)</h1>
+<aside class="notes">
+<p>Kva, kvar og når?</p>
+<p>Ordet barokk kjem frå portugisisk og betyr stygg, uregelmessig perle. Opphavleg var nemleg barokken ei nedsettande nemning som ettertida brukte om kunsten på 1600-talet. Ein syntest han var overlessa og usmakeleg, og det var ikkje før langt ut på 1800-talet at barokken fekk den statusen han har i kunsthistoria i dag. Det opphavleg negative ordet blir nå brukt som eit nøytralt namn på epoken.</p>
+<p>Her vel vi å bruke ordet som merkelapp på 1600-talet i kontrast til renessansen på 1500-talet og klassisismen og opplysningstida på 1700-talet. Men kulturhistoria kan avgrensast på ulike måtar. I aller vidaste forstand er barokken ein epoke som strekker seg over to hundre år, frå slutten av 1500-talet til slutten av 1700-talet. Ein slik vid definisjon omfattar dei fleste europeiske landa og inkluderer både arkitektur, skulptur, måleri, litteratur og musikk.</p>
+<p>I barokken såg mange på tilværet som ustabilt, og dette blei spegla i kunsten. Det typisk barokke kunstverket skal ikkje berre vekke nyting eller frykt, men også vise seg sjølv fram som kunst. Bygningar og kunstverk er gjerne utforma slik at vi først blir lurt av illusjonen, og deretter lar oss imponere av at vi har blitt lurt. Verda er ikkje slik vi trur, seier desse kunstverka kanskje til oss. Eit eksempel ser du i takmåleriet nedanfor. Ved første augekast er det ikkje lett å sjå om alle vindauga, søylene og utsmykkingane er ein del av bygninga, eller om dei er måla av kunstnaren</p>
+Vi kan si at autoritetene igjen overtok styringen, både på det religi- øse og det verdslige området, og det oppstod en sterk autoritetsdyrkel- se. Dette var en urolig tid i Europa, med kriger og religiøse forfølgelser, blant annet gjennom hekseprosessene. Fyrster og konger fikk stor politisk makt, og eneveldets tid begynte.
+</aside>
+</section>
+<section id="tidslinje" class="slide level2">
+<h2>Tidslinje</h2>
+<ul>
+<li>Middelalderen (hele Europa): 500-1500</li>
+<li>Renessansen (Italia, Tyskland, Frankrike): 1350-1500</li>
+<li>Barokken (hele Europa): 1595-1700 (<strong>1600-tallet!</strong>)
+<ul>
+<li>Tidligbarokken: hvem vet…</li>
+<li>Høybarokken: 1630-1665</li>
+<li>Senbarokken: 1665-1730</li>
+</ul></li>
+<li>Opplysningtiden (hele Europa):</li>
+</ul>
+</section>
+<section id="stikkord" class="slide level2">
+<h2>Stikkord</h2>
+<ul>
+<li>Følelser, kontraster, flyktig</li>
+<li>Carpe diem</li>
+<li>Memento mori (hovudskallemotiv)</li>
+<li>Jammerdalisme</li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Flyktig = skiftende</li>
+<li>Hovudskallemotivet er ein allegori. Ein allegori skildrar abstrakte omgrep gjennom konkrete gjenstandar. Er ein allegori ein metafor?</li>
+</ul>
+</aside>
+</section>
+<section id="språkstil" class="slide level2">
+<h2>Språk/stil</h2>
+<blockquote>
+<p>Jeg må også avbryte, og ta avskjed, og ønsker av mitt innerste hjertes recess og grunn min høytærede og høytestimerte madam en snar og hastig oppkomst, restitusjon og forbedring, i like måte, at den kjære livsfrukt, som himlens godhet har velsignet henne med, den lille deilige første plante, som er satt i hennes urtegård, må oppvokse og framspire de kjære foreldre til glede, contentement og fornøyelse (Holberg 1700, Barselstuen)</p>
+</blockquote>
+</section></section>
+<section>
+<section id="litteratur" class="title-slide slide level1">
+<h1>Litteratur</h1>
+
+</section>
+<section id="dikting" class="slide level2">
+<h2>Dikting</h2>
+<ul>
+<li><strong>Leilighetsdikting</strong> (nn: høvesdikting)</li>
+<li>Topografisk dikting</li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Det gjaldt særleg <strong>høvesdikting</strong>, som var høgtidelege eller festlege dikt skrivne til bestemte anledningar.</li>
+<li><strong>Topografisk dikting</strong> beskriv geografiske stader, og dette var også ein sjanger i vekst.</li>
+<li>Uavhengig av tema, sjanger og formål blei diktinga sett på som eit handverk ein kunne utføre, og den viktigaste reiskapen for handverkaren var retorikken.</li>
+<li>Danske Thomas Kingo (1634–1703), som du møtte i innleiinga til dette kapittelet, var kanskje den fremste blant salmediktarane i Norden.</li>
+<li>Nå skal du bli kjent med to norske diktarar: Dorothe Engelbretsdatter og Petter Dass.</li>
+</ul>
+</aside>
+</section>
+<section id="dorothe-engelbretsdatter-16341716" class="slide level2">
+<h2>Dorothe Engelbretsdatter (1634–1716)</h2>
+<aside class="notes">
+<ul>
+<li>Jammerdal</li>
+</ul>
+</aside>
+</section>
+<section id="petter-dass-1647-1707" class="slide level2">
+<h2>Petter Dass (1647-1707)</h2>
+<blockquote>
+<p>Gud er Gud, om alle Land Laa øde / Gud er Gud om alle Mand Var døde […].</p>
+</blockquote>
+</section>
+<section id="oppsummering" class="slide level2">
+<h2>Oppsummering</h2>
+<div>
+<ul>
+<li class="fragment">Stilretningen oppstod i Italia på slutten av 1500–tallet</li>
+<li class="fragment">Spredte seg raskt over hele Europa</li>
+<li class="fragment">1600–tallet: voldsomme politiske, religiøse og økonomiskes omveltninger</li>
+<li class="fragment">Mange kriger herjet</li>
+<li class="fragment">Folk fryktet av livet var et spill, at tilværelsen var tømt for mening</li>
+<li class="fragment">Døden ble et yndet motiv i kunsten.</li>
+<li class="fragment">Frykten for at døden var uten innhold, gjorde at de klamret seg til Gud</li>
+<li class="fragment">Reaksjon mot renessansen</li>
+</ul>
+</div>
+</section></section>
+<section>
+<section id="kunst" class="title-slide slide level1">
+<h1>Kunst</h1>
+
+</section>
+<section id="renessansen-david" class="slide level2">
+<h2>Renessansen: David</h2>
+</section>
+<section id="barokken-tereas-ekstase" class="slide level2">
+<h2>Barokken: Tereas ekstase</h2>
+<p><img data-src="../img/ecstasy.jpeg" /></p>
+</section>
+<section id="barokken-teresas-ekstase" class="slide level2">
+<h2>Barokken: Teresas ekstase</h2>
+<p><img data-src="../img/ecstasy-zoom.png" /></p>
+</section>
+<section id="caravaggio-renessansen-eller-barokken" class="slide level2">
+<h2>Caravaggio: renessansen eller barokken?</h2>
+<p><img data-src="../img/carav.jpg" /></p>
+</section>
+<section id="altså" class="slide level2">
+<h2>Altså…</h2>
+<p><img data-src="../img/rpaint.png" /> <img data-src="../img/bpaint.png" /></p>
+</section></section>
+<section>
+<section id="mote" class="title-slide slide level1">
+<h1>Mote</h1>
+
+</section>
+<section id="renessansen" class="slide level2">
+<h2>Renessansen</h2>
+<p><img data-src="../img/fashion0ren.png" /></p>
+</section>
+<section id="barokken" class="slide level2">
+<h2>Barokken</h2>
+<p><img data-src="../img/fashion1.jpeg" /></p>
+</section>
+<section id="louis-xiv-14" class="slide level2">
+<h2>Louis XIV (14)</h2>
+<p><img data-src="../img/louisxiv.jpeg" /></p>
+</section>
+<section id="louis-xiv-14-1" class="slide level2">
+<h2>Louis XIV (14)</h2>
+<p><img data-src="../img/louisxiv2.webp" /></p>
+</section></section>
+<section>
+<section id="aritektur" class="title-slide slide level1">
+<h1>Aritektur</h1>
+
+</section>
+<section id="st-peters-baldachin" class="slide level2">
+<h2>St Peter’s Baldachin</h2>
+<p><img data-src="../img/baldaquin.jpeg" /></p>
+<aside class="notes">
+<ul>
+<li>St Peter’s Baldachin</li>
+<li>Tusener av pilgrimmer</li>
+</ul>
+</aside>
+</section>
+<section id="fresco" class="slide level2">
+<h2>Fresco</h2>
+<p><img data-src="../img/trompe.jpeg" /></p>
+<aside class="notes">
+<ul>
+<li>Illusjon skapt av gjenklang mellom arkitektur og maleri</li>
+</ul>
+</aside>
+</section>
+<section id="versaille" class="slide level2">
+<h2>Versaille</h2>
+<p><img data-src="../img/versaille1.jpg" /></p>
+</section>
+<section id="versaille-1" class="slide level2">
+<h2>Versaille</h2>
+<p><img data-src="../img/versaille2.jpg" /></p>
+</section>
+<section id="versaille-2" class="slide level2">
+<h2>Versaille</h2>
+<p><img data-src="../img/versaille3.jpg" /></p>
+</section></section>
+<section>
+<section id="musikk" class="title-slide slide level1">
+<h1>Musikk</h1>
+
+</section>
+<section id="bach" class="slide level2">
+<h2>Bach</h2>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/ho9rZjlsyYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</section>
+<section id="vivaldi" class="slide level2">
+<h2>Vivaldi</h2>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/DLDvbnK_Sqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</section>
+<section id="opera" class="slide level2">
+<h2>Opera</h2>
+<p><img data-src="../img/opera.png" /></p>
+</section></section>
+<section id="oppsummering-av-stiltrekk" class="title-slide slide level1">
+<h1>Oppsummering av stiltrekk</h1>
+<p>Pomp, prakt, snirklete, overdådig, større er bedre, kirken og Gud er tilbake i sentrum, følelser over fornuft, illusjon over virkelighet.</p>
+</section>
+    </div>
+  </div>
+
+  <script src="barokken_files/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="barokken_files/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+        // Display a presentation progress bar
+        progress: true,
+        // Display the page number of the current slide
+        slideNumber: true,
+        // Push each slide change to the browser history
+        history: true,
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+        // Enable the slide overview mode
+        overview: true,
+        // Vertical centering of slides
+        center: true,
+        // Enables touch navigation on devices with touch input
+        touch: true,
+        // Turns fragments on and off globally
+        fragments: true,
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+        // Opens links in an iframe preview overlay
+        previewLinks: true,
+        // Transition style
+        transition: 'slide', // none/fade/slide/convex/concave/zoom
+        // Transition speed
+        transitionSpeed: 'default', // default/fast/slow
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        menu: {
+   
+    
+    
+    
+    
+    
+    
+ 
+          custom: false,
+          themes: false,
+          transitions: false
+        },
+
+
+
+        chalkboard: {
+        },
+
+        keyboard: {
+          67: function() { RevealChalkboard.toggleNotesCanvas() },    // toggle notes canvas when 'c' is pressed
+          66: function() { RevealChalkboard.toggleChalkboard() }, // toggle chalkboard when 'b' is pressed
+          46: function() { RevealChalkboard.clear() },    // clear chalkboard when 'DEL' is pressed
+           8: function() { RevealChalkboard.reset() },    // reset chalkboard data on current slide when 'BACKSPACE' is pressed
+          68: function() { RevealChalkboard.download() }, // downlad recorded chalkboard drawing when 'd' is pressed
+        },
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'barokken_files/reveal.js-3.3.0.1/plugin/notes/notes.js', async: true },
+          { src: 'barokken_files/reveal.js-3.3.0.1/plugin/zoom-js/zoom.js', async: true },
+          { src: 'barokken_files/reveal.js-3.3.0.1/plugin/chalkboard/chalkboard.js', async: true },
+          { src: 'barokken_files/reveal.js-3.3.0.1/plugin/menu/menu.js', async: true },
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>
