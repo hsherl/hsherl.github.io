@@ -22,8 +22,8 @@ output:
 
 # Informasjon
 
-- **Epost**: [h.sherling@wlc.ac.uk](mailto:h.sherling@wlc.ac.uk). Alle tidsfristar og påminningar kjem frå denne eposten. 
-- **Nettside**: [hsherl.github.io/norsk](https://hsherl.github.io/norsk). Alle lysbilete finn du på denne nettsida. 
-- **Google Classroom**: dokker har fått invitasjon av Alex Hallawell på skolemailen. Dokker har ansvar for å sjekke her kvar måndag og kvar torsdag. 
+1. **Google Classroom**
+2. **Nettside**: [hsherl.github.io/norsk](https://hsherl.github.io/norsk). 
+3. **Epost**: [h.sherling@wlc.ac.uk](mailto:h.sherling@wlc.ac.uk). 
 
 # Klaging og retting
