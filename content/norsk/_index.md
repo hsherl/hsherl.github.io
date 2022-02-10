@@ -27,6 +27,8 @@ Veke 16: oppsummering og innhenting.
 - [ ] Framvisning 1
 - [ ] Framvisning 2
 
+Planen kan endre seg. 
+
 ### Veke 8 {#v11}
 
 Denne veka skal det handle om opplysningstida. Me kommer til å leggje ekstra vekt på denne tida, fordi den er kjelda til vår eigen måte å sjå på kunst- og idéhistorie. 
