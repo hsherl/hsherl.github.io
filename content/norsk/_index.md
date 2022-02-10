@@ -6,7 +6,7 @@ layout: "single"
 
 ## VG2 2022
 
-Oversyn: 
+**Oversyn**: 
 
 [Veke 3-4](#v4): **renessansen**.  
 [Veke 5](#v5): skriveoppgåve 1 (bokmål).  
@@ -19,7 +19,7 @@ Veke 14-15: påskeferie.
 Veke 15: **språkhistorie** og framvisningar.  
 Veke 16: oppsummering og innhenting. 
 
-Krav: 
+**Krav**: 
 
 - [x] Skriveoppgåve 1 (Bokmål)
 - [ ] Skriveoppgåve 1 (Bokmål)
