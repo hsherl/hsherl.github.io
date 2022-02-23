@@ -1,5 +1,5 @@
 ---
-title: "Opplysningstida"
+title: "Opplysningstida 1"
 author: "Veke 8"
 date: "23 februar, 2022"
 output: 
@@ -217,7 +217,7 @@ Kva får ordet «opplysning» deg til å tenke?
 # Kvar og når: 1700-talet
 
 - Byrjar med den **engelske revolusjonen** i 1688. 
-- Slutar med den **franske revolusjonen** i 1789.  
+- Slutar med den **franske revolusjonen** i 1789. 
 - 1700-talet var ein vekstperiode i Danmark-Noreg. 
 
 <aside class='notes'>
@@ -244,20 +244,22 @@ Kva får ordet «opplysning» deg til å tenke?
 
 > Kva er Wikipedia? Korfor blei det starta? Bruk 5 miutter på å finne ut korleis Wikipedia funkar. 
 
-## 
+## Diderot
+
+![](../img/encyclopedie-tools.jpeg)
 
 <aside class='notes'>
 - Internettrevolusjonen tok ikkje av før det nærma seg år 2000, men sjølve ideen om å samle all faktakunnskapen i verda er mykje eldre. I Europa kan vi seie at det starta i opplysningstida, og sentralt stod utviklinga av den franske encyklopedien. På 30 år kom det ut 35 bind av det store oppslagsverket. Leidd av forfattaren Denis Diderot (1713–1783) bidrog nesten 150 mann til gigantverket. Blant desse var nokre av dei fremste franske opplysningsfilosofane: Charles de Montesquieu (1689–1755), François-Marie Voltaire (1694–1778) og Jean-Jacques Rousseau (1712–1778).
 - Diderot organiserte encyklopedien alfabetisk som eit oppslagsverk. Innhaldet var dominert av beskrivande tekstar med faktaopplysningar. Mange vitskaplege nyvinningar, for eksempel den moderne spinnemaskinen, blei beskrivne på ein enkel måte. Men det fanst også meir vurderande og kommenterande tekstar, særleg om kunstnariske og filosofiske emne. Mange av desse artiklane er så subjektive og politiske at vi i dag vil tenke at dei bryt med leksikonsjangeren.​
 - Encyklopedien gir eit tydeleg inntrykk av det moderne verdsbildet til opplysningsfilosofane. Mange kjøpte det enorme oppslagsverket, og det betydde mykje for tilgangen til informasjon, særleg blant menneske med høgare utdanning.
-- "systematic dictionary of the sciences, arts and crafts"
+- Systematisk leksikon for vitenskapen, kunsten, og håndverken. 
 </aside>
 
 ## Aviser og tidsskrift
 
 <aside class='notes'>
 - Interessa for naturvitskap, filosofi og politikk førte ikkje berre med seg oppslagsverk og vitskaplege avhandlingar for spesielt interesserte. Etter kvart prega opplysninga større delar av samfunnet, og vi fekk fleire arenaer for diskusjonar om litteratur, kunst, politikk og vitskap. Ein viktig del av denne utviklinga var oppblomstringa av tidsskrift og aviser. I første omgang var innhaldet svært blanda, frå skandalehistorier og sladder til små avhandlingar om aktuelle saker. Det var først på 1800-talet avisene blei drivne av nyheiter.
-- Dei første avisane kom ut i 1665. 
+- Dei første avisane kom ut i 1665 under dei religiøse krigane. 
 </aside>
 
 ## Religiøst lesestoff og skolegang
@@ -272,7 +274,19 @@ Kva får ordet «opplysning» deg til å tenke?
 
 Kva er vår tid? 
 
+<aside class='notes'>
+1. Bruk kvart retoriske grep. 
+2. Samanlikn (både likheit og kontrast) vår tid med en epoke vi har snakt om. 
+3. Kva er ein typisk tekst i dag? 
+4. Kven er eit typisk førebilete i dag? 
+</aside>
+
 # Klaging og retting
+
+1. Fiks feil som eg har kommentert på i teksten din.  
+2. Skriv eit omtrent eit avsnitt på sluten av teksten med tittel «klage». 
+3. Der kan du seie korfor du syns du skal ha ein høgare karakter (eller, om du er gal, korfor du syns du skal ha lågare karakter…). 
+4. Dersom du har ordna opp i feil og argumentert godt, så skal du få ein betre karakter. 
 
 ## Skrivefristelser
 
@@ -282,7 +296,7 @@ Kva er vår tid?
 - Me må planlegge denne. 
 </aside>
 
-## 
+## Oversyn
 
 | Veke | Dato       | Tema            |
 |:-----|:-----------|:----------------|
