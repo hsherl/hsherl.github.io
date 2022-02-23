@@ -28,14 +28,14 @@ output:
 
 ## Oversyn fram til pausen
 
-1. Quiz. 
-2. Tidslinje og samanlikning av renessansen og barokken. 
-3. Meir om meininga med livet. 
-4. Opplysningstida. 
-5. Vår tid. 
-6. Lesing og tolking. 
+1. Quiz.  
+2. Meir om meininga med livet. 
+3. Opplysningstida. 
+5. Kva og når. 
+6. Vår tid. 
+6. Rettar. 
 7. Valg av neste skriveoppgåve. 
-8. Klageoppgåve i lekse! 
+8. Klageoppgåve. 
 
 # Quiz
 
@@ -155,8 +155,6 @@ output:
 14. Brukslitteratur er
     1. tekstar skrivne til spesielle høve
 
-# [Kor er vi nå?](https://intertekst.fagbokforlaget.no/read_container/6dc3077a-af13-4279-aded-3136408559cc)
-
 # Kva er meininga med livet? 
 
 <aside class='notes'>
@@ -206,7 +204,7 @@ Kva får ordet «opplysning» deg til å tenke?
 3. Offentlegheit: Kva er dei viktigaste media i offentlegheita i dag? I kva grad vil du seie at mediekulturen oppfordrar til sjølvstende og fornuft?
 </aside>
 
-# Moglegheitsvilkår (bm. mulighetsbetingelser)
+## Kritikk og moglegheitsvilkår (bm. mulighetsbetingelser)
 
 <aside class='notes'>
 - Kva er moglegheiter? 
@@ -214,9 +212,12 @@ Kva får ordet «opplysning» deg til å tenke?
 - Kva er ein kritikk basert på moglegheitsvilkår? 
 </aside>
 
-# Kvar og når: 1700-talet
+# Kvar og når: 1700-talet; 1688-1789
+
+[Tidslinje.](https://intertekst.fagbokforlaget.no/read_container/6dc3077a-af13-4279-aded-3136408559cc)
 
 - Byrjar med den **engelske revolusjonen** i 1688. 
+- Innimellom var den **amerikanske revolusjonen**, i 1776. 
 - Slutar med den **franske revolusjonen** i 1789. 
 - 1700-talet var ein vekstperiode i Danmark-Noreg. 
 
@@ -232,7 +233,7 @@ Kva får ordet «opplysning» deg til å tenke?
 - Slaveri
 - Lærdom fra verdensreiser
 - Adam Smith and mercantilism, the idea of the free market and self-interest
-- Jean-Jacque Rosseau's The Social Contract: man is born free but everywhere he is in chains
+- Jean-Jacque Rosseau's The Social Contract: man is born free but everywhere he is in chains; mannen er født fri men overalt er han i lenker
 - Forfølgelse på vei bort… på noen områder. 
 - Født til makt, arv. 
 - Tomme for penger, skatt trengs for hærer og kriger og overlevelse for kongen og aristokratiet (adelklassen). 
@@ -242,7 +243,7 @@ Kva får ordet «opplysning» deg til å tenke?
 
 # Encyklopedien
 
-> Kva er Wikipedia? Korfor blei det starta? Bruk 5 miutter på å finne ut korleis Wikipedia funkar. 
+> Kva er Wikipedia? Korfor blei det starta? Bruk 5 minutter på å finne ut korleis Wikipedia funkar. 
 
 ## Diderot
 
@@ -275,18 +276,13 @@ Kva får ordet «opplysning» deg til å tenke?
 Kva er vår tid? 
 
 <aside class='notes'>
+Det blir framvisning på dette temaet. Ikkje neste gong, men gongen etter det. 
+
 1. Bruk kvart retoriske grep. 
 2. Samanlikn (både likheit og kontrast) vår tid med en epoke vi har snakt om. 
 3. Kva er ein typisk tekst i dag? 
 4. Kven er eit typisk førebilete i dag? 
 </aside>
-
-# Klaging og retting
-
-1. Fiks feil som eg har kommentert på i teksten din.  
-2. Skriv eit omtrent eit avsnitt på sluten av teksten med tittel «klage». 
-3. Der kan du seie korfor du syns du skal ha ein høgare karakter (eller, om du er gal, korfor du syns du skal ha lågare karakter…). 
-4. Dersom du har ordna opp i feil og argumentert godt, så skal du få ein betre karakter. 
 
 ## Skrivefristelser
 
@@ -310,3 +306,10 @@ Kva er vår tid?
 | 15   | påskeferie |  |
 | 15   | 20. april  | **framvisning 2**   |
 | 16   | 27. april  | språkhistorie |
+
+# Klaging og retting
+
+1. Fiks feil som eg har kommentert på i teksten din.  
+2. Skriv eit omtrent eit avsnitt på sluten av teksten med tittel «klage». 
+3. Der kan du seie korfor du syns du skal ha ein høgare karakter (eller, om du er gal, korfor du syns du skal ha lågare karakter…). 
+4. Dersom du har ordna opp i feil og argumentert godt, så skal du få ein betre karakter. 
