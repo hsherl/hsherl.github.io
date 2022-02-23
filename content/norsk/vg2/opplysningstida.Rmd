@@ -26,7 +26,7 @@ output:
 2. **Nettside**: [hsherl.github.io/norsk](https://hsherl.github.io/norsk). 
 3. **Epost**: [h.sherling@wlc.ac.uk](mailto:h.sherling@wlc.ac.uk). 
 
-## Oversyn fram til pausen
+## Oversyn
 
 1. Quiz.  
 2. Meir om meininga med livet. 
@@ -281,7 +281,7 @@ Det blir framvisning på dette temaet. Ikkje neste gong, men gongen etter det.
 1. Bruk kvart retoriske grep. 
 2. Samanlikn (både likheit og kontrast) vår tid med en epoke vi har snakt om. 
 3. Kva er ein typisk tekst i dag? 
-4. Kven er eit typisk førebilete i dag? 
+4. Kven er eit typisk førebilete i dag?
 </aside>
 
 ## Skrivefristelser
