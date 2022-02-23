@@ -51,6 +51,31 @@ External 3.2 Content 3.2</description>
     
     <item>
       <title></title>
+      <link>https://hsherl.github.io/norsk/vg2/opplysningstida_files/reveal.js-3.3.0.1/contributing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsherl.github.io/norsk/vg2/opplysningstida_files/reveal.js-3.3.0.1/contributing/</guid>
+      <description>Contributing Please keep the issue tracker limited to bug reports, feature requests and pull requests.
+Personal Support If you have personal support or setup questions the best place to ask those are StackOverflow.
+Bug Reports When reporting a bug make sure to include information about which browser and operating system you are on as well as the necessary steps to reproduce the issue. If possible please include a link to a sample presentation where the bug can be tested.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hsherl.github.io/norsk/vg2/opplysningstida_files/reveal.js-3.3.0.1/plugin/markdown/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsherl.github.io/norsk/vg2/opplysningstida_files/reveal.js-3.3.0.1/plugin/markdown/example/</guid>
+      <description>Markdown Demo External 1.1 Content 1.1
+Note: This will only appear in the speaker notes window.
+External 1.2 Content 1.2
+External 2 Content 2.1
+External 3.1 Content 3.1
+External 3.2 Content 3.2</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://hsherl.github.io/norsk/vg2/renessansen1_files/reveal.js-3.3.0.1/contributing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

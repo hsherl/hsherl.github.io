@@ -16,13 +16,13 @@ Veke 7: vinterferie.
 Veke 12: framvisningar.  
 Veke 13: **romantikken** og skriveoppgåve 2 (bokmål).  
 Veke 14-15: påskeferie.  
-Veke 15: **språkhistorie** og framvisningar.  
-Veke 16: oppsummering og innhenting. 
+Veke 16: **språkhistorie** og framvisningar.  
+Veke 17: oppsummering og innhenting. 
 
 **Krav**: 
 
 - [x] Skriveoppgåve 1 (Bokmål)
-- [ ] Skriveoppgåve 1 (Bokmål)
+- [ ] Skriveoppgåve 2 (Bokmål)
 - [ ] Skriveoppgåve (Nynorsk)
 - [ ] Framvisning 1
 - [ ] Framvisning 2
