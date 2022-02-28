@@ -47,7 +47,7 @@
 }
 
 .reveal p {
-	font-size: 24px;
+	font-size: 26px;
 	font-weight: 400;
 	display: block;
 	text-align: left;
@@ -56,7 +56,7 @@
 }
 
 .reveal blockquote {
-	margin: 24px;
+	margin: 28px;
 	width: auto;
 	text-align: left;
 	font-family: inherit;
@@ -74,13 +74,13 @@
 	margin: 10px auto 10px 15px;
 }
 
-.reveal h1 { font-size: 32px; }
-.reveal h2 { font-size: 28px; }
-.reveal h3 { font-size: 24px; }
-.reveal h4 { font-size: 22px; }
+.reveal h1 { font-size: 34px; }
+.reveal h2 { font-size: 30px; }
+.reveal h3 { font-size: 26px; }
+.reveal h4 { font-size: 24px; }
 
 .reveal .csl-entry {
-	font-size: 24px;
+	font-size: 26px;
 	font-weight: 400;
 	display: block;
 	text-align: left;
