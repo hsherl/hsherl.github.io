@@ -28,10 +28,10 @@ output:
 | 10   | 9. mars    | øving og gjennomgåing |
 | 11   | 18. mars   | **framvisning 1** |
 | 12   | 23. mars   | **skriveoppgåve 2** |
-| 13   | 20. mars   | romantikken og nasjonalromantikken |
+| 13   | 20. mars   | romantikken, nasjonalromantikken, og en enkel **nynorskprøve** |
 | 14   | påskeferie |  |
 | 15   | påskeferie |  |
-| 15   | 20. april  | **framvisning 2**   |
+| 15   | 20. april  | **framvisning 2** |
 | 16   | 27. april  | romantikken og språkhistorie |
 
 # Opplysningstida
