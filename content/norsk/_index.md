@@ -14,7 +14,7 @@ layout: "single"
 Veke 7: vinterferie.  
 [Veke 8-9](#v11): **opplysningstida**.  
 Veke 10: øving og gjennomgåing
-Veke 11: framføring 1.
+Veke 11: framføring 1.  
 Veke 12: skriveoppgåve 2 (bokmål).   
 Veke 13: romantikken, nasjonalromantikken, og en enkel **nynorskprøve**.  
 Veke 14-15: påskeferie.  
