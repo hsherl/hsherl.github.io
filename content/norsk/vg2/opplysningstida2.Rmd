@@ -20,63 +20,41 @@ output:
     css: ../rjs.css
 ---
 
-# Informasjon
+# Oversyn
 
-1. **Google Classroom**
-2. **Nettside**: [hsherl.github.io/norsk](https://hsherl.github.io/norsk). 
-3. **Epost**: [h.sherling@wlc.ac.uk](mailto:h.sherling@wlc.ac.uk). 
+| Veke | Dato       | Tema            |
+|:-----|:-----------|:----------------|
+| 9    | 2. mars    | opplysningstida 2 |
+| 10   | 9. mars    | øving og gjennomgåing |
+| 11   | 18. mars   | **framvisning 1** |
+| 12   | 23. mars   | **skriveoppgåve 2** |
+| 13   | 20. mars   | romantikken og nasjonalromantikken |
+| 14   | påskeferie |  |
+| 15   | påskeferie |  |
+| 15   | 20. april  | **framvisning 2**   |
+| 16   | 27. april  | romantikken og språkhistorie |
 
 # Opplysningstida
 
 - lese tekstar som bryt med forventningane til epoken, som skillingsviser og drikkeviser
 - drøfte korleis forfattarskapen til Ludvig Holberg har relevans for oss i dag
 
-## «Was Ist Aufklärung?» (nn. Kva er opplysning?)
+## Fra forrige gang
 
-> Opplysning er menneskets frigjøring fra en selvforskyldt umyndighet. Umyndighet består i manglende evne til å bruke sin forstand på egen hånd. Denne umyndighet er selvforskyldt når årsaken ikke er mangel på forstand, men beror på manglende besluttsomhet og mot til å ville greie seg uten å bli ledet av andre. Sapere aude! Ha mot til å bruke din egen forstand. Det er opplysningens valgspråk. (Immanuel Kant)
+Stikkord: 
 
-<aside class='notes'>
-- Opplysning, framsteg og offentlegheit. 
-- Les Kant sin tekst nå. 
-- Sapere aude = våg å vite. 
+::: incremental
 
-1. Med opplysning meiner vi altså trua på at mennesket kan utvikle seg gjennom å bruke fornufta si. Slik legg opplysningstida grunnlaget for viktige verdiar i det moderne demokratiet: ytringsfridom, trykkefridom, religionsfridom og likskap for loven. I dag seier vi gjerne at kunnskap er makt, og med det understrekar vi at kunnskap gir oss moglegheit til å påverke eigne liv og delta i demokratiet
-2. Dermed er vi over på det andre stikkordet, nemleg framsteg. Tidlegare trudde ein at verda var uforanderleg, eller at høgdepunkta i historia låg bak oss, og at forandring var det same som forfall. Men i opplysningstida voks det fram ei tru på at vitskap, teknologi og økonomisk vekst fører til eit betre samfunn
-3. For at idear som opplysning og framsteg skal utvikle seg, må dei nye tankane bli formidla og diskuterte. Da trengst det medium som legg til rette for det vi kallar ei offentlegheit, eit fellesskap der ein kan diskutere samfunnsspørsmål. Og denne offentlegheita må ikkje bli sensurert av for eksempel konge eller kyrkje. På 1700-talet voks marknaden for trykte bøker, tidsskrift og aviser. Utviklinga av desse nye media hadde stor betydning for spreiinga av opplysningsideane og dermed også for revolusjonar og utvikling av demokrati. Samtidig er det viktig å hugse at det opplysningstida forstod som vitskapleg og demokratisk, var fjernt frå slik vi forstår dei i dag. Den amerikanske grunnloven var sterkt inspirert av opplysningsidear, men personen som skreiv han, eigde slavar. Og i Noreg fekk kvinner stemmerett først i 1913
+- Fornuft $\xleftrightarrow$ rasjonalitet $\xleftrightarrow$ kritisk tenking
+- Vitenskap $\to$ mekanisk verdensbilde
+- Framgang $\xleftrightarrow$ utvikling
+- Myndighet $\xleftrightarrow$ uavhengighet
+- Frihet
+- Rettigheter
+- Offentligheten
+- Univesalitet
 
-1. Opplysning: «Ha mot til å bruke din eigen forstand!» var eit viktig valspråk i opplysningstida. Bruker menneske i dag kunnskap og fornuft til å ta eigne val?
-2. Framsteg: Vil du seie at vår eiga tid er prega av ei tru på framsteget, for eksempel teknologisk, vitskapeleg, politisk, kulturelt eller miljømessig?
-3. Offentlegheit: Kva er dei viktigaste media i offentlegheita i dag? I kva grad vil du seie at mediekulturen oppfordrar til sjølvstende og fornuft?
-</aside>
-
-# Kvar og når: 1700-talet; 1688-1789
-
-[Tidslinje.](https://intertekst.fagbokforlaget.no/read_container/6dc3077a-af13-4279-aded-3136408559cc)
-
-- Byrjar med den **engelske revolusjonen** i 1688. 
-- Innimellom var den **amerikanske revolusjonen**, i 1776. 
-- Slutar med den **franske revolusjonen** i 1789. 
-- 1700-talet var ein vekstperiode i Danmark-Noreg. 
-
-<aside class='notes'>
-- Svært forenkla kan vi seie at 1700-talet liknar på renessansen, mens 1600-talet liknar på mellomalderen. Som vi såg i kapittel 6, var livet i barokken sterkt prega av religiøs tru, akkurat som i mellomalderen. Dei fremste tenkarane og vitskapsmennene i renessansen utfordra læra og tankemonopolet til kyrkja, men utan å fornekte at Gud eksisterte. Humanismen på 1700-talet gjekk eit skritt vidare. Kunnskap og vitskapleg tenking blei ideala for mange, og omgrepet ateisme blei no tatt i bruk om trua på ei verd utan Gud. Likevel var religionen framleis viktig for dei fleste. Ikkje minst gjaldt dette i Danmark-Noreg, der kristendommen på mange måtar blei styrkt på 1700-talet. I 1730-åra blei det blant anna straffbart å skulke gudstenester, og konfirmasjonen blei obligatorisk.
-- Coffee, tea, chocolate, tobacco, and new foods. 
-- 1755 Lisbon earthquake
-- honest, inquisitive, open
-- cafe, salon
-- Denis Diderot: all things must be examined
-- Worldly aims, not spiritual
-- The question of God, the imagination of a better world
-- Slaveri
-- Lærdom fra verdensreiser
-- Adam Smith and mercantilism, the idea of the free market and self-interest
-- Jean-Jacque Rosseau's The Social Contract: man is born free but everywhere he is in chains; mannen er født fri men overalt er han i lenker
-- Forfølgelse på vei bort… på noen områder. 
-- Født til makt, arv. 
-- Tomme for penger, skatt trengs for hærer og kriger og overlevelse for kongen og aristokratiet (adelklassen). 
-- Robespierre. Fransk revolusjon. 
-    - Desimalsystemet
-</aside>
+:::
 
 # Encyklopedien
 
@@ -91,6 +69,7 @@ output:
 - Diderot organiserte encyklopedien alfabetisk som eit oppslagsverk. Innhaldet var dominert av beskrivande tekstar med faktaopplysningar. Mange vitskaplege nyvinningar, for eksempel den moderne spinnemaskinen, blei beskrivne på ein enkel måte. Men det fanst også meir vurderande og kommenterande tekstar, særleg om kunstnariske og filosofiske emne. Mange av desse artiklane er så subjektive og politiske at vi i dag vil tenke at dei bryt med leksikonsjangeren.​
 - Encyklopedien gir eit tydeleg inntrykk av det moderne verdsbildet til opplysningsfilosofane. Mange kjøpte det enorme oppslagsverket, og det betydde mykje for tilgangen til informasjon, særleg blant menneske med høgare utdanning.
 - Systematisk leksikon for vitenskapen, kunsten, og håndverken. 
+- Kaffe kommer til Europa. Kafeer blir dannet for første gang. Møteplasser dannes. Bøker kan bytter og diskuteres der og da, ikke bare leses og skrives. En helt ny dynamikk dannes. 
 </aside>
 
 ## Aviser og tidsskrift
@@ -108,9 +87,62 @@ output:
 - Om folk utan høgare utdanning las bøker heime, las dei Bibelen og andre religiøst oppbyggelege bøker. 
 </aside>
 
-# Vår tid
+# Wollstonecraft
 
-Kva er vår tid? 
+# Holberg, filosofen
+
+<aside class='notes'>
+- Dansk-norsk fra Bergen, bosatt i København
+</aside>
+
+# Holberg, forfatteren
+
+> «Folk siger vel i Herredet, at Jeppe drikker, men de siger ikke, hvorfor Jeppe drikker.»
+
+<aside class='notes'>
+- Kjent for sine karakterkomedier.
+</aside>
+
+# Feide og intertekst
+
+<aside class='notes'>
+- Logg inn! 
+</aside>
+
+# Muntlig vurdering
+
+## **Oppgavebeskrivelse**
+
+**Hovedspørsmål**: Hva er vår tid? 
+
+## Innfallsvinkel 1: Kjennetegn
+
+**Hovedspørsmål**: Hva er vår tid? 
+
+1. Beskriv et minst to trekk som du mener kjennetegner vår tid. Gi eksempler. Argumenter for meningen din. 
+2. Velg to av tidene vi har studert: den norrøne tiden, barokken, renessansen, og opplysningstiden; og sammenlign disse to med vår tid. Argumenter for at vår tid er mer lik én (f.eks. barokken) enn en annen (f.eks. norrøn tid). Gi eksempler for hver likhet og ulikhet.
+3. I disse svarene dine må du bruke alle de retoriske knepene dere har lært: etos, patos, og logos. 
+
+## Innfallsvinkel 2: Tekst
+
+**Hovedspørsmål**: Hva er vår tid? 
+
+1. Beskriv én tekst som du mener kjennetegner vår tid. Gi eksempler på virkemidlene den bruker. Du må lese utdrag fra teksten for å illustrere det du sier (f.eks. så må du lese setningen som bruker en metafor og forklare hvorfor den utgjør en metafor). 
+2. Velg én tekst vi har studert fra den norrøne tiden, barokken, renessansen, eller opplysningstiden. Gi eksempler på virkemidlene den bruker. Du må lese utdrag fra teksten for å illustrere det du sier. Sammenlign den med teksten fra vår tid. 
+3. I disse svarene dine må du bruke alle de retoriske knepene dere har lært: etos, patos, og logos.  
+
+## Vurderingskriterier
+
+**Kriteriene nedenfor kan tilfredsstilles dårlig (1-2), sånn passe (3-4), eller bra (5-6).**
+
+1. Du svarer på alle oppgavene under din innfallsvinkel. 
+2. Du åpner med en oversikt over din framføring, der du forklarer oppgaven og hvordan du kommer til å svare på den. 
+3. Du konkluderer med en tydelig oppsummering av ditt svar på hovedspørsmålet. 
+4. Du trekker frem korrekte og relevante trekk fra eldre tid. 
+5. Du trekker frem overbevisende og relevante trekk fra vår tid. 
+6. Du begrunner alle meninger. 
+7. Du bruker etos, patos, og logos. 
+8. Jobber godt i timen. 
 
 <aside class='notes'>
 Det blir framvisning på dette temaet. Ikkje neste gong, men gongen etter det. 
@@ -121,32 +153,9 @@ Det blir framvisning på dette temaet. Ikkje neste gong, men gongen etter det.
 4. Kven er eit typisk førebilete i dag?
 </aside>
 
-## Skrivefristelser
-
-# Skriveoppgåve 2
-
-<aside class='notes'>
-- Me må planlegge denne. 
-</aside>
-
-## Oversyn
-
-| Veke | Dato       | Tema            |
-|:-----|:-----------|:----------------|
-| **8**    | **i dag**      | **opplysningstida** |
-| 9    | 2. mars    | opplysningstida |
-| 10   | 9. mars    | **framvisning 1** |
-| 11   | 18. mars   | **skriveoppgåve 2** |
-| 12   | 23. mars   | romantikken |
-| 13   | 20. mars   | nasjonalromantikken |
-| 14   | påskeferie |  |
-| 15   | påskeferie |  |
-| 15   | 20. april  | **framvisning 2**   |
-| 16   | 27. april  | språkhistorie |
-
 # Klaging og retting
 
 1. Fiks feil som eg har kommentert på i teksten din.  
-2. Skriv eit omtrent eit avsnitt på sluten av teksten med tittel «klage». 
-3. Der kan du seie korfor du syns du skal ha ein høgare karakter (eller, om du er gal, korfor du syns du skal ha lågare karakter…). 
-4. Dersom du har ordna opp i feil og argumentert godt, så skal du få ein betre karakter. 
+2. Skriv eit avsnitt eller to på sluten med tittelen «Klage». 
+3. Der kan du seie korfor du syns du skal ha ein høgare karakter (eller, dersomom du er gal, korfor du syns du skal ha _lågare_ karakter…). 
+4. Dersom du har ordna opp i feil og argumentert godt, så skal du få ein betre karakter! 
