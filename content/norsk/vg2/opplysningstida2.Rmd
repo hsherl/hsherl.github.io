@@ -45,10 +45,10 @@ Stikkord:
 
 ::: incremental
 
-- Fornuft $\xleftrightarrow$ rasjonalitet $\xleftrightarrow$ kritisk tenking
+- Fornuft $\leftrightarrow$ rasjonalitet $\leftrightarrow$ kritisk tenking
 - Vitenskap $\to$ mekanisk verdensbilde
-- Framgang $\xleftrightarrow$ utvikling
-- Myndighet $\xleftrightarrow$ uavhengighet
+- Framgang $\leftrightarrow$ utvikling
+- Myndighet $\leftrightarrow$ uavhengighet
 - Frihet
 - Rettigheter
 - Offentligheten
