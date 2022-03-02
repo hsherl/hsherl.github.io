@@ -93,6 +93,8 @@ Stikkord:
 
 <aside class='notes'>
 - Dansk-norsk fra Bergen, bosatt i København
+- Vitskaplege tekstar og essay
+- dei viste korleis ein kunne bruke fornuft og logisk argumentasjon
 </aside>
 
 # Holberg, forfatteren
@@ -101,12 +103,14 @@ Stikkord:
 
 <aside class='notes'>
 - Kjent for sine karakterkomedier.
+- eit skodespel der hovudkarakteren har eit karaktertrekk det blir gjort narr av
 </aside>
 
-# Feide og intertekst
+# Feide og Intertekst
 
 <aside class='notes'>
 - Logg inn! 
+- Få en frivillig til å vise. 
 </aside>
 
 # Muntlig vurdering
