@@ -139,6 +139,8 @@ Stikkord:
 
 **Kriteriene nedenfor kan tilfredsstilles dårlig (1-2), sånn passe (3-4), eller bra (5-6).**
 
+::: incremental
+
 1. Du svarer på alle oppgavene under din innfallsvinkel. 
 2. Du åpner med en oversikt over din framføring, der du forklarer oppgaven og hvordan du kommer til å svare på den. 
 3. Du konkluderer med en tydelig oppsummering av ditt svar på hovedspørsmålet. 
@@ -147,6 +149,8 @@ Stikkord:
 6. Du begrunner alle meninger. 
 7. Du bruker etos, patos, og logos. 
 8. Jobber godt i timen. 
+
+:::
 
 <aside class='notes'>
 Det blir framvisning på dette temaet. Ikkje neste gong, men gongen etter det. 
@@ -159,7 +163,12 @@ Det blir framvisning på dette temaet. Ikkje neste gong, men gongen etter det.
 
 # Klaging og retting
 
+::: incremental
+
 1. Fiks feil som eg har kommentert på i teksten din.  
 2. Skriv eit avsnitt eller to på sluten med tittelen «Klage». 
 3. Der kan du seie korfor du syns du skal ha ein høgare karakter (eller, dersomom du er gal, korfor du syns du skal ha _lågare_ karakter…). 
 4. Dersom du har ordna opp i feil og argumentert godt, så skal du få ein betre karakter! 
+
+:::
+
