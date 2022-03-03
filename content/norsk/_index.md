@@ -6,20 +6,23 @@ layout: "single"
 
 ## VG2 2022
 
-**Oversyn**: 
-
-[Veke 3-4](#v4): **renessansen**.  
-[Veke 5](#v5): skriveoppgåve 1 (bokmål).  
-[Veke 6](#v6): **barokken**.  
-Veke 7: vinterferie.  
-[Veke 8-9](#v11): **opplysningstida**.  
-Veke 10: øving og gjennomgåing.  
-Veke 11: framføring 1.  
-Veke 12: skriveoppgåve 2 (bokmål).   
-Veke 13: romantikken, nasjonalromantikken, og en enkel **nynorskprøve**.  
-Veke 14-15: påskeferie.  
-Veke 16: framføring 2.  
-Veke 17: romantikken, nasjonalromantikken, og språkhistorie.  
+| Veke | Dato        | Tema                               |
+|:-----|:------------|:-----------------------------------|
+| 3    | 19. januar  | [renessansen 1](#v4)               |
+| 4    | 26. januar  | [renessansen 2](#v4)               |
+| 5    | 2. februar  | **skriveoppgåve 1**                | 
+| 6    | 9. februar  | [barokken](#v6)                    |
+| 7    | vinterferie |                                    |
+| 8    | 23. februar | [opplysningstida](#v11)            |
+| 9    | 2. mars     | [opplysningstida 2](#v11)          |
+| 10   | 9. mars     | øving og gjennomgåing              |
+| 11   | 16. mars    | **framvisning 1**                  |
+| 12   | 23. mars    | **skriveoppgåve 2**                |
+| 13   | 30. mars    | romantikken og nasjonalromantikken |
+| 14   | påskeferie  |                                    |
+| 15   | påskeferie  |                                    |
+| 15   | 20. april   | **framvisning 2**                  |
+| 16   | 27. april   | romantikken og språkhistorie       |
 
 **Krav**: 
 

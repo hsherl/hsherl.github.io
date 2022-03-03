@@ -26,9 +26,9 @@ output:
 |:-----|:-----------|:----------------|
 | 9    | 2. mars    | opplysningstida 2 |
 | 10   | 9. mars    | øving og gjennomgåing |
-| 11   | 18. mars   | **framvisning 1** |
+| 11   | 16. mars   | **framvisning 1** |
 | 12   | 23. mars   | **skriveoppgåve 2** |
-| 13   | 20. mars   | romantikken, nasjonalromantikken, og en enkel **nynorskprøve** |
+| 13   | 30. mars   | romantikken, nasjonalromantikken, og en enkel **nynorskprøve** |
 | 14   | påskeferie |  |
 | 15   | påskeferie |  |
 | 15   | 20. april  | **framvisning 2** |
