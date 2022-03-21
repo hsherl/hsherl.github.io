@@ -18,11 +18,11 @@ layout: "single"
 | 10   | 9. mars     | øving og gjennomgåing              |
 | 11   | 16. mars    | **framvisning 1**                  |
 | 12   | 23. mars    | **skriveoppgåve 2**                |
-| 13   | 30. mars    | romantikken og nasjonalromantikken |
+| 13   | 30. mars    | romantikken og språkhistorie       |
 | 14   | påskeferie  |                                    |
 | 15   | påskeferie  |                                    |
 | 15   | 20. april   | **framvisning 2**                  |
-| 16   | 27. april   | romantikken og språkhistorie       |
+| 16   | 27. april   | romantikken og nasjonalromantikken |
 
 **Krav**: 
 
