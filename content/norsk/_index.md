@@ -27,9 +27,8 @@ layout: "single"
 **Krav**: 
 
 - [x] Skriveoppgåve 1 (Bokmål)
+- [x] Framvisning 1
 - [ ] Skriveoppgåve 2 (Bokmål)
-- [ ] Skriveoppgåve (Nynorsk)
-- [ ] Framvisning 1
 - [ ] Framvisning 2
 
 Planen kan endre seg. 
