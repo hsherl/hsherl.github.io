@@ -10,7 +10,7 @@ layout: "single"
 |:-----|:------------|:-----------------------------------|
 | 3    | 19. januar  | [renessansen 1](#v4)               |
 | 4    | 26. januar  | [renessansen 2](#v4)               |
-| 5    | 2. februar  | **skriveoppgåve 1**                | 
+| 5    | 2. februar  | **skriveoppgåve 1**                |
 | 6    | 9. februar  | [barokken](#v6)                    |
 | 7    | vinterferie |                                    |
 | 8    | 23. februar | [opplysningstida](#v9)             |
@@ -28,7 +28,7 @@ layout: "single"
 
 - [x] Skriveoppgåve 1
 - [x] Framvisning 1
-- [ ] Skriveoppgåve 2
+- [x] Skriveoppgåve 2
 - [ ] Framvisning 2
 
 Planen kan endre seg. 
