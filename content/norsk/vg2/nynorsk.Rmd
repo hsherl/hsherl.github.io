@@ -1,7 +1,7 @@
 ---
-title: "Romantikken og språket"
-author: "Veke 12"
-date: "23 mars, 2022"
+title: "Romantikken og språket ([English](https://hsherl-github-io.translate.goog/norsk/vg2/nynorsk.html?_x_tr_sl=no&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#/))"
+author: "Veke 13"
+date: "30 mars, 2022"
 output: 
   revealjs::revealjs_presentation:
     transition: slide
@@ -20,16 +20,25 @@ output:
     css: ../rjs.css
 ---
 
-# Oversyn
+# Oversyn over resten av tida dokkar i London
 
 | Veke | Dato       | Tema                               |
 |:-----|:-----------|:-----------------------------------|
-| 12   | 23. mars   | **skriveoppgåve 2**                |
 | 13   | 30. mars   | romantikken og språkhistorie       |
 | 14   | påskeferie |                                    |
 | 15   | påskeferie |                                    |
 | 15   | 20. april  | **framvisning 2**                  |
 | 16   | 27. april  | romantikken og nasjonalromantikken |
+
+# Oversyn over dagens timar
+
+| Time  | Klokkeslett | Tema                               |
+|:------|:------------|:-----------------------------------|
+| 1     | 13:45-14:30 | Quiz |
+| Pause | 15:15-15:35 |        |
+| 2     | 14:30-15:15 |        |
+| 3     | 15:35-16:20 |        |
+| 4     | 16:20-17:00 |        |
 
 # Opplysningstida
 

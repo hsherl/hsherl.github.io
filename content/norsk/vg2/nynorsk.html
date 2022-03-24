@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Veke 13" />
+  <title>Romantikken og språket (English)</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="nynorsk_files/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+
+<link rel="stylesheet" href="nynorsk_files/reveal.js-3.3.0.1/css/theme/white.css" id="theme">
+
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal .slide-menu-button {
+      left: 105px !important;
+    }
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+    <link rel="stylesheet" href="../rjs.css"/>
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+    <script src="nynorsk_files/header-attrs-2.11.3/header-attrs.js"></script>
+    <link href="nynorsk_files/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+    <link href="nynorsk_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">Romantikken og språket (<a href="https://hsherl-github-io.translate.goog/norsk/vg2/nynorsk.html?_x_tr_sl=no&amp;_x_tr_tl=en&amp;_x_tr_hl=en&amp;_x_tr_pto=wapp#/">English</a>)</h1>
+    <h2 class="author">Veke 13</h2>
+    <h3 class="date">30 mars, 2022</h3>
+</section>
+
+<section id="oversyn-over-resten-av-tida-dokkar-i-london" class="title-slide slide level1">
+<h1>Oversyn over resten av tida dokkar i London</h1>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Veke</th>
+<th style="text-align: left;">Dato</th>
+<th style="text-align: left;">Tema</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">13</td>
+<td style="text-align: left;">30. mars</td>
+<td style="text-align: left;">romantikken og språkhistorie</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">14</td>
+<td style="text-align: left;">påskeferie</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">15</td>
+<td style="text-align: left;">påskeferie</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">15</td>
+<td style="text-align: left;">20. april</td>
+<td style="text-align: left;"><strong>framvisning 2</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">16</td>
+<td style="text-align: left;">27. april</td>
+<td style="text-align: left;">romantikken og nasjonalromantikken</td>
+</tr>
+</tbody>
+</table>
+</section>
+
+<section id="oversyn-over-dagens-timar" class="title-slide slide level1">
+<h1>Oversyn over dagens timar</h1>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Time</th>
+<th style="text-align: left;">Klokkeslett</th>
+<th style="text-align: left;">Tema</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">13:45-14:30</td>
+<td style="text-align: left;">Quiz</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Pause</td>
+<td style="text-align: left;">15:15-15:35</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">14:30-15:15</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">15:35-16:20</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">16:20-17:00</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</section>
+
+<section>
+<section id="opplysningstida" class="title-slide slide level1">
+<h1>Opplysningstida</h1>
+<ul>
+<li>lese tekstar som bryt med forventningane til epoken, som skillingsviser og drikkeviser</li>
+<li>drøfte korleis forfattarskapen til Ludvig Holberg har relevans for oss i dag</li>
+</ul>
+</section>
+<section id="fra-forrige-gang" class="slide level2">
+<h2>Fra forrige gang</h2>
+<p>Stikkord:</p>
+<div>
+<ul>
+<li class="fragment">Fornuft <span class="math inline">\(\leftrightarrow\)</span> rasjonalitet <span class="math inline">\(\leftrightarrow\)</span> kritisk tenking</li>
+<li class="fragment">Vitenskap <span class="math inline">\(\to\)</span> mekanisk verdensbilde</li>
+<li class="fragment">Framgang <span class="math inline">\(\leftrightarrow\)</span> utvikling</li>
+<li class="fragment">Myndighet <span class="math inline">\(\leftrightarrow\)</span> uavhengighet</li>
+<li class="fragment">Frihet</li>
+<li class="fragment">Rettigheter</li>
+<li class="fragment">Offentligheten</li>
+<li class="fragment">Univesalitet</li>
+</ul>
+</div>
+</section></section>
+<section>
+<section id="encyklopedien" class="title-slide slide level1">
+<h1>Encyklopedien</h1>
+<blockquote>
+<p>Kva er Wikipedia? Korfor blei det starta? Bruk 5 minutter på å finne ut korleis Wikipedia funkar.</p>
+</blockquote>
+</section>
+<section id="diderot" class="slide level2">
+<h2>Diderot</h2>
+<p><img data-src="../img/encyclopedie-tools.jpeg" /></p>
+<aside class="notes">
+<ul>
+<li>Internettrevolusjonen tok ikkje av før det nærma seg år 2000, men sjølve ideen om å samle all faktakunnskapen i verda er mykje eldre. I Europa kan vi seie at det starta i opplysningstida, og sentralt stod utviklinga av den franske encyklopedien. På 30 år kom det ut 35 bind av det store oppslagsverket. Leidd av forfattaren Denis Diderot (1713–1783) bidrog nesten 150 mann til gigantverket. Blant desse var nokre av dei fremste franske opplysningsfilosofane: Charles de Montesquieu (1689–1755), François-Marie Voltaire (1694–1778) og Jean-Jacques Rousseau (1712–1778).</li>
+<li>Diderot organiserte encyklopedien alfabetisk som eit oppslagsverk. Innhaldet var dominert av beskrivande tekstar med faktaopplysningar. Mange vitskaplege nyvinningar, for eksempel den moderne spinnemaskinen, blei beskrivne på ein enkel måte. Men det fanst også meir vurderande og kommenterande tekstar, særleg om kunstnariske og filosofiske emne. Mange av desse artiklane er så subjektive og politiske at vi i dag vil tenke at dei bryt med leksikonsjangeren.​</li>
+<li>Encyklopedien gir eit tydeleg inntrykk av det moderne verdsbildet til opplysningsfilosofane. Mange kjøpte det enorme oppslagsverket, og det betydde mykje for tilgangen til informasjon, særleg blant menneske med høgare utdanning.</li>
+<li>Systematisk leksikon for vitenskapen, kunsten, og håndverken.</li>
+<li>Kaffe kommer til Europa. Kafeer blir dannet for første gang. Møteplasser dannes. Bøker kan bytter og diskuteres der og da, ikke bare leses og skrives. En helt ny dynamikk dannes.</li>
+</ul>
+</aside>
+</section>
+<section id="aviser-og-tidsskrift" class="slide level2">
+<h2>Aviser og tidsskrift</h2>
+<aside class="notes">
+<ul>
+<li>Interessa for naturvitskap, filosofi og politikk førte ikkje berre med seg oppslagsverk og vitskaplege avhandlingar for spesielt interesserte. Etter kvart prega opplysninga større delar av samfunnet, og vi fekk fleire arenaer for diskusjonar om litteratur, kunst, politikk og vitskap. Ein viktig del av denne utviklinga var oppblomstringa av tidsskrift og aviser. I første omgang var innhaldet svært blanda, frå skandalehistorier og sladder til små avhandlingar om aktuelle saker. Det var først på 1800-talet avisene blei drivne av nyheiter.</li>
+<li>Dei første avisane kom ut i 1665 under dei religiøse krigane.</li>
+</ul>
+</aside>
+</section>
+<section id="religiøst-lesestoff-og-skolegang" class="slide level2">
+<h2>Religiøst lesestoff og skolegang</h2>
+<aside class="notes">
+<ul>
+<li>I Noreg dominerte først og fremst religiøse tekstar tekstkulturen.</li>
+<li>Ved innføringa av skoleloven av 1739 blei leseopplæring obligatorisk for alle barn frå sju år. Elevane las berre religiøse tekstar i skolen.</li>
+<li>Om folk utan høgare utdanning las bøker heime, las dei Bibelen og andre religiøst oppbyggelege bøker.</li>
+</ul>
+</aside>
+</section></section>
+<section id="wollstonecraft" class="title-slide slide level1">
+<h1>Wollstonecraft</h1>
+
+</section>
+
+<section id="holberg-filosofen" class="title-slide slide level1">
+<h1>Holberg, filosofen</h1>
+<aside class="notes">
+<ul>
+<li>Dansk-norsk fra Bergen, bosatt i København</li>
+<li>Vitskaplege tekstar og essay</li>
+<li>dei viste korleis ein kunne bruke fornuft og logisk argumentasjon</li>
+</ul>
+</aside>
+</section>
+
+<section id="holberg-forfatteren" class="title-slide slide level1">
+<h1>Holberg, forfatteren</h1>
+<blockquote>
+<p>«Folk siger vel i Herredet, at Jeppe drikker, men de siger ikke, hvorfor Jeppe drikker.»</p>
+</blockquote>
+<aside class="notes">
+<ul>
+<li>Kjent for sine karakterkomedier.</li>
+<li>eit skodespel der hovudkarakteren har eit karaktertrekk det blir gjort narr av</li>
+</ul>
+</aside>
+</section>
+
+<section id="feide-og-intertekst" class="title-slide slide level1">
+<h1>Feide og Intertekst</h1>
+<aside class="notes">
+<ul>
+<li>Logg inn!</li>
+<li>Få en frivillig til å vise.</li>
+</ul>
+</aside>
+</section>
+
+<section>
+<section id="muntlig-vurdering" class="title-slide slide level1">
+<h1>Muntlig vurdering</h1>
+
+</section>
+<section id="oppgavebeskrivelse" class="slide level2">
+<h2><strong>Oppgavebeskrivelse</strong></h2>
+<p><strong>Hovedspørsmål</strong>: Hva er vår tid?</p>
+</section>
+<section id="innfallsvinkel-1-kjennetegn" class="slide level2">
+<h2>Innfallsvinkel 1: Kjennetegn</h2>
+<p><strong>Hovedspørsmål</strong>: Hva er vår tid?</p>
+<ol type="1">
+<li>Beskriv <strong>minst to</strong> trekk som du mener kjennetegner vår tid. <strong>Gi eksempler</strong>. <strong>Argumenter</strong> for meningen din.</li>
+<li>Velg to av tidene vi har studert: den norrøne tiden, barokken, renessansen, og opplysningstiden; og sammenlign disse to med vår tid. <strong>Argumenter</strong> for at vår tid er mer lik én (f.eks. barokken) enn en annen (f.eks. norrøn tid). <strong>Gi eksempler</strong> for hver likhet og ulikhet.</li>
+<li>I disse svarene dine må du bruke alle de retoriske knepene dere har lært: <strong>etos</strong>, <strong>patos</strong>, og <strong>logos</strong>.</li>
+</ol>
+</section>
+<section id="innfallsvinkel-2-tekst" class="slide level2">
+<h2>Innfallsvinkel 2: Tekst</h2>
+<p><strong>Hovedspørsmål</strong>: Hva er vår tid?</p>
+<ol type="1">
+<li>Beskriv <strong>én tekst</strong> som du mener kjennetegner vår tid. <strong>Gi eksempler</strong> på virkemidlene den bruker. Du må lese utdrag fra teksten for å illustrere det du sier (f.eks. så må du lese setningen som bruker en metafor og forklare hvorfor den utgjør en metafor).</li>
+<li>Velg <strong>én tekst</strong> vi har studert fra den norrøne tiden, barokken, renessansen, eller opplysningstiden. <strong>Gi eksempler</strong> på virkemidlene den bruker. Du må lese utdrag fra teksten for å illustrere det du sier. Sammenlign den med teksten fra vår tid.</li>
+<li>I disse svarene dine må du bruke alle de retoriske knepene dere har lært: <strong>etos</strong>, <strong>patos</strong>, og <strong>logos</strong>.</li>
+</ol>
+</section>
+<section id="vurderingskriterier" class="slide level2">
+<h2>Vurderingskriterier</h2>
+<p><strong>Kriteriene nedenfor kan tilfredsstilles dårlig (1-2), sånn passe (3-4), eller bra (5-6).</strong></p>
+<div>
+<ol type="1">
+<li class="fragment">Du svarer på alle oppgavene under din innfallsvinkel.</li>
+<li class="fragment">Du åpner med en oversikt over din framføring, der du forklarer oppgaven og hvordan du kommer til å svare på den.</li>
+<li class="fragment">Du konkluderer med en tydelig oppsummering av ditt svar på hovedspørsmålet.</li>
+<li class="fragment">Du trekker frem korrekte og relevante trekk fra eldre tid.</li>
+<li class="fragment">Du trekker frem overbevisende og relevante trekk fra vår tid.</li>
+<li class="fragment">Du begrunner alle meninger.</li>
+<li class="fragment">Du bruker etos, patos, og logos.</li>
+<li class="fragment">Jobber godt i timen.</li>
+</ol>
+</div>
+<aside class="notes">
+<p>Det blir framvisning på dette temaet. Ikkje neste gong, men gongen etter det.</p>
+<ol type="1">
+<li>Bruk kvart retoriske grep.</li>
+<li>Samanlikn (både likheit og kontrast) vår tid med en epoke vi har snakt om.</li>
+<li>Kva er ein typisk tekst i dag?</li>
+<li>Kven er eit typisk førebilete i dag?</li>
+</ol>
+</aside>
+</section></section>
+<section id="klaging-og-retting" class="title-slide slide level1">
+<h1>Klaging og retting</h1>
+<div>
+<ol type="1">
+<li class="fragment">Fiks feil som eg har kommentert på i teksten din.<br />
+</li>
+<li class="fragment">Skriv eit avsnitt eller to på sluten med tittelen «Klage».</li>
+<li class="fragment">Der kan du seie korfor du syns du skal ha ein høgare karakter (eller, dersomom du er gal, korfor du syns du skal ha <em>lågare</em> karakter…).</li>
+<li class="fragment">Dersom du har ordna opp i feil og argumentert godt, så skal du få ein betre karakter!</li>
+</ol>
+</div>
+</section>
+    </div>
+  </div>
+
+  <script src="nynorsk_files/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="nynorsk_files/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+        // Display a presentation progress bar
+        progress: true,
+        // Display the page number of the current slide
+        slideNumber: true,
+        // Push each slide change to the browser history
+        history: true,
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+        // Enable the slide overview mode
+        overview: true,
+        // Vertical centering of slides
+        center: true,
+        // Enables touch navigation on devices with touch input
+        touch: true,
+        // Turns fragments on and off globally
+        fragments: true,
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+        // Opens links in an iframe preview overlay
+        previewLinks: true,
+        // Transition style
+        transition: 'slide', // none/fade/slide/convex/concave/zoom
+        // Transition speed
+        transitionSpeed: 'default', // default/fast/slow
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        menu: {
+   
+    
+    
+    
+    
+    
+    
+ 
+          custom: false,
+          themes: false,
+          transitions: false
+        },
+
+
+
+        chalkboard: {
+        },
+
+        keyboard: {
+          67: function() { RevealChalkboard.toggleNotesCanvas() },    // toggle notes canvas when 'c' is pressed
+          66: function() { RevealChalkboard.toggleChalkboard() }, // toggle chalkboard when 'b' is pressed
+          46: function() { RevealChalkboard.clear() },    // clear chalkboard when 'DEL' is pressed
+           8: function() { RevealChalkboard.reset() },    // reset chalkboard data on current slide when 'BACKSPACE' is pressed
+          68: function() { RevealChalkboard.download() }, // downlad recorded chalkboard drawing when 'd' is pressed
+        },
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'nynorsk_files/reveal.js-3.3.0.1/plugin/notes/notes.js', async: true },
+          { src: 'nynorsk_files/reveal.js-3.3.0.1/plugin/zoom-js/zoom.js', async: true },
+          { src: 'nynorsk_files/reveal.js-3.3.0.1/plugin/chalkboard/chalkboard.js', async: true },
+          { src: 'nynorsk_files/reveal.js-3.3.0.1/plugin/menu/menu.js', async: true },
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>
