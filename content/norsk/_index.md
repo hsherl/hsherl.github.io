@@ -16,20 +16,20 @@ layout: "single"
 | 8    | 23. februar | [opplysningstida](#v9)             |
 | 9    | 2. mars     | [opplysningstida 2](#v9)           |
 | 10   | 9. mars     | [øving og gjennomgåing](#10)       |
-| 11   | 16. mars    | **framvisning 1**                  |
+| 11   | 16. mars    | **presentasjon 1**                  |
 | 12   | 23. mars    | **skriveoppgåve 2**                |
 | 13   | 30. mars    | romantikken og språkhistorie       |
 | 14   | påskeferie  |                                    |
 | 15   | påskeferie  |                                    |
-| 16   | 20. april   | **framvisning 2**                  |
+| 16   | 20. april   | **presentasjon 2**                  |
 | 17   | 27. april   | romantikken og nasjonalromantikken |
 
 **Krav**: 
 
 - [x] Skriveoppgåve 1
-- [x] Framvisning 1
+- [x] Presentasjon 1
 - [x] Skriveoppgåve 2
-- [ ] Framvisning 2
+- [ ] Presentasjon 2
 
 Planen kan endre seg. 
 
@@ -39,7 +39,7 @@ Denne veka skal me knyte saman alt me har lært så langt.
 
 ### Veke 16 {#16}
 
-Denne veka skal me ha den andre framvisninga. 
+Denne veka skal me ha den andre presentasjona. 
 
 ### Veke 14 og 15 {#145}
 
@@ -47,7 +47,7 @@ Påskeferie!
 
 ### Veke 13 {#13}
 
-Denne veka skal med lære om romantikken og det norske språket, samt gjere oss klar til framvisninga etter påskeferien. 
+Denne veka skal med lære om [romantikken og det norske språket](/norsk/vg2/nynorsk.html), samt gjere oss klar til presentasjona etter påskeferien. 
 
 ### Veke 12 {#12}
 
@@ -55,11 +55,11 @@ Denne veka skal me ha den andre skriveoppgåven vår.
 
 ### Veke 11 {#11}
 
-Denne veka er det framvisning om _vår tid_. 
+Denne veka er det presentasjon om _vår tid_. 
 
 ### Veke 10 {#10}
 
-Denne veka skal me jobbe med framvisninga til neste veke. 
+Denne veka skal me jobbe med presentasjona til neste veke. 
 
 ### Veke 9 {#v9}
 
@@ -79,7 +79,7 @@ Denne veka handlar det om [barokken](/norsk/vg2/barokken.html) og motreformasjon
 
 ### Veke 5 {#v5}
 
-Denne veka har me [skriveoppgåve](/norsk/vg2/renessansen3.html) om renessansen (oppgåven er på siste side i framvisninga). Me sjår spesielt på kva idéane frå renessansen kan seie om oss sjølv og samtida. 
+Denne veka har me [skriveoppgåve](/norsk/vg2/renessansen3.html) om renessansen (oppgåven er på siste side i presentasjona). Me sjår spesielt på kva idéane frå renessansen kan seie om oss sjølv og samtida. 
 
 ### Veke 4 {#v4}
 
