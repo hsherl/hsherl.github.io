@@ -291,7 +291,7 @@ Tre perspektiv:
 - Han meinte òg at ein ikkje kan danne eit nytt språk med å ta ut eller leggje til ord, at det ein må gjere er å endre setningsstrukturen og korleis ein brukar språket. 
 </aside>
 
-## Debatt
+## Diskusjon
 
 Kven syntest dokker har det beste argumentet? 
 
@@ -299,7 +299,7 @@ Kven syntest dokker har det beste argumentet?
 2. Welhaven: danomani. 
 3. Munch: danomani eller nytt språk. 
 
-## Meir debatt
+## Meir diskusjon
 
 Kan ein endre ett språk ved å endre på orda? 
 
@@ -392,7 +392,7 @@ Asbjørnsen og Mo publiserte sin eventyrsamling på ein fornorska dansk, med dan
 
 # Debatt: samnorsk
 
-
+Bør me omgjere nynorsk og bokmål til berre eit språk? 
 
 # [Nynorsk](https://kublakan.no/wp-content/uploads/2018/01/nynorskpowerpoint-Videoteket.pdf)
 
@@ -402,13 +402,22 @@ Asbjørnsen og Mo publiserte sin eventyrsamling på ein fornorska dansk, med dan
 
 ## Omsetjingsoppgåve side 26
 
-## Send Sara, Jasmine, og Yen til grupperom for å lage ein kort presentasjon
+<aside class='notes'>
+- Send Sara, Jasmine, og Yen til grupperom for å lage ein kort presentasjon
+- https://kublakan.no/norsk-sprak-fra-norron-tid-til-i-dag/
+- https://www.vg.no/nyheter/meninger/i/QoAJz8/sanna-sarromaa-det-norske-spraaket-er-en-vits
+- https://ndla.no/nn/subject:1:50dfc86d-6566-4a45-a531-d32b82e8bfa1/topic:3:fa404de7-b027-4a38-8d23-33493a3a9a69/topic:1:6afe2e2f-042d-444d-993e-cc3efa3cbf2c/resource:dbd4cde9-de64-4d42-a637-8d030a5157d0
+- https://ndla.no/subject:1:50dfc86d-6566-4a45-a531-d32b82e8bfa1/topic:3:fa404de7-b027-4a38-8d23-33493a3a9a69/topic:1:6afe2e2f-042d-444d-993e-cc3efa3cbf2c/resource:93968862-f716-4286-a9fa-d1349cc5a1cb
+- https://www.youtube.com/watch?v=s7olTWEIwAI
+</aside>
 
-https://kublakan.no/norsk-sprak-fra-norron-tid-til-i-dag/
-https://www.vg.no/nyheter/meninger/i/QoAJz8/sanna-sarromaa-det-norske-spraaket-er-en-vits
-https://ndla.no/nn/subject:1:50dfc86d-6566-4a45-a531-d32b82e8bfa1/topic:3:fa404de7-b027-4a38-8d23-33493a3a9a69/topic:1:6afe2e2f-042d-444d-993e-cc3efa3cbf2c/resource:dbd4cde9-de64-4d42-a637-8d030a5157d0
-https://ndla.no/subject:1:50dfc86d-6566-4a45-a531-d32b82e8bfa1/topic:3:fa404de7-b027-4a38-8d23-33493a3a9a69/topic:1:6afe2e2f-042d-444d-993e-cc3efa3cbf2c/resource:93968862-f716-4286-a9fa-d1349cc5a1cb
-https://www.youtube.com/watch?v=s7olTWEIwAI
+## Gjennomgåing av omsetjing (første avsnitt)
+
+I blogginnlegget «Farlege barneforteljingar: kyssar du ein frosk, kan du ramle uti vatn og drukne», tek/tar Anne Viken eit oppgjer med dei som seier at vi må verne/beskytte barn/born mot skadeleg litteratur. Med dette meiner dei til dømes «Kardemommeby» og andre, etter Viken si meining/ Vikens meining uskyldige/uskuldige barneforteljingar. Vernet har gått alt for langt, skriv ho, og bruker/brukar både humor, ironi og sarkasme for å støtte poenga sine.
+
+## Gjennomgåing av omsetjing (tredje avsnitt)
+
+Poenget til Viken/ Vikens poeng ser ut til å vere enkelt: Hennar generasjon har ikkje tatt skade av tradisjonell barnelitteratur, og det gjer ikkje borna/barna i dag heller. Det som er skadeleg er å verne/beskytte dei mot alt og alle. Om dei ikkje kan tole eit eventyr som barn, korleis skal dei da tole røyndomen/røynda/verkelegheita som vaksne?
 
 # Presentasjon 2: Søknad
 
@@ -430,6 +439,8 @@ Draum deg fram to-tre år. Kva for ein jobb eller studie har du?
 4. Både læraren og klassen får stille eit spørsmål kvar for å luke fram sanninga. Førebu [bm. forbered] deg! 
 
 I dag skal me jobbe med punkt 1 og 2 sånn at du er klar til 20. april. 
+
+<!--
 
 # Kva er eit språk? 
 
@@ -477,3 +488,5 @@ Kven bestemmer over språket – språkbrukarane eller språkekspertar og styres
 Kva er den viktigaste oppgåva til språket?
 - Er det viktig med eit eige nasjonalspråk?
 </aside>
+
+ -->
