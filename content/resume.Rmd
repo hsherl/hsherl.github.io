@@ -7,7 +7,7 @@ output:
     self_contained: false
 title: "Resumé"
 author: Henrik Roeed Sherling
-
+# 
 #jobtitle: "Enthusiastic, analytic thinker who will add diligence and initiative to your editorial team"
 # address: "62A Wooler Street, London SE17 2EF, UK"
 # email: "hsherling@gmail.com"
@@ -15,7 +15,7 @@ author: Henrik Roeed Sherling
 # web: "hsherl.github.io"
 # updated: no
 # fontawesome: yes
-
+# 
 # fontsize: 11pt
 # linkcolor: blue
 # urlcolor: blue
