@@ -1,7 +1,7 @@
 ---
 title: "Presentasjon nr. 2"
-author: "Veke 13"
-date: "30 mars, 2022"
+author: "Veke 16"
+date: "20. april, 2022"
 output: 
   revealjs::revealjs_presentation:
     transition: slide
@@ -24,11 +24,10 @@ output:
 
 | 14:00-14:30 | 14:30-15:00 | 15:00-15:30 | 15:30-16:00 | 16:00-16:30 | 16:30-17:00 |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Rojin       | Yones       | Isra        | Sara        | Yewande     | Maria       |
-| Malaika     | Martin      | Jasmine     | Loubna      | Emma        | Mina        |
-| Erika       | Nofil       | Hania       | Aleena      | Sagall      | Deborah     |
-| Adéle       | Gabriel     | Jacklin     | Yen         | Barin       | Faisa       |
-|             |             |             |             |             | Safa        |
+| Emma        | Yones       | Yen         | Isra        | Malaika     | Sara        |
+| Sagall      | Martin      | Deborah     | Aleena      | Yewande     | Loubna      |
+| Erika       | Nofil       | Faisa       | Hania       | Barin       | Mina        |
+| Adéle       | Gabriel     | Safa        | Jacklin     | Maria       | Jasmine     |
 
 # 1840-talet: frå eventyr til ordbok
 
@@ -55,7 +54,7 @@ Asbjørnsen og Mo publiserte sin eventyrsamling på ein fornorska dansk, med dan
 
 - Ortofoni: skriv som du snakkar. 
 - Som _kven_ snakkar? Dei som har «danna dagligtale». 
-- Skriv me som me snakkar?§ 
+- Skriv me som me snakkar? 
 
 :::
 
