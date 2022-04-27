@@ -16,12 +16,12 @@ layout: "single"
 | 8    | 23. februar | [opplysningstida](#v9)             |
 | 9    | 2. mars     | [opplysningstida 2](#v9)           |
 | 10   | 9. mars     | [øving og gjennomgåing](#10)       |
-| 11   | 16. mars    | **presentasjon 1**                  |
+| 11   | 16. mars    | **presentasjon 1**                 |
 | 12   | 23. mars    | **skriveoppgåve 2**                |
 | 13   | 30. mars    | romantikken og språkhistorie       |
 | 14   | påskeferie  |                                    |
 | 15   | påskeferie  |                                    |
-| 16   | 20. april   | **presentasjon 2**                  |
+| 16   | 20. april   | **presentasjon 2**                 |
 | 17   | 27. april   | romantikken og nasjonalromantikken |
 
 **Krav**: 
@@ -29,7 +29,7 @@ layout: "single"
 - [x] Skriveoppgåve 1
 - [x] Presentasjon 1
 - [x] Skriveoppgåve 2
-- [ ] Presentasjon 2
+- [x] Presentasjon 2
 
 Planen kan endre seg. 
 
