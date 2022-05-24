@@ -10,4 +10,4 @@ In the autumn of this year (2022) I will begin a PhD in philosophy at St. John's
 
 Before this I studied for an MSci in Physics and Philosophy at King’s College London, focusing on foundational problems in quantum mechanics. 
 
-I am part of the training team at [The Philosophy Foundation](https://www.philosophy-foundation.org/training-team) and have previously worked, at various times, as a philosophy, science, or Norwegian teacher. 
+I am a member of the training team at [The Philosophy Foundation](https://www.philosophy-foundation.org/training-team) and have previously worked, at various times, as a philosophy, science, or Norwegian teacher. 
