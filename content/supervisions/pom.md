@@ -15,5 +15,5 @@ The first essay question is
 This is to be answered with reference to the following articles: 
 
 - Dennett, 'Intentional systems'
-- Haugeland, 'Understanding: Dennett and Searle'
 - Searle, 'Minds, Brains, and Computers'
+- Haugeland, 'Understanding: Dennett and Searle'
