@@ -13,6 +13,8 @@ These are supervision guides for undergraduate students at Cambridge, but are op
 
 ## Basics
 
+<!-- Alex Fisher made this list: -->
+
 - Your essay of approximately 2,500 words is due approximately 24 hours prior to the time of our supervision. Please email it to me at hrs53 at cam.ac.uk as a .pdf file or .docx if you can’t do that. 
 - Please do let me know if you’re struggling to locate any readings (e.g. physical books that are on loan to someone else) and I’ll try to help out.
 - Please do send any questions or comments you have about the material or your essays (e.g. ‘I didn’t understand this passage in this reading’ or ‘Does the way I structured my essay work?’), either at the bottom of the essay or in your email to me – it’s useful to be reflective about your own work, and for me to have an idea of what you’d find most useful to cover in the supervision.
