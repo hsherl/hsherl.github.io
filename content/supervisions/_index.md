@@ -4,22 +4,19 @@ date: ""
 layout: "single"
 ---
 
-These are supervision guides for undergraduate students at Cambridge, but are open to all supervisors and students to use as they wish. 
-
 ## Subjects 
 
-- [Philosophy of Mind](pom/)
-<!-- - [Ethics](ethics/) -->
+- Philosophy of Mind (II) [Michaelmas 2022](pom/)
+<!-- - [Ethics](ethics/) (1B) [Michaelmas 2022](ethics/) -->
+<!-- - [Philosophy of economics](econ/) (2A/2B/II) [Michaelmas 2022](ethics/) -->
 
 ## Basics
 
-<!-- Alex Fisher made this list: -->
-
-- Your essay of approximately 2,500 words is due approximately 24 hours prior to the time of our supervision. Please email it to me at hrs53 at cam.ac.uk as a .pdf file or .docx if you can’t do that. 
-- Please do let me know if you’re struggling to locate any readings (e.g. physical books that are on loan to someone else) and I’ll try to help out.
-- Please do send any questions or comments you have about the material or your essays (e.g. ‘I didn’t understand this passage in this reading’ or ‘Does the way I structured my essay work?’), either at the bottom of the essay or in your email to me – it’s useful to be reflective about your own work, and for me to have an idea of what you’d find most useful to cover in the supervision.
-- An excellent resource for writing supervision essays is the following guide created by some former PhD students at Cambridge: https://www.phil.cam.ac.uk/curr-students/writing-skils/phil-essay-guide. 
-- The readings suggested below do not exhaust the topic. You may go beyond the list provided.
-- The full reading list for each paper can be found at: https://www.phil.cam.ac.uk/curr-students. It is not a good idea to read everything! 
-- You can usually find the links to the readings through the reading list or by typing them directly into iDiscover: www.idiscover.lib.cam.ac.uk. 
-- If you’re having trouble meeting the deadline, or you will not be able to make the supervision, please let me know ASAP so we can rearrange.
+- Your essay should be about 2,500 words and is due approximately 24 hours before the supervision. 
+- Email a .docx or .pages file to hrs53 at cam.ac.uk (or a .pdf if neither of those work, but please format it nicely!). 
+- Let me know if you are struggling to find any of the readings and I’ll try to help out.
+- Get in touch with questions or comments about the material or your essays (i.e. if you didn't understand a passage in an article or if you are not sure whether your outline works). You can do this either at the bottom of the essay or in your email to me. It's good to reflect on the process in the midst of it. 
+- It can be helpful to look at the guide created by some former PhD students at Cambridge: https://www.phil.cam.ac.uk/curr-students/writing-skils/phil-essay-guide. 
+- The full reading list for each paper can be found at: https://www.phil.cam.ac.uk/curr-students. It is not a good idea to read everything, but it is a good idea to be familiar with a representable sample of the list. 
+- You can usually find the links to the readings through the reading list or by typing them directly into iDiscover: www.idiscover.lib.cam.ac.uk. Google Scholar can otherwise be helpful. 
+- If you’re having trouble meeting the deadline or you will not be able to make the supervision, then please let me know ASAP so we can rearrange. 
