@@ -2,6 +2,7 @@
 <html lang="{{ .Site.LanguageCode }}">
   <head>
     {{ partial "head.html" . }}
+    {{ if .Params.mathjax }}{{ partial "footer_mathjax.html" . }}{{ end }}
   </head>
   <body>
     <div class="wrapper">
