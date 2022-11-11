@@ -49,5 +49,32 @@ Further reading:
 - Jane Heal, 'On First-Person Authority'
 - Amie Thomasson, 'First-Person Knowledge in Phenomenology'
 
-## 4 Imagination
+## 4 
 
+### 4.1 Imagination
+
+Question:
+
+> Why do I cower when watching a horror movie, despite knowing that it is not real?
+
+Reading:
+
+- Amy Kind, 'The Heterogeneity of the Imagination'
+- Kendall Walton, 'Fearing Fictions'
+- Amy Kind, 'The Puzzle of Imaginative Desire'
+- Tyler Doggett and Andy Egan, 'Wanting Things You Don’t Want: The Case for an Imaginative Analogue of Desire'
+- Susanna Schellenberg, 'Belief and Desire in Imagination and Immersion'
+
+### 4.2 Perceptual content
+
+Question: 
+
+> 1. Can you see that someone is angry? (To get permission to take this option, explain in a two-sentence email what the question means.)
+> 2. Do perceptual experiences have contents? 
+
+Reading:
+
+- Tim Crane, 'Is Perception a Propositional Attitude?'.
+- Susanna Siegel, 'Do Perceptual Experiences Have Contents?'.
+- Charles Travis, 'The Silence of the Senses'.
+- Susanna Siegel, 'Cognitive Penetrability and Perceptual Justification'.
