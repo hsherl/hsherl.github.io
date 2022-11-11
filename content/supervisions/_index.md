@@ -7,7 +7,7 @@ layout: "single"
 ## Subjects 
 
 - [II Philosophy of mind](pom/) (II) (Michaelmas 2022)
-- [1B Ethics](ethics/) (1B) [(Michaelmas 2022)
+- [1B Ethics](ethics/) (1B) (Michaelmas 2022)
 - [HPS II Philosophy of economics](economics/) (Michaelmas 2022)
 
 ## Basics
