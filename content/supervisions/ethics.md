@@ -2,6 +2,7 @@
 title: "Ethics"
 date: "2022-10-18"
 layout: "post"
+mathjax: true
 ---
 
 ## 1 Practical reason
