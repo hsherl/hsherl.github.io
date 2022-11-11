@@ -8,8 +8,8 @@ layout: "post"
 
 Choose one question: 
 
-1. ‘If people’s reasons for action depend on their desires, then people without at least some desire to be good have no reason to be good. So, people’s reasons for action don’t depend on their desires.’ Is this a good argument?
-2. ‘You are obligated to $\varphi$ only if you have reason to $\varphi$. You have reason to $\varphi$ only if you are motivated to $\varphi$. You are not motivated to $\varphi$; therefore, you are not obligated to $\varphi$.’ Discuss.
+> 1. ‘If people’s reasons for action depend on their desires, then people without at least some desire to be good have no reason to be good. So, people’s reasons for action don’t depend on their desires.’ Is this a good argument?
+> 2. ‘You are obligated to $\varphi$ only if you have reason to $\varphi$. You have reason to $\varphi$ only if you are motivated to $\varphi$. You are not motivated to $\varphi$; therefore, you are not obligated to $\varphi$.’ Discuss.
 
 Primary reading:
 
