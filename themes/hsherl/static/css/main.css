@@ -351,6 +351,13 @@ article.article {
     margin: 20px -20px;
   }
 
+code.has-jax {
+    -webkit-font-smoothing: antialiased;
+    background: inherit !important;
+    border: none !important;
+    font-size: 100%;
+}
+
   .archive {
     text-align: justify;
   }
