@@ -4,6 +4,8 @@ date: ""
 layout: "single"
 ---
 
+I have supervised undergraduate students at Cambridge since 2022. Below is a list of the subjects for which I have supervised along with the questions and reading lists I have set. 
+
 ## Subjects 
 
 - [II Philosophy of mind](pom/) (II) (Michaelmas 2022)

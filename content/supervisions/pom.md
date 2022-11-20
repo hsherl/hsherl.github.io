@@ -49,7 +49,7 @@ Further reading:
 - Jane Heal, 'On First-Person Authority'
 - Amie Thomasson, 'First-Person Knowledge in Phenomenology'
 
-## 4 
+## 4 Optional week
 
 ### 4.1 Imagination
 
