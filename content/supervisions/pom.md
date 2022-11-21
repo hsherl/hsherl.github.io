@@ -1,14 +1,16 @@
 ---
-title: "Philosophy of Mind"
+title: "II Philosophy of Mind"
 date: "2022-10-18"
 layout: "post"
 ---
+
+Here are the topics, questions, and reading lists for the II Philosophy of Mind supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered. 
 
 ## 1 Intentionality
 
 Question:
 
-> Do thermostats have beliefs? 
+> 'Thermostats really have beliefs and desires.' Discuss. 
 
 Required reading: 
 
@@ -30,7 +32,7 @@ Required reading:
 
 ## 3 Knowledge about the mind
 
-Choose a question: 
+Questions: 
 
 > 1. Do we have privileged access to our own minds? 
 > 2. Is introspection reliable? 
@@ -49,32 +51,36 @@ Further reading:
 - Jane Heal, 'On First-Person Authority'
 - Amie Thomasson, 'First-Person Knowledge in Phenomenology'
 
-## 4 Optional week
-
-### 4.1 Imagination
+## 4 Imagination
 
 Question:
 
 > Why do I cower when watching a horror movie, despite knowing that it is not real?
 
-Reading:
+Primary reading:
 
 - Amy Kind, 'The Heterogeneity of the Imagination'
 - Kendall Walton, 'Fearing Fictions'
 - Amy Kind, 'The Puzzle of Imaginative Desire'
+
+Further reading: 
+
 - Tyler Doggett and Andy Egan, 'Wanting Things You Don’t Want: The Case for an Imaginative Analogue of Desire'
 - Susanna Schellenberg, 'Belief and Desire in Imagination and Immersion'
 
-### 4.2 Perceptual content
+## 5 Perceptual content
 
-Question: 
+Questions: 
 
 > 1. Can you see that someone is angry? (To get permission to take this option, explain in a two-sentence email what the question means.)
 > 2. Do perceptual experiences have contents? 
 
-Reading:
+Primary reading:
 
-- Tim Crane, 'Is Perception a Propositional Attitude?'.
-- Susanna Siegel, 'Do Perceptual Experiences Have Contents?'.
-- Charles Travis, 'The Silence of the Senses'.
-- Susanna Siegel, 'Cognitive Penetrability and Perceptual Justification'.
+- Tim Crane, 'Is Perception a Propositional Attitude?'
+- Susanna Siegel, 'Do Perceptual Experiences Have Contents?'
+
+Further reading: 
+
+- Charles Travis, 'The Silence of the Senses'
+- Susanna Siegel, 'Cognitive Penetrability and Perceptual Justification'

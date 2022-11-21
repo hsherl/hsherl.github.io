@@ -8,13 +8,28 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hsherl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ethics</title>
+      <title>1B Ethics</title>
       <link>https://hsherl.github.io/supervisions/ethics/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hsherl.github.io/supervisions/ethics/</guid>
-      <description>1 Practical reason Choose one question:
-‘If people’s reasons for action depend on their desires, then people without at least some desire to be good have no reason to be good. So, people’s reasons for action don’t depend on their desires.’ Is this a good argument? ‘You are obligated to $\varphi$ only if you have reason to $\varphi$. You have reason to $\varphi$ only if you are motivated to $\varphi$. You are not motivated to $\varphi$; therefore, you are not obligated to $\varphi$.</description>
+      <description>Here are the topics, questions, and reading lists for the 1B Ethics supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered.
+1 Practical reason Questions:
+‘If people’s reasons for action depend on their desires, then people without at least some desire to be good have no reason to be good. So, people’s reasons for action don’t depend on their desires.</description>
+    </item>
+    
+    <item>
+      <title>II Philosophy of Mind</title>
+      <link>https://hsherl.github.io/supervisions/pom/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsherl.github.io/supervisions/pom/</guid>
+      <description>Here are the topics, questions, and reading lists for the II Philosophy of Mind supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered.
+1 Intentionality Question:
+&amp;lsquo;Thermostats really have beliefs and desires.&amp;rsquo; Discuss.
+Required reading:
+Dennett, &amp;lsquo;Intentional systems&amp;rsquo; Searle, &amp;lsquo;Minds, Brains, and Computers&amp;rsquo; Haugeland, &amp;lsquo;Understanding: Dennett and Searle&amp;rsquo; 2 Consciousness Question:
+Can science explain consciousness?</description>
     </item>
     
     <item>
@@ -24,22 +39,6 @@
       
       <guid>https://hsherl.github.io/supervisions/economics/</guid>
       <description>This paper is with HPS. As such, there is a standardised supervision guide for all students, which can be found either by asking your supervisor or by consulting Moodle.</description>
-    </item>
-    
-    <item>
-      <title>Philosophy of Mind</title>
-      <link>https://hsherl.github.io/supervisions/pom/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hsherl.github.io/supervisions/pom/</guid>
-      <description>1 Intentionality Question:
-Do thermostats have beliefs?
-Required reading:
-Dennett, &amp;lsquo;Intentional systems&amp;rsquo; Searle, &amp;lsquo;Minds, Brains, and Computers&amp;rsquo; Haugeland, &amp;lsquo;Understanding: Dennett and Searle&amp;rsquo; 2 Consciousness Question:
-Can science explain consciousness?
-Required reading:
-Thomas Nagel, &amp;lsquo;What is it like to be a bat?&amp;rsquo; Frank Jackson, &amp;lsquo;Epiphenomenal Qualia&amp;rsquo; Chalmers, The Conscious Mind (ch. 3) 3 Knowledge about the mind Choose a question:
-Do we have privileged access to our own minds? Is introspection reliable?</description>
     </item>
     
     <item>
