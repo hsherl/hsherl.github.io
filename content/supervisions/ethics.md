@@ -104,7 +104,7 @@ Primary reading:
 Further reading: 
 
 - Dougherty, 'Rational Numbers: A Non-Consequentialist Explanation Of Why You Should Save The Many And Not The Few'
-- Fried, 'Can Contractualism Save Us from Aggregation?' The Journal of Ethics
+- Fried, 'Can Contractualism Save Us from Aggregation?'
 - Hirose, 'Saving the Greater Number Without Combining Claims'
 - Otsuka, 'Saving Lives, Moral Theory, and the Claims of Individuals'
 
@@ -137,12 +137,13 @@ Further reading:
 Questions: 
 
 > 1. How does the fact that two adults both consent to something change their normative situation?
-> 2. What is required for consent to be legitimate? 
+> 2. What is required for someone's consent to be valid? 
+> 3. 'You wrong another person by performing an action if they could not reasonably consent to this action.' Is this right?
 
 Primary reading: 
 
 - Korsgaard, 'Kant's Formula of Humanity'
-- O'Neill, 'Between Consenting Adults '
+- O'Neill, 'Between Consenting Adults'
 - Beauchamp, 'Autonomy and Consent'
 - Conly, 'Seduction, Rape, and Coercion'
 - Dworkin, 'The Theory and Practice of Autonomy'
@@ -172,11 +173,11 @@ Primary reading:
 
 Further reading: 
 
-- Narveson, 'Promising, Expecting, and Utility '
-- Shiffrin, 'Promising, Intimate Relationships, and Conventionalism '
+- Narveson, 'Promising, Expecting, and Utility'
+- Shiffrin, 'Promising, Intimate Relationships, and Conventionalism'
 - Thomson, 'Giving One’s Word'
 - Watson, 'Promises, Reasons, and Normative Powers'
-- Southwood, 'Promises Beyond Assurance '
+- Southwood, 'Promises Beyond Assurance'
 
 ## 6 Virtue ethics
 
@@ -201,13 +202,13 @@ Further reading:
 - Broadie, 'The Problem of Practical Intellect in Aristotle’s Ethics'
 - Doris, 'Persons, Situations, and Virtue Ethics'
 - Foot, 'Virtues and Vices'
-- Harman, 'Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error '
+- Harman, 'Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error'
 - Hursthouse, 'The Central Doctrine of the Mean'
 - Kamtekar, 'Situationism and Virtue Ethics on the Content of Our Character'
 - McDowell, 'Virtue and Reason'
 - Nussbaum, 'Non‐Relative Virtues: An Aristotelian Approach'
 - Pakaluk, 'Aristotle's Nicomachean Ethics: An introduction'
-- Prinz, 'The Normativity Challenge: Cultural Psychology Provides the Real Threat to Virtue Ethics '
+- Prinz, 'The Normativity Challenge: Cultural Psychology Provides the Real Threat to Virtue Ethics'
 - Railton, 'Two Cheers for Virtue: or, Might Virtue Be Habit Forming?'
 - Rorty, *Essays on Aristotle's Ethics*
 - Russell, 'Phronesis and the Virtues'
