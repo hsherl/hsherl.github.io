@@ -42,7 +42,7 @@ At the moment (2022-2023), Spinoza is not examinable. You may still choose to re
 
 Overview: 
 
-- Schneewind, 'Voluntarism and the Foundations of Ethics'
+- Schneewind, 'Voluntarism and the Foundations of Ethics'. 
 
 Primary readings central thinkers can be found in Schneewind's *Moral Philosophy from Montaigne to Kant*. Choose among chapters about: 
 
@@ -55,10 +55,10 @@ Primary readings central thinkers can be found in Schneewind's *Moral Philosophy
 
 Further Reading:
 
-- Spinoza, *Ethics* (especially 1p17c1,c2,s and 4p72, inclyding all back-references therein) 
-- Darwall, 'Pufendorf on Morality, Sociability, and Moral Powers'
-- Haakonssen, 'Early Modern Natural Law Theories'
-- Irwin, *The Development of Ethics: Volume 2: From Suarez to Rousseau* (especially chapter 32)
+- Spinoza, *Ethics* (especially 1p17 and 4p72). 
+- Darwall, 'Pufendorf on Morality, Sociability, and Moral Powers'. 
+- Haakonssen, 'Early Modern Natural Law Theories'. 
+- Irwin, *The Development of Ethics: Volume 2: From Suarez to Rousseau* (especially chapter 32). 
 
 ## 3 Helping and harming
 
@@ -72,20 +72,20 @@ Questions:
 
 Primary reading: 
 
-- Singer, 'Famine, Affluence, and Morality'
-- Baron, 'Kantian Ethics Almost Without Apology' 
-- Buss, 'Needs (Someone Else's), Projects (My Own), and Reasons'
-- Wolf, 'Moral Saints' 
+- Singer, 'Famine, Affluence, and Morality'. 
+- Baron, 'Kantian Ethics Almost Without Apology'. 
+- Buss, 'Needs (Someone Else's), Projects (My Own), and Reasons'. 
+- Wolf, 'Moral Saints'. 
 
 Further reading: 
 
-- Unger, 'Living High and Letting Die: Our illusion of innocence'
-- Melden, 'Saints and Heroes' 
-- Herman, 'The Scope of Moral Requirement'
-- Cullity, 'The Moral Demands of Affluence'
-- Hill, 'Meeting Needs and Doing Favors'
-- Murphy, 'The Demands of Beneficence'
-- Miller, 'Beneficence, Duty and Distance'
+- Unger, 'Living High and Letting Die: Our illusion of innocence'. 
+- Melden, 'Saints and Heroes'. 
+- Herman, 'The Scope of Moral Requirement'. 
+- Cullity, 'The Moral Demands of Affluence'. 
+- Hill, 'Meeting Needs and Doing Favors'. 
+- Murphy, 'The Demands of Beneficence'. 
+- Miller, 'Beneficence, Duty and Distance'. 
 
 ### 3.2 Aggregation
 
@@ -96,17 +96,17 @@ Questions:
 
 Primary reading: 
 
-- Norcross, 'Comparing Harms: Headaches and Human Lives'
-- Scanlon, 'The Structure of Contractualism'
-- Taurek, 'Should the Numbers Count?' 
-- Broome, 'Fairness'
+- Norcross, 'Comparing Harms: Headaches and Human Lives'. 
+- Scanlon, 'The Structure of Contractualism'. 
+- Taurek, 'Should the Numbers Count?'. 
+- Broome, 'Fairness'. 
 
 Further reading: 
 
-- Dougherty, 'Rational Numbers: A Non-Consequentialist Explanation Of Why You Should Save The Many And Not The Few'
-- Fried, 'Can Contractualism Save Us from Aggregation?'
-- Hirose, 'Saving the Greater Number Without Combining Claims'
-- Otsuka, 'Saving Lives, Moral Theory, and the Claims of Individuals'
+- Dougherty, 'Rational Numbers: A Non-Consequentialist Explanation Of Why You Should Save The Many And Not The Few'. 
+- Fried, 'Can Contractualism Save Us from Aggregation?'. 
+- Hirose, 'Saving the Greater Number Without Combining Claims'. 
+- Otsuka, 'Saving Lives, Moral Theory, and the Claims of Individuals'. 
 
 ### 3.3 Contractualism
 
@@ -116,19 +116,19 @@ Question:
 
 Primary reading: 
 
-- Parfit, 'Contractualism'
-- Sen and Williams, 'Contractualism and Utilitarianism'
-- Scanlon, 'What We Owe to Each Other'
-- Ashford, 'The Demandingness of Scanlon’s Contractualism'
+- Parfit, 'Contractualism'. 
+- Sen and Williams, 'Contractualism and Utilitarianism'. 
+- Scanlon, 'What We Owe to Each Other'. 
+- Ashford, 'The Demandingness of Scanlon’s Contractualism'. 
 
 Further reading: 
 
-- Brand‐Ballard, 'Contractualism and Deontic Restrictions'
-- Darwall, 'The Second-person Standpoint: Morality, respect, and accountability'
-- Gauthier, 'Morals By Agreement'
-- Hampton, 'Feminist Contractarianism'
-- Kumar, 'Defending the Moral Moderate: Contractualism and Common Sense'
-- Wallace, 'Scanlon’s Contractualism'
+- Brand‐Ballard, 'Contractualism and Deontic Restrictions'. 
+- Darwall, 'The Second-person Standpoint: Morality, respect, and accountability'. 
+- Gauthier, 'Morals By Agreement'. 
+- Hampton, 'Feminist Contractarianism'. 
+- Kumar, 'Defending the Moral Moderate: Contractualism and Common Sense'. 
+- Wallace, 'Scanlon’s Contractualism'. 
 
 ## 5 Normative powers
 
@@ -142,20 +142,20 @@ Questions:
 
 Primary reading: 
 
-- Korsgaard, 'Kant's Formula of Humanity'
-- O'Neill, 'Between Consenting Adults'
-- Beauchamp, 'Autonomy and Consent'
-- Conly, 'Seduction, Rape, and Coercion'
-- Dworkin, 'The Theory and Practice of Autonomy'
+- Korsgaard, 'Kant's Formula of Humanity'. 
+- O'Neill, 'Between Consenting Adults'. 
+- Beauchamp, 'Autonomy and Consent'. 
+- Conly, 'Seduction, Rape, and Coercion'. 
+- Dworkin, 'The Theory and Practice of Autonomy'. 
 
 Further reading: 
 
-- Manson, 'How to Rethink Informed Consent'
-- Owens, 'The Possibility of Consent'
-- Parfit, 'Possible Consent'
-- Scanlon, 'The Value of Choice' 
-- Wertheimer, 'Consent to Sexual Relations'
-- West, 'Sex, Law, and Consent'
+- Manson, 'How to Rethink Informed Consent'. 
+- Owens, 'The Possibility of Consent'. 
+- Parfit, 'Possible Consent'. 
+- Scanlon, 'The Value of Choice'. 
+- Wertheimer, 'Consent to Sexual Relations'. 
+- West, 'Sex, Law, and Consent'. 
 
 ### 5.2 Promise
 
@@ -166,18 +166,18 @@ Questions:
 
 Primary reading: 
 
-- Owens, 'Shaping the Normative Landscape'
-- Rawls, 'Two Concepts of Rules'
-- Scanlon, 'Promises and Practices'
-- Gilbert, 'Scanlon on Promissory Obligation: The Problem of Promisees'
+- Owens, 'Shaping the Normative Landscape'. 
+- Rawls, 'Two Concepts of Rules'. 
+- Scanlon, 'Promises and Practices'. 
+- Gilbert, 'Scanlon on Promissory Obligation: The Problem of Promisees'. 
 
 Further reading: 
 
-- Narveson, 'Promising, Expecting, and Utility'
-- Shiffrin, 'Promising, Intimate Relationships, and Conventionalism'
-- Thomson, 'Giving One’s Word'
-- Watson, 'Promises, Reasons, and Normative Powers'
-- Southwood, 'Promises Beyond Assurance'
+- Narveson, 'Promising, Expecting, and Utility'. 
+- Shiffrin, 'Promising, Intimate Relationships, and Conventionalism'. 
+- Thomson, 'Giving One’s Word'. 
+- Watson, 'Promises, Reasons, and Normative Powers'. 
+- Southwood, 'Promises Beyond Assurance'. 
 
 ## 6 Virtue ethics
 
@@ -188,29 +188,29 @@ Questions:
 
 Primary reading: 
 
-- Aristotle, *Nicomachean Ethics* (Book 2, chs. 1--7; Book 6, chs. 9--11)
-- Alfano, 'Character as Moral Fiction'
-- Annas, 'Intelligent Virtue'
-- Anscombe, 'Modern Moral Philosophy'
-- Wolf, 'Moral Psychology and the Unity of the Virtues'
+- Aristotle, *Nicomachean Ethics* (Book 2, chs. 1--7; Book 6, chs. 9--11). 
+- Alfano, 'Character as Moral Fiction'. 
+- Annas, 'Intelligent Virtue'. 
+- Anscombe, 'Modern Moral Philosophy'. 
+- Wolf, 'Moral Psychology and the Unity of the Virtues'. 
 
 Further reading: 
 
-- Alfano (Ed.), *Current Controversies in Virtue Theory* ()
-- Snow, *The Oxford Handbook of Essays on Aristotle's Ethics Virtue*
-- Badhwar, 'The Limited Unity of Virtue'
-- Broadie, 'The Problem of Practical Intellect in Aristotle’s Ethics'
-- Doris, 'Persons, Situations, and Virtue Ethics'
-- Foot, 'Virtues and Vices'
-- Harman, 'Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error'
-- Hursthouse, 'The Central Doctrine of the Mean'
-- Kamtekar, 'Situationism and Virtue Ethics on the Content of Our Character'
-- McDowell, 'Virtue and Reason'
-- Nussbaum, 'Non‐Relative Virtues: An Aristotelian Approach'
-- Pakaluk, 'Aristotle's Nicomachean Ethics: An introduction'
-- Prinz, 'The Normativity Challenge: Cultural Psychology Provides the Real Threat to Virtue Ethics'
-- Railton, 'Two Cheers for Virtue: or, Might Virtue Be Habit Forming?'
-- Rorty, *Essays on Aristotle's Ethics*
-- Russell, 'Phronesis and the Virtues'
-- Snow, 'Comments on Intelligent Virtue: Outsmarting Situationism'
-- Sreenivasan, 'Errors about Errors: Virtue Theory and Trait Attribution' 
+- Alfano (Ed.), *Current Controversies in Virtue Theory*. 
+- Snow, *The Oxford Handbook of Essays on Aristotle's Ethics Virtue*. 
+- Badhwar, 'The Limited Unity of Virtue'. 
+- Broadie, 'The Problem of Practical Intellect in Aristotle’s Ethics'. 
+- Doris, 'Persons, Situations, and Virtue Ethics'. 
+- Foot, 'Virtues and Vices'. 
+- Harman, 'Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error'. 
+- Hursthouse, 'The Central Doctrine of the Mean'. 
+- Kamtekar, 'Situationism and Virtue Ethics on the Content of Our Character'. 
+- McDowell, 'Virtue and Reason'. 
+- Nussbaum, 'Non‐Relative Virtues: An Aristotelian Approach'. 
+- Pakaluk, 'Aristotle's Nicomachean Ethics: An introduction'. 
+- Prinz, 'The Normativity Challenge: Cultural Psychology Provides the Real Threat to Virtue Ethics'. 
+- Railton, 'Two Cheers for Virtue: or, Might Virtue Be Habit Forming?'. 
+- Rorty, *Essays on Aristotle's Ethics*. 
+- Russell, 'Phronesis and the Virtues'. 
+- Snow, 'Comments on Intelligent Virtue: Outsmarting Situationism'. 
+- Sreenivasan, 'Errors about Errors: Virtue Theory and Trait Attribution'. 
