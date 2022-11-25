@@ -44,14 +44,14 @@ Overview:
 
 - Schneewind, 'Voluntarism and the Foundations of Ethics'. 
 
-Primary readings central thinkers can be found in Schneewind's *Moral Philosophy from Montaigne to Kant*. Choose among chapters about: 
+Primary readings about all of the central thinkers can be found in Schneewind's *Moral Philosophy from Montaigne to Kant*. Choose among chapters about
 
-- Samuel Pufendorf
-- Thomas Hobbes
-- Benedict de Spinoza
-- Gottfried Wilhelm Leibniz
-- Samuel Clarke
-- Francisco Suarez
+- Samuel Pufendorf, 
+- Thomas Hobbes, 
+- Benedict de Spinoza, 
+- Gottfried Wilhelm Leibniz, 
+- Samuel Clarke, and
+- Francisco Suarez. 
 
 Further Reading:
 
