@@ -9,7 +9,7 @@ I have supervised undergraduate students at Cambridge since 2022. Below is a lis
 ## Subjects 
 
 - [II Philosophy of mind](pom/) (II) (Michaelmas 2022)
-- [1B Ethics](ethics/) (1B) (Michaelmas 2022)
+- [1B Ethics](ethics/) (1B) (Michaelmas 2022 and Lent 2023)
 - [HPS II Philosophy of economics](economics/) (Michaelmas 2022)
 
 ## Basics

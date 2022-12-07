@@ -4,7 +4,7 @@ date: ""
 layout: "single"
 ---
 
-I will teach seminars at Cambridge from the winter of 2023. Below is a list of the subjects I will teach, with links to their reading lists. 
+I will teach seminars, previously called discussion groups, at Cambridge from the winter of 2023. Below is a list of the subjects I will teach, with links to their reading lists. 
 
 ## Subjects 
 
