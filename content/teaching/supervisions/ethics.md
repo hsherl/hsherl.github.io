@@ -1,11 +1,13 @@
 ---
-title: "1B Ethics"
+title: "Part 1B Ethics"
 date: "2022-10-18"
 layout: "post"
 mathjax: true
 ---
 
-Here are the topics, questions, and reading lists for the 1B Ethics supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered. 
+[Back to all supervision subjects](../).
+
+Here are the topics, questions, and reading lists for the Part 1B Ethics supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered. 
 
 ## 1 Practical reason
 

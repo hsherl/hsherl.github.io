@@ -11,7 +11,7 @@
 
   <ul class="nav-links inactive">
     {{ range .Site.Menus.main }}
-        <li><a {{ if eq $currentPage.URL .URL }}class="active"{{end}} href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
     {{ end }}
   </ul>
 </nav>

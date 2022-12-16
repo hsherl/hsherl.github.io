@@ -3,21 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hsherl.github.io/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsherl.github.io/teaching/seminars/ethics/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsherl.github.io/teaching/seminars/ems/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsherl.github.io/teaching/seminars/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsherl.github.io/teaching/supervisions/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsherl.github.io/teaching/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hsherl.github.io/teaching/supervisions/ethics/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hsherl.github.io/supervisions/ethics/</loc>
+    <loc>https://hsherl.github.io/teaching/supervisions/pom/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hsherl.github.io/supervisions/pom/</loc>
+    <loc>https://hsherl.github.io/teaching/supervisions/poe/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hsherl.github.io/supervisions/economics/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hsherl.github.io/supervisions/pos/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hsherl.github.io/supervisions/</loc>
+    <loc>https://hsherl.github.io/teaching/supervisions/pos/</loc>
     <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hsherl.github.io/about/</loc>
@@ -31,8 +43,6 @@
     <loc>https://hsherl.github.io/post/</loc>
   </url><url>
     <loc>https://hsherl.github.io/pres/</loc>
-  </url><url>
-    <loc>https://hsherl.github.io/seminars/</loc>
   </url><url>
     <loc>https://hsherl.github.io/tags/</loc>
   </url>

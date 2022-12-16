@@ -1,6 +1,6 @@
 baseurl = "https://hsherl.github.io/"
 publishDir = "docs"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Henrik Røed Sherling"
 theme = "hsherl"
 googleAnalytics = ""
@@ -10,20 +10,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
-# [[menu.main]]
-#     name = "Home"
-#     identifier = "home"
-#     url = "/"
-#     weight = 1
+[[menu.main]]
+    name = "About"
+    identifier = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 2
 # [[menu.main]]
 #     name = "Projects"
 #     identifier = "projects"
 #     url = "/projects/"
 #     weight = 2
-# [[menu.main]]
-#     name = "Posts"
-#     url = "/post/"
-#     weight = 3
 # [[menu.main]]
 #     name = "About"
 #     identifier = "about"
@@ -31,7 +31,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 #     weight = 4
 
 [params]
-    description = "Henrik Sherling's personal website."
+    description = "Henrik Sherling's academic website."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"

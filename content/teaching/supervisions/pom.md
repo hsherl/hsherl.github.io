@@ -1,10 +1,12 @@
 ---
-title: "II Philosophy of Mind"
+title: "Part II Philosophy of Mind"
 date: "2022-10-18"
 layout: "post"
 ---
 
-Here are the topics, questions, and reading lists for the II Philosophy of Mind supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered. 
+[Back to all supervision subjects](../).
+
+Here are the topics, questions, and reading lists for the Part II Philosophy of Mind supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered. 
 
 ## 1 Intentionality
 
