@@ -35,3 +35,17 @@ Some useful resources are
 - the [library search service](https://idiscover.lib.cam.ac.uk/), 
 - the faculty's [essay writing guide](https://www.phil.cam.ac.uk/curr-students/writing-skils/phil-essay-guide), and
 - the faculty's reading lists for part [IA](https://www.phil.cam.ac.uk/curr-students/IA/IA-reading-lists), [IB](https://www.phil.cam.ac.uk/curr-students/IB/IB-reading-lists)), and [II](https://www.phil.cam.ac.uk/curr-students/II/II-reading-lists)). 
+
+There are many ways to approach essays. Here is one step-by-step guide. Students should modify it to their liking. 
+
+1. Go to the lecture. 
+2. Read an overview of the topic on the Stanford Encyclopedia of Philosophy and the Internet Encyclopedia of Philosophy. 
+3. Read what *seems* like the most fruitful article based on (1) and (2). 
+    1. Read the introduction and conclusion then the rest of the essay. 
+    2. Take notes and save quotes (along with page numbers). 
+    3. Write quick paraphrases of these quotes for later use and to build memory. 
+    4. Note important references. 
+4. Repeat (3) until enough articles have been covered. 
+5. Outline the general structure of the essay. 
+6. Fill in outline elements with quotes and paraphrases from (3) and (4). 
+7. Write the full essay by expanding on (6) and (7). 
