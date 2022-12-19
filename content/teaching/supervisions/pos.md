@@ -16,7 +16,10 @@ Question:
 
 Primary reading: 
 
-- Neander, "The Teleological Notion of 'function'"
+- Millikan, 'In defense of proper functions'
+- Neander, 'Functions as Selected Effects: The Conceptual Analyst's Defense'
+- Garson, 'Function and Teleology'
+- Godfrey-Smith, 'A modern history theory of functions'
 
 Secondary reading: 
 
