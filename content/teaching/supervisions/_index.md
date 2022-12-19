@@ -48,6 +48,6 @@ There are many ways to approach essays. Here is one step-by-step guide. Students
 4. Repeat (3) until enough articles have been covered. 
 5. Outline the general structure of the essay. 
 6. Fill in outline elements with quotes and paraphrases from (3) and (4). 
-7. Write the full essay by expanding on (6) and (7). 
+7. Write the full essay based on this detailed outline. 
 
 For extended essays it is expected that key passages and key articles have been read many times with careful attention to details. 
