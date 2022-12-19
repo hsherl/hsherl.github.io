@@ -39,8 +39,8 @@ Some useful resources are
 There are many ways to approach essays. Here is one step-by-step guide. Students should modify it to their liking. 
 
 1. Go to the lecture. 
-2. Read an overview of the topic on the Stanford Encyclopedia of Philosophy and the Internet Encyclopedia of Philosophy. 
-3. Read what *seems* like the most fruitful article based on (1) and (2). 
+2. Skim an overview of the topic on the Stanford Encyclopedia of Philosophy or the Internet Encyclopedia of Philosophy. 
+3. Carefully read what *seems* like the most fruitful article based on (1) and (2). 
     1. Read the introduction and conclusion then the rest of the essay. 
     2. Take notes and save quotes (along with page numbers). 
     3. Write quick paraphrases of these quotes for later use and to build memory. 
@@ -49,3 +49,5 @@ There are many ways to approach essays. Here is one step-by-step guide. Students
 5. Outline the general structure of the essay. 
 6. Fill in outline elements with quotes and paraphrases from (3) and (4). 
 7. Write the full essay by expanding on (6) and (7). 
+
+For extended essays it is expected that key passages and key articles have been read many times with careful attention to details. 
