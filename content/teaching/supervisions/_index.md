@@ -34,7 +34,7 @@ Some useful resources are
 
 - the [library search service](https://idiscover.lib.cam.ac.uk/), 
 - the faculty's [essay writing guide](https://www.phil.cam.ac.uk/curr-students/writing-skils/phil-essay-guide), and
-- the faculty's reading lists for part [IA](https://www.phil.cam.ac.uk/curr-students/IA/IA-reading-lists), [IB](https://www.phil.cam.ac.uk/curr-students/IB/IB-reading-lists)), and [II](https://www.phil.cam.ac.uk/curr-students/II/II-reading-lists). 
+- the faculty's reading lists for part [IA](https://www.phil.cam.ac.uk/curr-students/IA/IA-reading-lists), [IB](https://www.phil.cam.ac.uk/curr-students/IB/IB-reading-lists), and [II](https://www.phil.cam.ac.uk/curr-students/II/II-reading-lists). 
 
 There are many ways to approach essays. Here is one step-by-step guide. Students should modify it to their liking. 
 
