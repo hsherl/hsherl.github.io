@@ -23,13 +23,16 @@ The essay should
 - explain and frame what the question is getting at (in the introduction), 
 - outline how the essay plans to answer the question (in the introduction), 
 - signpost, 
-- explain technical vocabulary, 
+- explain technical vocabulary,
+- use the same words for the same things throughout, 
 - give reasons for its claims, 
 - use concrete examples to illustrate abstract ideas, 
 - demonstrate familiary with the primary readings, 
 - consider at least one central argument in depth, 
 - consider at least one rebuttal, and
-- omit needless ideas (i.e. ideas which do not clearly address the question). 
+- **omit needless ideas**. 
+
+The last point is perhaps the most important. The student must demonstrate both *that* and *how* what they say in the essay goes towards answering the essay question. Extraneous bits count against the essay, even if they are interesting in their own right. This is an important difference between the essay as a literary genre and the philosophical essay. 
 
 Some useful resources are
 
