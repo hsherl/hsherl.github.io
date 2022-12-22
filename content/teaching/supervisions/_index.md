@@ -24,6 +24,7 @@ The essay should
 - outline how the essay plans to answer the question (in the introduction), 
 - signpost, 
 - explain technical vocabulary, 
+- give reasons for its claims, 
 - use concrete examples to illustrate abstract ideas, 
 - demonstrate familiary with the primary readings, 
 - consider at least one central argument in depth, 

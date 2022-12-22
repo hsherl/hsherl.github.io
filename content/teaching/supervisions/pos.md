@@ -18,8 +18,8 @@ Primary reading:
 
 - Millikan, 'In defense of proper functions'
 - Neander, 'Functions as Selected Effects: The Conceptual Analyst's Defense'
-- Garson, 'Function and Teleology'
 - Godfrey-Smith, 'A modern history theory of functions'
+- Garson, 'Function and Teleology'
 
 Secondary reading: 
 
