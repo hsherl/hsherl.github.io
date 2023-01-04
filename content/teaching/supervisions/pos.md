@@ -14,8 +14,6 @@ Question:
 
 > How, if at all, can stating the function of a feature of an organism explain that feature?
 
-> What does a biological function explain? 
-
 Primary reading: 
 
 - Millikan, 'In defense of proper functions'
