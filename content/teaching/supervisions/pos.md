@@ -33,11 +33,11 @@ Primary reading:
 
 - Hacking, I. (1999). *The Social Construction of What?*. Harvard University Press. Chapter 1 ('Why ask what?') and 4 ('Madness: Biological or Constructed?')
 - Cooper, R. (2013). What’s Special About Mental Health and Disorder? In *Arguing About Human Nature*, eds. E. Machery and S. Downes. New York: Routledge, pp. 487--500. 
-- Murphy, D. (2010). Explanation in psychiatry. Philosophy Compass, 5(7), 602-610. Chicago. 
+- Murphy, D. (2010). Explanation in psychiatry. *Philosophy Compass*, 5(7), 602-610. Chicago. 
 
 Secondary reading: 
 
-- Nadelhoffer, T., & Sinnott‐Armstrong, W. (2012). Neurolaw and neuroprediction: Potential promises and perils. Philosophy Compass, 7(9), 631-642.
+- Nadelhoffer, T., & Sinnott‐Armstrong, W. (2012). Neurolaw and neuroprediction: Potential promises and perils. *Philosophy Compass*, 7(9), 631-642.
 - Pickard, H. (2015). Psychopathology and the ability to do otherwise. *Philosophy and Phenomenological Research*, 90(1), 135-163. Chicago. 
 - Kingma, E. (2012). Health and disease: Social constructivism as a combination of naturalism and normativism. In *Health, Illness and Disease: Philosophical Essays*, eds. Carel H. Cooper R., 37–56. Durham, UK: Acumen Publishing. 
 
