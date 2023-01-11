@@ -55,6 +55,35 @@ The remainder of this page is under construction. The section headings indicate 
 
 # Physics
 
-## Quantum
-
 ## Space and time
+
+> What role (if any) do conventions play in spacetime physics?
+
+Primary reading: 
+
+- Dainton, 'Curved Space'
+- Nerlich, *The Shape of Space* (Chs. 6 & 7)
+- Ivanova, 'Conventionalism, Structuralism and Neo-Kantianism in Poincaré's Philosophy of Science'
+
+Secondary reading: 
+
+- Sklar, *Space, Time, and Spacetime* (Ch. 2)
+- Reichenbach, *The Philosophy of Space and Time* ($\S$1--8)
+- Ben-Menahem, 'Relativity: From "Experience and Geometry" to "Geometry and Experience"'
+- Nagel, *The Structure of Science: Problems in the Logic of Scientific Explanation* (Chs. 8 & 9)
+- Friedman, 'Conventionalism'
+
+<!-- > Is spacetime relational? 
+
+Primary reading: 
+
+- Dainton, *Time and Space* (Chs. 10--12)
+- Dasgupta, 'Substantivalism vs Relationalism About Space in Classical Physics'
+- Earman, *World Enough and Space-time: Absolute versus Relational Theories of Space and Time* (Chs. 1 & 3)
+
+Secondary reading: 
+
+- Maudlin, *Philosophy of Physics: Space and Time* (Chs. 2--3)
+- Batterman, 'Substantivalist and Relationalist Approaches to Spacetime' ($\S$1--6)
+- Weatherall, 'Classical Spacetime Structure'
+- Friedman, 'Special Relativity' -->
