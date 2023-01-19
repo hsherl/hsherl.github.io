@@ -7,12 +7,13 @@ mathjax: true
 
 [Back to all seminars](../).
 
+# Part II Epistemology and Metaphysics of Science
+
 **Laws of Nature**
 
 *Week 2: Causation*
 
 - Hume, D. (1902). *An Enquiry Concerning Human Understanding*. Project Gutenberg. $\S$VII.  
-- Kant, I. (1912). *Kant’s Prolegomena to Any Future Metaphysics*. Trans. P. Carus. Open Court Publishing Company, Third ed. $\S\S$14--39 ('How Is The Science Of Nature Possible?').
 
 *Week 3: Laws*
 
@@ -40,4 +41,3 @@ mathjax: true
 *Week 7: Perspectival Truth*
 
 - Massimi, M. (2018). Four Kinds of Perspectival Truth. *Philosophy and Phenomenological Research*, 96(2), 342–359.  
-- Chang, H. (2022). *Realism for Realistic People*. Cambridge University Press. Chapter 9 ('Realism'). 

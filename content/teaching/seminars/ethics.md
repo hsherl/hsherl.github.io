@@ -6,6 +6,8 @@ layout: "post"
 
 [Back to all seminars](../).
 
+# Part IB Ethics
+
 **Virtue Ethics**
 
 *Week 2: Nichomachean Ethics*
