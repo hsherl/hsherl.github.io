@@ -6,7 +6,7 @@ layout: "single"
 
 I have supervised undergraduate students at Cambridge since 2022 in the subjects listed below. Parts IA, IB, and II refer respectively to the first, second, and third years of an undergraduate degree in philosophy at Cambridge.  
 
-- [Part II Philosophy of Science](pos/) (Lent 2023)
+- [Part IB Philosophy of Science](pos/) (Lent 2023)
 - [Part II Philosophy of Mind](pom/) (Michaelmas 2022)
 - [Part IB Ethics](ethics/) (Michaelmas 2022 and Lent 2023)
 - [Philosophy of Economics](poe/) (Michaelmas 2022)

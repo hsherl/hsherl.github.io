@@ -6,7 +6,7 @@ layout: "post"
 
 [Back to all supervision subjects](../).
 
-Here are the topics, questions, and reading lists for the Part II Philosophy of Science supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered. 
+Here are the topics, questions, and reading lists for the Part IB Philosophy of Science supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered. 
 
 # 1 Biology
 
