@@ -8,12 +8,15 @@ I am currently teaching undergraduate [discussion groups](seminars/) and [superv
 
 In Michaelmas 2022, I supervised students in
 
-- [ethics](supervisions/ethics/), 
-- [philosophy of mind](supervisions/pom/), 
-- [philosophy of science](supervisions/pos/), and
-- [philosophy of economics](supervisions/poe/). 
+- [Part IB Ethics](supervisions/ethics/), 
+- [Part II Philosophy of Mind](supervisions/pom/), 
+- [Part II Philosophy of Science](supervisions/pos/),
+- HPS Part II Philosophy of Economics, and
+- HPS Part II Ethical Issues in Psychiatry. 
 
-In Lent 2023, I will lead discussion groups (seminars) on
+In Lent 2023, I led discussion groups (seminars) on
 
-- [ethics](seminars/ethics/) and
-- [the epistemology and metaphysics of science](seminars/ems/). 
+- [Part 1B Ethics](seminars/ethics/) and
+- [Part 1B The Epistemology and Metaphysics of Science](seminars/ems/). 
+
+I am also a teaching assistant and supervisor for the Part IA Formal Methods paper. 
