@@ -4,8 +4,9 @@ date: ""
 layout: "single"
 ---
 
-I will be teaching seminars for second year undergraduates at Cambridge starting in January 2023 on the following subjects: 
+I have taught seminars for second year undergraduates at Cambridge since in following subjects: 
 
+- Part 1A Formal Methods (Michaelmas 2022)
 - [Part IB Epistemology and Metaphysics of Science](ems/) (Lent 2023)
 - [Part IB Ethics](ethics/) (II) (Lent 2023)
 
