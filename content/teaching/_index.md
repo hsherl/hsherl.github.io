@@ -30,4 +30,4 @@ I am also a teaching assistant and supervisor for the Part IA Formal Methods pap
 
 IA, IB, and II indicate the first, second, and third year of undergraduate studies. 
 
-Papers in the Department of the History and Philosophy of Science have centrally designed syllabi and reading lists (accessible on Moodle), whereas papers in the Philosophy Faculty have a centrally designed reading list on the basis of which the supervisor designs a particular supervision plan consisting of four topics (linked). 
+Papers in the Department of the History and Philosophy of Science have centrally designed reading lists and syllabi (accessible on Moodle), whereas papers in the Philosophy Faculty have a centrally designed reading list on the basis of which each supervisor makes their own syllabi (linked). 
