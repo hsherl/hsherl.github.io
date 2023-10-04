@@ -10,13 +10,14 @@ Key points:
 
 - The essay is due **24 hours before the supervision**. 
 - It should be **at most 2,500 words**. 
-- Submit a **.docx** or **.pages** file to *hrs53* at *cam.ac.uk*. 
+- Submit to *hrs53* at *cam.ac.uk* either as
+    - a **.docx**/**.pages** file or 
+    - a **pdf** scan of a handwritten essay. 
 
 Style: 
 
-If the essay is written on paper, it should be double-spaced—i.e., every other line should be empty to make space for comments. 
-
-If it is typed, it should have a serif font (i.e., Times New Roman), line height 1.5, justified margins, and font-size 12. 
+- If the essay is handwritten, it should be double-spaced—i.e., every other line should be empty to make space for comments. 
+- If it is typed, it should have a serif font (i.e., Times New Roman), line height 1.5, justified margins, and font-size 12. 
 
 The essay should
 
