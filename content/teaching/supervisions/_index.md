@@ -4,26 +4,25 @@ date: "2022-12-16"
 layout: "single"
 ---
 
-I have supervised undergraduate students at Cambridge since 2022 in the subjects listed below. Parts IA, IB, and II refer respectively to the first, second, and third years of an undergraduate degree in philosophy at Cambridge. 
+Supervisions are small group discussions between a supervisor (me) and one, two, or sometimes three students. They involve an in-depth discussion of a piece of writing on an agreed topic, submitted 24 hours in advance for the supervisor to mark. 
 
-- [Part II Philosophy of Science](pos/) (Lent 2023)
-- [Part II Philosophy of Mind](pom/) (Michaelmas 2022)
-- [Part IB Ethics](ethics/) (Michaelmas 2022 and Lent 2023)
-- HPS Part II Philosophy of Economics (Michaelmas 2022)
-- HPS Part II Ethical Issues in Psychiatry (Lent 2023)
-
-All supervisions share a core logistical structure: 
+Key points: 
 
 - The essay is due **24 hours before the supervision**. 
 - It should be **at most 2,500 words**. 
-- Get in touch at the earliest possible time if you can't make the deadline or the meeting. 
 - Submit a **.docx** or **.pages** file to *hrs53* at *cam.ac.uk*. 
+
+Style: 
+
+If the essay is written on paper, it should be double-spaced—i.e., every other line should be empty to make space for comments. 
+
+If it is typed, it should have a serif font (i.e., Times New Roman), line height 1.5, justified margins, and font-size 12. 
 
 The essay should
 
 - explain and frame what the question is getting at (in the introduction), 
 - outline how the essay plans to answer the question (in the introduction), 
-- signpost, 
+- signpost (make it clear to the reader what you are trying to do), 
 - explain technical vocabulary,
 - use the same words for the same things throughout, 
 - give reasons for its claims, 
@@ -33,7 +32,7 @@ The essay should
 - consider at least one rebuttal, and
 - **omit needless ideas**. 
 
-The last point is perhaps the most important. The student must demonstrate both *that* and *how* what they say in the essay goes towards answering the essay question. Extraneous bits count against the essay, even if they are interesting in their own right. This is an important difference between the essay as a literary genre and the philosophical essay. 
+The last point is perhaps the most important. The student must demonstrate both *that* and *how* what they say in the essay goes towards answering the essay question. They should treat the marker as if they were a peer who is studying a different course and needs to have everything explained from scratch. Extraneous parts count against the essay, even if they are interesting in their own right. Even a publishable argument will not lead to a good grade if it does not answer the question under discussion. This is an important difference between the essay as a literary genre and the philosophical essay. 
 
 Some useful resources are
 
@@ -41,18 +40,22 @@ Some useful resources are
 - the faculty's [essay writing guide](https://www.phil.cam.ac.uk/curr-students/writing-skils/phil-essay-guide), and
 - the faculty's reading lists for part [IA](https://www.phil.cam.ac.uk/curr-students/IA/IA-reading-lists), [IB](https://www.phil.cam.ac.uk/curr-students/IB/IB-reading-lists), and [II](https://www.phil.cam.ac.uk/curr-students/II/II-reading-lists). 
 
-There are many ways to approach essays. Here is one step-by-step guide. Students should modify it to their liking. 
+There are many ways to approach essays. Here is one step-by-step guide which can be useful for students who find it difficult to recall what they have read while writing. Students should modify this guide to fit their own ways of working. 
 
-1. Go to the lecture. 
-2. Skim an overview of the topic on the Stanford Encyclopedia of Philosophy or the Internet Encyclopedia of Philosophy. 
-3. Carefully read what *seems* like the most fruitful article based on (1) and (2). 
-    1. Read the introduction and conclusion then the rest of the essay. 
-    2. Take notes and save quotes (along with page numbers). 
-    3. Write quick paraphrases of these quotes for later use and to build memory. 
-    4. Note important references. 
-4. Repeat (3) until enough articles have been covered. 
-5. Outline the general structure of the essay. 
-6. Fill in outline elements with quotes and paraphrases from (3) and (4). 
-7. Write the full essay based on this detailed outline. 
+1. Read the required papers in advance (only read what you must). 
+    1. Practice identifying the key arguments and counterarguments. 
+    2. Use questions from past exam papers to scaffold (1). These tell you what the course wants you to focus on. 
+2. Go to the lecture. 
+    1. Use the lecture as a map and compass that guides you, not as another text to cite and quote.
+    2. Spend more time listening than note-taking.  
+3. Choose a question. 
+4. Skim an overview of the topic on the Stanford Encyclopedia of Philosophy or the Internet Encyclopedia of Philosophy. 
+5. **Reading-writing**. Make a new document. Carefully read what *seems* like the most fruitful article for answering your question (3) based on what you have learned in (1), (2), and (4). 
+    1. First, read the introduction and conclusion; then, read the rest of the essay. Write down a concise summary of the aims of the article. 
+    2. While reading, start writing your own answer to the question,  following the structure of the paper you are reading. 
+    3. While reading, quote key passages (along with page numbers) and write your own corresponding paraphrases (i.e. explain what the quotes mean). 
+    5. Repeat (5.1-5.3) with another article. Use the same document in the second round. At the end, you will have a draft with a bad structure, but with all the quotes, references, and paraphrases you need. In addition, you will have written down the majority of your own thoughts. As a result, you will remember the reading better and have done more work before beginning the next stage. 
+6. **Outlining**. Make a new document, in which you outline the general structure of the essay. Fill in outline elements with your notes, quotes, and paraphrases from (5). 
+8. **Write-up**. Make a final document. On the basis of your outline document, write up the full essay. 
 
 For extended essays it is expected that key passages and key articles have been read many times with careful attention to details. 
