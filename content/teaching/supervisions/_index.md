@@ -4,7 +4,7 @@ date: "2022-12-16"
 layout: "single"
 ---
 
-Supervisions are small group discussions between a supervisor (me) and one, two, or sometimes three students. They involve an in-depth discussion of a piece of writing on an agreed topic, submitted 24 hours in advance for the supervisor to mark. 
+Supervisions are small-group discussions between a supervisor (me) and one, two, or sometimes three students. They involve an in-depth discussion of a piece of writing on an agreed topic, submitted 24 hours in advance for the supervisor to mark. 
 
 Key points: 
 
