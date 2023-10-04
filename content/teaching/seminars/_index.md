@@ -6,11 +6,13 @@ layout: "single"
 
 I have taught seminars for second year undergraduates at Cambridge since in following subjects: 
 
-- Part 1A Formal Methods (Michaelmas 2022)
+- Part IA Formal Methods (Michaelmas 2022)
 - [Part IB Epistemology and Metaphysics of Science](ems/) (Lent 2023)
 - [Part IB Ethics](ethics/) (II) (Lent 2023)
+<!-- - [Part IA Set Texts: Ethics and Political Philosophy]() -->
+<!-- - [Part IB History and Philosophy of Science]() -->
 
-Parts IA, IB, and II refer respectively to the first, second, and third years of an undergraduate degree in philosophy at Cambridge. 
+IA, IB, and II refer respectively to the first, second, and third years of an undergraduate degree in philosophy at Cambridge. 
 
 Each weekly seminar targets a central paper in the subject. The goal is to discuss it with peers at a deeper level than the lecture can. That means that students must read ahead and take detailed notes. 
 
