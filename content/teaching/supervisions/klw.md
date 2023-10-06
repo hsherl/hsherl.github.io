@@ -145,9 +145,9 @@ Logical and grammatical form:
 
 - Read, S. 1994. Formal and Material Consequence. Journal of Philosophical Logic 23: 247-65.
 - Sainsbury, M. 2001. Logical Forms (2nd edition), chapter 1, sections 10, 11 and 12; chapter 4, section 6; chapter 6. Blackwell. 
+- Wiggins D. “Most” and “All”: Some Comments on a Familiar Programme, and on the Logical Form of Quantified Sentences. In: Platts M, ed. Reference, Truth and Reality: Essays on the Philosophy of Language. Routledge and Kegan Paul; 1980:318-346.
 
 Action sentences: 
 
 - Davidson, D. 1980. The Logical Form of Action Sentences. In his Essays on Actions and Events. OUP.
 - Cargile, J. 1970. Davidson’s Notion of Logical Form. Inquiry 13: 129-39.
-- Wiggins D. “Most” and “All”: Some Comments on a Familiar Programme, and on the Logical Form of Quantified Sentences. In: Platts M, ed. Reference, Truth and Reality: Essays on the Philosophy of Language. Routledge and Kegan Paul; 1980:318-346.
