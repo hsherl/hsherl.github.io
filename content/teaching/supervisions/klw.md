@@ -7,24 +7,45 @@ mathjax: true
 
 [Back to all supervision subjects](../).
 
-Here are the topics, questions, and reading lists for the Part IB Knowledge, Language, and World supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered. 
+Here are the topics, questions, and reading lists for the Part IB Knowledge, Language, and World supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week when more than one is listed. 
 
-*Draft. 
-
-## 1 Possible worlds
+## 1 Modality
 
 Questions: 
 
 > 1. What would it mean for modality to be a fiction?
 > 2. 'When I say that Hilary Clinton might have won, I mean that *she* might have won, not that someone like her might have won. Therefore, Lewis's modal realism is false.' Is this a good argument?
 
-Suggested reading:
+Primary reading:
 
 - Lewis, D. 1986. On the Plurality of Worlds, chapter 1, sections 1 and 2; chapter 2, sections 4, 6 and 8; chapter 3, sections 1-2; chapter 4, sections 1-2.
 - Kripke, S. 1980. Naming and Necessity, pages 15–20, 42–53, 76–77 (including footnotes). Blackwell.
-- Rosen, G. 1990. Modal Fictionalism. Mind 99: 327-54.
+- Melia, J. Chapters 4--7. In: Modality. Acumen; 2003. 
 
-# 2 Knowledge
+Suggested reading: 
+
+- Rosen, G. 1990. Modal Fictionalism. Mind 99: 327-54.
+- Stalnaker, R. C. Possible Worlds. Noûs. 1976;10(1):65-75. 
+- Loux, M. J. The Possible and the Actual: Readings in the Metaphysics of Modality. Cornell University Press; 1988. 
+
+# 2 Truth
+
+Question: 
+
+> 1. What would we lose if we couldn’t talk about truth?
+> 2. Many theories of truth hold that ‘Eating people is wrong’ is equivalent to ‘“Eating people is wrong” is true’. Are such theories committed to thinking that moral realism is trivially true?
+> 3. What should a correspondence theory of truth make truth correspond to?
+> 4. Is there any more to understanding truth than understanding that ‘p’ is true iff p?
+
+Suggested reading:
+
+- Walker, R. 1997. Theories of Truth. In Companion to the Philosophy of Language (Volume 2), eds. B. Hale and C. Wright. Blackwell.
+- Kirkham, R. 1992. Theories of Truth, chapter 4: The Correspondence Theory. MIT Press.
+- Davidson, D. 1969. True to the Facts. Journal of Philosophy 66: 748-64.
+- Armour-Garb, B. 2012. Deflationism (About Theories of Truth). Philosophy Compass 7:267-77.
+- Price H. Truth as Convenient Friction. The Journal of Philosophy. 2003;100(4):167-190. 
+
+# 3 Knowledge
 
 Question: 
 
@@ -37,24 +58,6 @@ Suggested readings:
 - Williamson T. Introduction and Chapter 1. In: Knowledge and Its Limits. Oxford University Press; 2000.
 - Craig E. Knowledge and the State of Nature : An Essay in Conceptual Synthesis. Clarendon Press; 1990.
 - Haslanger S. What Knowledge Is and What It Ought to Be: Feminist Values and Normative Epistemology. Philosophical Perspectives. 1999;13:459-480.
-
-# 3 Internalism and externalism
-
-> 1. Can a perfectly reliable clairvoyant know the propositions he or she intuits through clairvoyance?
-> 2. What is evidence? 
-
-Required: 
-
-- BonJour L. Externalist Theories of Empirical Knowledge. In: Bernecker S and FD, ed. Knowledge: Readings in Contemporary Epistemology. Oxford University Press; 2000.
-- Feldman R and EC. Internalism Defended. American Philosophical Quarterly. 2001;38(1):1-18.
-- Goldman A. Internalism Exposed. Journal of Philosophy. 1999;96(6):271-293.
-- Goldman A. What Is Justified Belief? In: Pappas G, ed. Justification and Knowledge. D. Reidel; 1979:1-23.
-
-Suggested: 
-
-- Sosa E. The Raft and the Pyramid: Coherence versus Foundations in the Theory of Knowledge. Midwest Studies in Philosophy. 1980;5(1):3-26.
-- Williamson, T. Evidence. In: Knowledge And Its Limits. Oxford University Press; 2000.
-- Bird, A. Evidence. In: Knowing Science. Oxford University Press; 2022. 
 
 # 4 Scepticism
 
@@ -75,27 +78,51 @@ Suggested reading:
 - Dretske, F. 1970. Epistemic Operators. Journal of Philosophy 67: 1007-23.
 - Dretske, F. 2004. Externalism and Modest Contextualism. Erkenntnis 61: 173-86.
 
-# 5 Truth
+# 5 Internalism and externalism
 
-Question: 
+> 1. Can a perfectly reliable clairvoyant know the propositions he or she intuits through clairvoyance?
+> 2. What is evidence? 
 
-> 1. What would we lose if we couldn’t talk about truth?
-> 2. Many theories of truth hold that ‘Eating people is wrong’ is equivalent to ‘“Eating people is wrong” is true’. Are such theories committed to thinking that moral realism is trivially true?
-> 3. What should a correspondence theory of truth make truth correspond to?
-> 4. Is there any more to understanding truth than understanding that ‘p’ is true iff p?
+Required: 
 
-Suggested reading:
+- BonJour L. Externalist Theories of Empirical Knowledge. In: Bernecker S and FD, ed. Knowledge: Readings in Contemporary Epistemology. Oxford University Press; 2000.
+- Feldman R and EC. Internalism Defended. American Philosophical Quarterly. 2001;38(1):1-18.
+- Goldman A. Internalism Exposed. Journal of Philosophy. 1999;96(6):271-293.
+- Goldman A. What Is Justified Belief? In: Pappas G, ed. Justification and Knowledge. D. Reidel; 1979:1-23.
 
-- Walker, R. 1997. Theories of Truth. In Companion to the Philosophy of Language (Volume 2), eds. B. Hale and C. Wright. Blackwell.
-- Kirkham, R. 1992. Theories of Truth, chapter 4: The Correspondence Theory. MIT Press.
-- Davidson, D. 1969. True to the Facts. Journal of Philosophy 66: 748-64.
-- Armour-Garb, B. 2012. Deflationism (About Theories of Truth). Philosophy Compass 7:267-77.
-- Price H. Truth as Convenient Friction. The Journal of Philosophy. 2003;100(4):167-190. 
+Suggested: 
+
+- Sosa E. The Raft and the Pyramid: Coherence versus Foundations in the Theory of Knowledge. Midwest Studies in Philosophy. 1980;5(1):3-26.
+- Williamson, T. Evidence. In: Knowledge And Its Limits. Oxford University Press; 2000.
+- Bird, A. Evidence. In: Knowing Science. Oxford University Press; 2022. 
 
 # 7 Primary and Secondary Qualities
 
 >  1. 'Primary qualities resemble the ideas they produce in our minds, whereas secondary qualities do not.' Is this a satisfactory way of drawing the primary-secondary quality distinction?
 > 2. If no-one had ever existed to see them, would objects be coloured?
+
+Primary readings: 
+
+- Mackie, J. L. Primary & Secondary Qualities. In: Problems from Locke. Clarendon Press; 1976.
+- Lewis D. Naming the Colours. Australasian Journal of Philosophy. 1997;75(3):325-342. doi:10.1080/00048409712347931
+- Benbaji H. Why Colour Primitivism? Australasian Journal of Philosophy. 2016;94(2):243-265. doi:10.1080/00048402.2015.1054848
+
+Suggested readings: 
+
+- Cohen J. Color: A Functionalist Proposal. Philosophical Studies. 2003;113(1):1-42. doi:10.1023/A:1023074316190
+- Kant’s “Primary” Qualities. In: Kantian Humility Our Ignorance of Things in Themselves. Clarendon Press ; Oxford University Press; 1998:162-185. 
+- McDowell J. Values and Secondary Qualities. In: Honderich T, ed. Morality and Objectivity: A Tribute to J.L. Mackie. Routledge; 2011:110-129. 
+
+Background: 
+
+- Hume, D. Some Further Considerations Concerning Our Simple Ideas. In: An Essay Concerning Human Understanding. Book 2. Harvard University Press; 1931.
+- Galileo, G. Two Kinds of Properties. In: Danto A and SM, ed. Philosophy of Science: Readings. Meridian Books; 1960:27-32.
+- Berkeley, G. Treatise Concerning the Principles of Human Knowledge. In: The Principles of Human Knowledge ; Three Dialogues Between Hylas and Philonous. Collins; 1981. 
+- Shepherd, M. Upon the philosophy of Mr. Dugald Stewart and Dr. Reid, as it regards the union of colour with extension; and the perception of the external primary qualities of matter. In: Mary Shepherd’s Essays on the Perception of an External Universe. Oxford University Press; 2020:132-141.
+- Bolton, M. B. * Locke and Pyrrhonism: The Doctrine of Primary and Secondary Qualities. In: Burnyeat M, ed. The Skeptical Tradition. University of California Press; 1983:353-375.
+- Warnock GJ, ed. * Three Dialogues Between Hylas and Philonous. In: The Principles of Human Knowledge ; Three Dialogues Between Hylas and Philonous. Collins; 1981.
+- Smith, A. D. Of Primary and Secondary Qualities. The Philosophical Review. 1990;99(2):221-254. doi:10.2307/2185490
+- Wilson, M. D. History of Philosophy in Philosophy Today; and the Case of the Sensible Qualities. The Philosophical Review. 1992;101(1):191-243. doi:10.2307/2185046
 
 # 8 Logical form
 
@@ -105,10 +132,22 @@ Suggested reading:
 > 4. Describe and assess Davidson’s account of logical form.
 > 5. Do verbs of action have a hidden argument place? 
 
-Suggested reading:
+Primary reading: 
 
-- Sainsbury, M. 2001. Logical Forms (2nd edition), chapter 1, sections 10, 11 and 12; chapter 4, section 6; chapter 6. Blackwell. 
+- Oliver A. The Matter of Form: Logic’s Beginnings. In: Lear J and AO, ed. The Force of Argument: Essays in Honor of Timothy Smiley. Routledge; 2010:165-185. 
+
+Formalization: 
+
+- Quine, W. V. O. Chapter 5 (esp. section 33). In: Word and Object. New edition. MIT Press; 2013. 
+- Sainsbury, M. The Project of Formalization. In: Logical Forms: An Introduction to Philosophical Logic. 2nd ed. Blackwell; 2001.
+
+Logical and grammatical form: 
+
 - Read, S. 1994. Formal and Material Consequence. Journal of Philosophical Logic 23: 247-65.
+- Sainsbury, M. 2001. Logical Forms (2nd edition), chapter 1, sections 10, 11 and 12; chapter 4, section 6; chapter 6. Blackwell. 
+
+Action sentences: 
+
 - Davidson, D. 1980. The Logical Form of Action Sentences. In his Essays on Actions and Events. OUP.
 - Cargile, J. 1970. Davidson’s Notion of Logical Form. Inquiry 13: 129-39.
 - Wiggins D. “Most” and “All”: Some Comments on a Familiar Programme, and on the Logical Form of Quantified Sentences. In: Platts M, ed. Reference, Truth and Reality: Essays on the Philosophy of Language. Routledge and Kegan Paul; 1980:318-346.

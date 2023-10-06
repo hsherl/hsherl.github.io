@@ -33,7 +33,7 @@ The essay should
 - consider at least one rebuttal, and
 - **omit needless ideas**. 
 
-The last point is perhaps the most important. The student must demonstrate both *that* and *how* what they say in the essay goes towards answering the essay question. They should treat the marker as if they were a peer who is studying a different course and needs to have everything explained from scratch. Extraneous parts count against the essay, even if they are interesting in their own right. Even a publishable argument will not lead to a good grade if it does not answer the question under discussion. This is an important difference between the essay as a literary genre and the philosophical essay. 
+The last point is perhaps the most important. The student must demonstrate both *that* and *how* what they say in the essay goes towards answering the essay question. They should treat the marker as if they were a peer who is studying a different course and needs to have everything explained from scratch. Extraneous parts count against the essay, even if they are interesting in their own right. Even a publishable argument will not lead to a good grade if it does not answer the question under discussion. 
 
 Some useful resources are
 
