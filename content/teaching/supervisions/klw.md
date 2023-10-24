@@ -1,6 +1,6 @@
 ---
-title: "Part 1B Ethics"
-date: "2022-10-18"
+title: "Part IB Knowledge, Language, and World"
+date: "2023-10-08"
 layout: "post"
 mathjax: true
 ---
@@ -49,7 +49,10 @@ Suggested reading:
 
 Question: 
 
-> Can truth-tracking conditions, such as safety or sensitivity, provide the basis for a successful analysis of knowledge?
+> 1. Can truth-tracking conditions, such as safety or sensitivity, provide the basis for a successful analysis of knowledge?
+> 2. Is knowledge unanalyzable? If yes, how? If not, how should it be understood?
+> 3. What, if anything, do Gettier cases teach us about the nature of knowledge?
+> 4. What would be lost if we attributed true belief in place of knowledge?
 
 Suggested readings: 
 
