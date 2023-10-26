@@ -7,23 +7,23 @@ mathjax: true
 
 [Back to all supervision subjects](../).
 
-Here are the topics, questions, and reading lists for the Part II Wittgenstein and His Successors supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week when more than one is listed. 
+Here are the topics, questions, and reading lists for the Part II Wittgenstein and His Successors supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week on a new topic and at least one topic from each philosopher. 
 
-# Austin
+# 1 Austin
 
 > 1. ‘But if we are prepared to admit that there may be… some cases in which “delusive and veridical perceptions” really are indistinguishable, does this admission require us to drag in, or even let in sense-data?’. Does it?
 > 2. ‘If the performance of an illocutionary act requires the securing of uptake, it follows, absurdly, that anyone who does not get uptake for their attempt at refusing consent has in fact consented.’ Is this a good objection to Austin’s claim about uptake?
 
-## General
+## 1.1 General
 
 - Austin JL. Philosophical Papers. 3rd ed. (edited by Urmson JO and GJW, ed.). Oxford University Press; 1979. 
 
-## Meaning and use
+## 1.2 Meaning and use
 
 - Austin JL. The Meaning of a Word. In: Philosophical Papers. 3rd ed. (edited by Urmson JO and GJW, ed.). Oxford University Press; 1979. 
 - Austin JL. How to Do Things with Words. 2nd ed. (edited by Urmson JO and MS, ed.). Clarendon Press; 1975. 
 
-## Speech acts
+## 1.3 Speech acts
 
 Primary: 
 
@@ -35,20 +35,20 @@ Secondary:
 - Bird G. Austin’s Theory of Illocutionary Force. Midwest Studies In Philosophy. 1981;6(1):345-370. 
 - Sbisà M. How to Read Austin. In: Essays on Speech Acts and Other Topics in Pragmatics. Oxford University Press; 2023:181-194. 
 
-## Sense and Sensibilia
+## 1.4 Sense and Sensibilia
 
 - Austin JL. Sense and Sensibilia. Clarendon Press; 1962.
 - Austin JL. Unfair to Facts. In: Urmson JO and GJW, ed. Philosophical Papers. 3rd ed. Oxford University Press; 1979. 
 - Ayer AJ. Has Austin Refuted the Sense-Datum Theory? Synthese. 1967;17(1):117-140. 
 
-## Philosophical method
+## 1.5 Philosophical method
 
 - Austin JL. A Plea for Excuses: The Presidential Address. Proceedings of the Aristotelian Society. 1956;57:1-30. 
 - Soames S. Austin’s Sense and Sensibilia. In: Philosophical Analysis in the Twentieth Century. Volume 2, The Age of Meaning. Princeton University Press; 2005:138-154. 
 - Baz A. (B) When Words Are Called for a Defense of Ordinary Language Philosophy. Harvard University Press; 2012. 
 - Grice P. Prolegomena. In: Studies in the Way of Words. Harvard University Press; 1991:3-21. 
 
-# Wittgenstein
+# 2 Wittgenstein
 
 > 1. In what sense, if any, did Wittgenstein think that meaning is use? Was he right?
 > 2. ‘Philosophy leaves everything as it is.’ Discuss with reference to the rule-following sections of Philosophical Investigations.
@@ -57,32 +57,32 @@ Secondary:
 > 5. ‘What is left over if I subtract the fact that my arm goes up from the fact that I raise my arm?’ What indeed?
 > 6. Does the word ‘pain’ mean something different in its first- and thirdpersonal uses? 
 
-## General
+## 2.1 General
 
 - Wittgenstein L. Philosophical Investigations. 2nd ed. (translated by G.E.M. Anscombe, ed.). Blackwell; 1967. 
 - Wittgenstein L. Preliminary Studies for the Philosophical Investigations: Generally Known as the Blue and Brown Books. 2nd ed. Blackwell; 1969. 
 - Child W. Wittgenstein. Routledge; 2011. 
 - Kenny A. Wittgenstein. Rev. ed. Blackwell; 2006. 
 
-## Blue book
+## 2.2 Blue book
 
-### Against Tractarian atomism
+### 2.2.1 Against Tractarian atomism
 
 - Wittgenstein L. Some Remarks on Logical Form. Proceedings of the Aristotelian Society, Supplementary Volumes. 1929;9:162-171. 
 
-### Immunity to error through misidentification
+### 2.2.2 Immunity to error through misidentification
 
 - Anscombe E. The First Person. In: Guttenplan S, ed. Mind and Language. Clarendon Press; 1975:45-65. 
 - Haddock A. “I am NN”: A Reconstruction of Anscombe’s “The First Person.” European Journal of Philosophy. 2019;27(4):957-970. 
 - Child W. Two Kinds of Uses of “I”: The Middle Wittgenstein on “I” and the Self. In: Stern DG, ed. Wittgenstein in the 1930s: Between the Tractatus and The Investigations. Cambridge University Press; 2018. 
 
-### Solipsism
+### 2.2.3 Solipsism
 
 - Child W. Solipsism and First Person/Third Person Asymmetries. European Journal of Philosophy. 1996;4(2):137-154. 
 - Button T. Wittgenstein on Solipsism in the 1930s: Private Pains, Private Languages, and Two Uses of “I.” Royal Institute of Philosophy Supplement. 2018;82:205-229.
 - Teichman J. Wittgenstein on Persons and Human Beings. Royal Institute of Philosophy Supplement. 1973;7:133-148. 
 
-## Philosophical Investigations
+## 2.3 Philosophical Investigations
 
 The readings are grouped by the relevant section in the Philosophical Investigations. Read those sections first (named in the subheadings below). 
 
@@ -130,14 +130,14 @@ The readings are grouped by the relevant section in the Philosophical Investigat
 - Mulhall S. On Being in the World: Wittgenstein and Heidegger on Seeing Aspects. Routledge; 1990. 
 - Baz A. What’s the Point of Seeing Aspects? Philosophical Investigations; 2000. 
 
-# Anscombe
+# 3 Anscombe
 
 Questions: 
 
 > 1. ‘Is it reasonable to say that one “knows without observation” that one is painting a wall yellow?’. Does Anscombe provide a satisfactory answer to her own question? 
 > 2. Does Anscombe provide a satisfactory account of how St Peter might have intentionally done what he intended not to do without changing his mind?
 
-## General
+## 3.1 General
 
 Primary: 
 
@@ -153,7 +153,7 @@ Secondary:
 - Schwenkler J. Anscombe’s Intention: A Guide. Oxford University Press; 2019. 
 - Wiseman R. The Intended and Unintended Consequences of Intention. American Catholic Philosophical Quarterly. 2016;90(2):207-227. 
 
-## Intentional action
+## 3.2 Intentional action
 
 Primary: 
 
@@ -162,7 +162,7 @@ Primary:
 
 Secondary readings can be found on Moodle. 
 
-## Intention with which
+## 3.3 Intention with which
 
 - Anscombe GEM. Practical Inference. In: Geach M and LG, ed. Human Life, Action and Ethics: Essays by G.E.M. Anscombe. Imprint Academic; 2005. 
 - Anscombe GEM. On Sensations of Position. Analysis. 1962;22(3):55-58. 
