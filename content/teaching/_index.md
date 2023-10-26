@@ -14,9 +14,9 @@ Starting in Michaelmas 2022, I have supervised students in the following papers:
 - HPS Part II Philosophy of Economics
 - HPS Part II Ethical Issues in Psychiatry
 - [Part IB Knowledge, Language, and World](supervisions/klw)
+- [Part II Wittgenstein and His Successors](supervisions/wah)
 <!-- - Part IB History of Analytic Philosophy -->
 <!-- - Part II Ethics --> 
-<!-- - Part II Wittgenstein and his successors  -->
 <!-- - Part II European Philosophy after Kant  -->
 
 Since Lent 2023, I have led the following discussion groups (seminars): 
