@@ -130,44 +130,42 @@ Suggested:
 - Darwall S. Toward Fin de Siècle Ethics: Some Trends. The Philosophical Review. 1992;101(1):115-189. 
 - Korsgaard CM. Realism and Constructivism in Twentieth‐Century Moral Philosophy. In: The Constitution of Agency. Oxford University Press; 2008:302-326. 
 
-### Naturalist realism
+### 4.2 Realism, naturalist or not
 
 - Brink DO. A Posteriori Objections to Moral Realism. In: Moral Realism and the Foundations of Ethics. Cambridge University Press; 1989. 
 - Horgan T and Timmons M. New Wave Moral Realism Meets Moral Twin Earth. Journal of Philosophical Research. 1991;16:447-465. 
-
-### Non-naturalist realism
-
 - Cuneo T. The Parity Premise. In: The Normative Web: An Argument for Moral Realism. Oxford University Press; 2012:3-28. 
 - Enoch, David. The Argument from the Deliberative Indispensability of Irreducibly Normative Truths. In: Taking Morality Seriously: A Defense of Robust Realism. Oxford University Press; 2011. 
 - Shafer-Landau R. Moral Realism: a Defence. Clarendon Press; 2003.
 
-### Constructivism
+### 4.3 Constructivism
 
 - Enoch D. Can There Be a Global, Interesting, Coherent Constructivism about Practical Reason? Philosophical Explorations. 2009;12(3):319-339. 
 - Korsgaard CM. The Authority of Reflection. In: The Sources of Normativity. Cambridge University Press; 1996. 
 - Smith M. Dispositional Theories of Value. Proceedings of the Aristotelian Society, Supplementary Volume. 1989;63(1):113-137. 
 - Street S. Coming to Terms with Contingency: Humean Constructivism About Practical Reason. In: Lenman J and YS, ed. Constructivism in Practical Philosophy. Oxford University Press; 2014:40-59. 
 
-### Expressivism
+### 4.4 Expressivism
 
 - Dreier J. Meta-Ethics and the Problem of Creeping Minimalism. Philosophical Perspectives. 2004;18(1):23-44. 
 - Gibbard A. Wise Choices, Apt Feelings. In: Darwall S, ed. Moral Discourse and Practice: Some Philosophical Approaches. Oxford University Press; 1997:179-198. 
 - Price H. Pragmatism, Quasi-Realism, and the Global Challenge. In: Naturalism Without Mirrors. Oxford University Press; 2011. 
 - Schroeder MA. Noncognitivism in Ethics. Routledge; 2010. https://idiscover.lib.cam.ac.uk/permalink/f/5hbpu5/44CAM_ALMA51622129760003606
 
-### Error theory
+### 4.5 Error theory
 
+- Mackie JL. Ethics: Inventing Right and Wrong. Penguin Books; 1977. 
 - Joyce R. The Myth of Morality. Cambridge University Press; 2001. 
 - Olson J. Moral Error Theory, and Then What? In: Moral Error Theory: History, Critique, Defence. Oxford University Press; 2014. 
 
-### Moral epistemology
+### 4.6 Moral epistemology
 
 - Williams B. Knowledge, Science, Convergence. In: Ethics and the Limits of Philosophy. Fontana; 1985. 
 - Putnam H. Objectivity and the Science-Ethics Distinction. In: Nussbaum M and AS, ed. The Quality of Life. Clarendon Press; 1996:143-157. 
 - Heal J. Ethics and the Absolute Conception. Philosophy. 1989;64(247):49-65. 
 - Roberts D. Thick Concepts. Philosophy Compass. 2013;8(8):677-688. 
 
-#### Evolution and debunking
+#### 4.6.1 Evolution and debunking
 
 - Street S. A Darwinian Dilemma for Realist Theories of Value. Philosophical Studies. 2006;127(1):109-166.
 - Berker S. The Normative Insignificance of Neuroscience. Philosophy & Public Affairs. 2009;37(4):293-329. 
@@ -175,7 +173,7 @@ Suggested:
 - Clarke-Doane J. Moral Epistemology: The Mathematics Analogy. Noûs. 2014;48(2):238-255. 
 - Srinivasan A. The Archimedean Urge. Philosophical Perspectives. 2015;29. 
 
-#### Disagreement
+#### 4.6.2 Disagreement
 
 - Enoch D. How is Moral Disagreement a Problem for Realism? The Journal of Ethics. 2008;13(1):15-50. 
 - Hills A. Moral Testimony and Moral Epistemology. Ethics. 2009;120(1):94-127. 
