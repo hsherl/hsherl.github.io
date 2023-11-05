@@ -6,6 +6,8 @@ layout: "single"
 
 I am currently teaching undergraduate [discussion groups](seminars/) and [supervisions](supervisions/) at Cambridge. 
 
+Teaching is important to me. I rely on student feedback both to detect my blindspots and improve and also to detect what is working so I can keep that going. If you are or have been my student, you may submit anonymous feedback [here](https://forms.gle/GkCDJrcPqpq2S4oL8) at any time. Alternatively, you can get in touch with me directly at *hrs53* at *cam.ac.uk*. 
+
 Starting in Michaelmas 2022, I have supervised students in the following papers: 
 
 - [Part IB Ethics](supervisions/ethics/)
