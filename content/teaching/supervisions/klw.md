@@ -149,6 +149,7 @@ Logical and grammatical form:
 - Read, S. 1994. Formal and Material Consequence. Journal of Philosophical Logic 23: 247-65.
 - Sainsbury, M. 2001. Logical Forms (2nd edition), chapter 1, sections 10, 11 and 12; chapter 4, section 6; chapter 6. Blackwell. 
 - Wiggins D. “Most” and “All”: Some Comments on a Familiar Programme, and on the Logical Form of Quantified Sentences. In: Platts M, ed. Reference, Truth and Reality: Essays on the Philosophy of Language. Routledge and Kegan Paul; 1980:318-346.
+- Hacking I. 1975. Ludwig Wittgensteins articulation. In: Why Does Language Matter to Philosophy? Cambridge: Cambridge University Press. doi:10.1017/CBO9780511627873
 
 Action sentences: 
 
