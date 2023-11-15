@@ -6,7 +6,7 @@ layout: "single"
 
 I teach or have taught seminars for second-year undergraduates at Cambridge in following subjects: 
 
-- Part IA Formal Methods (Michaelmas 2022)
+- Part IA Formal Methods (Michaelmas 2022—)
 - [Part IB Epistemology and Metaphysics of Science](ems/) (Lent 2023)
 - [Part IB Ethics](ethics/) (II) (Lent 2023)
 - [Part IB History and Philosophy of Science](hap/) (Lent 2024)
