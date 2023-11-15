@@ -30,8 +30,8 @@ Since Lent 2023, I have led the following discussion groups (seminars):
 
 I am also a teaching assistant and supervisor for the Part IA Formal Methods paper. 
 
-The linked syllabi have been curated from the Cambridge Faculty of Philosophy's [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists). 
+The linked supervision syllabi have been curated from the Cambridge Faculty of Philosophy's [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists). 
 
-The letters IA, IB, and II indicate the first, second, and third year of undergraduate studies in the Philosophy Tripos at the University of Cambridge. 
+The letters IA, IB, and II refer respectively to the first, second, and third years of an undergraduate degree in philosophy at Cambridge. 
 
 Papers in the Department of the History and Philosophy of Science have centrally designed reading lists and syllabi (accessible on Moodle), whereas papers in the Philosophy Faculty have a centrally designed reading list on the basis of which each supervisor makes their own syllabi (linked). 
