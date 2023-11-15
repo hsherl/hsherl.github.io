@@ -25,11 +25,13 @@ Since Lent 2023, I have led the following discussion groups (seminars):
 
 - [Part IB Ethics](seminars/ethics/)
 - [Part IB The Epistemology and Metaphysics of Science](seminars/ems/)
+- [Part IB History of Analytic Philosophy](seminars/hap/)
 <!-- - Part IA Set Texts -->
-<!-- - Part IB History of Analytic Philosophy -->  
 
 I am also a teaching assistant and supervisor for the Part IA Formal Methods paper. 
 
-IA, IB, and II indicate the first, second, and third year of undergraduate studies. 
+The linked syllabi have been curated from the Cambridge Faculty of Philosophy's [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists). 
+
+The letters IA, IB, and II indicate the first, second, and third year of undergraduate studies in the Philosophy Tripos at the University of Cambridge. 
 
 Papers in the Department of the History and Philosophy of Science have centrally designed reading lists and syllabi (accessible on Moodle), whereas papers in the Philosophy Faculty have a centrally designed reading list on the basis of which each supervisor makes their own syllabi (linked). 
