@@ -99,7 +99,7 @@ Suggested:
 - Williamson, T. Evidence. In: Knowledge And Its Limits. Oxford University Press; 2000.
 - Bird, A. Evidence. In: Knowing Science. Oxford University Press; 2022. 
 
-# 7 Primary and Secondary Qualities
+# 6 Primary and Secondary Qualities
 
 >  1. 'Primary qualities resemble the ideas they produce in our minds, whereas secondary qualities do not.' Is this a satisfactory way of drawing the primary-secondary quality distinction?
 > 2. If no-one had ever existed to see them, would objects be coloured?
@@ -127,7 +127,7 @@ Background:
 - Smith, A. D. Of Primary and Secondary Qualities. The Philosophical Review. 1990;99(2):221-254. doi:10.2307/2185490
 - Wilson, M. D. History of Philosophy in Philosophy Today; and the Case of the Sensible Qualities. The Philosophical Review. 1992;101(1):191-243. doi:10.2307/2185046
 
-# 8 Logical form
+# 7 Logical form
 
 > 1. Does formalization reveal our commitments?
 > 2. Might ‘nothing’ denote nothing?
@@ -142,7 +142,7 @@ Primary reading:
 Formalization: 
 
 - Quine, W. V. O. Chapter 5 (esp. section 33). In: Word and Object. New edition. MIT Press; 2013. 
-- Sainsbury, M. The Project of Formalization. In: Logical Forms: An Introduction to Philosophical Logic. 2nd ed. Blackwell; 2001.
+- Sainsbury, M. The Project of Formalization. In: Logical Forms: An Introduction to Philosophical Logic. 2nd ed. Blackwell; 2001. 
 
 Logical and grammatical form: 
 
