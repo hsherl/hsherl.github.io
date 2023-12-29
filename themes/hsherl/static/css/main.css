@@ -7,7 +7,7 @@ body {
 
 body {
   -webkit-font-smoothing: antialiased;
-  font-family: "Roboto", "Helvetica", "Helvetica Neue", "Arial Narrow", "Arial", sans-serif;
+  font-family: "EB Garamond", "Helvetica", "Helvetica Neue", "Arial Narrow", "Arial", sans-serif;
 	font-style:normal;
 	font-weight:normal;
 	color: #111;
@@ -95,6 +95,7 @@ nav.nav {
 
 .nav-links li {
   display: inline-block;
+  /* font-weight: lighter; */
   margin: 0;
   padding-top: 5px;
 }
@@ -116,6 +117,7 @@ nav.nav {
   color:#0578d5;
   border-bottom:1px solid #0578d5;
 }
+
 .nav-links li a.active:hover {
   color:#0578d5;
   border-bottom:1px solid #0578d5;

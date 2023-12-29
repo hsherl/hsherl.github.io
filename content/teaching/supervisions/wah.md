@@ -7,7 +7,7 @@ mathjax: true
 
 [Back to all supervision subjects](../).
 
-Here are the topics, questions, and reading lists for the Part II Wittgenstein and His Successors supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week on a new topic and at least one topic from each philosopher. 
+Here are the topics, questions, and reading lists for the Part II Wittgenstein and His Successors supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week (four in total, except for semester students) on a new topic and at least one topic from each philosopher. 
 
 # 1 Austin
 

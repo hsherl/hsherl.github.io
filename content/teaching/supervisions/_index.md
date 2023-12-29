@@ -17,7 +17,7 @@ Key points:
 Style: 
 
 - If the essay is handwritten, it should be double-spaced—i.e., every other line should be empty to make space for comments. 
-- If it is typed, it should have a serif font (i.e., Times New Roman), line height 1.5, justified margins, and font-size 12. 
+- If it is typed, it should have a serif font (i.e., EB Garamond or Times New Roman), line height 1.5, justified margins, wide margins with space for comments, and font-size 12. 
 
 The essay should
 
@@ -43,7 +43,7 @@ Some useful resources are
 
 There are many ways to approach essays. Here is one step-by-step guide which can be useful for students who find it difficult to recall what they have read while writing. Students should modify this guide to fit their own ways of working. 
 
-1. Read the required papers in advance (only read what you must). 
+1. Read (only) the required papers in advance. 
     1. Practice identifying the key arguments and counterarguments. 
     2. Use questions from past exam papers to scaffold (1). These tell you what the course wants you to focus on. 
 2. Go to the lecture. 

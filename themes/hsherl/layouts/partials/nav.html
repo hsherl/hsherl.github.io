@@ -9,9 +9,9 @@
 
   <a href="{{ "/" | relURL }}" class="nav-name">{{ .Site.Title }}</a>
 
-  <ul class="nav-links inactive">
+  <ul class="nav-links">
     {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
     {{ end }}
   </ul>
 </nav>

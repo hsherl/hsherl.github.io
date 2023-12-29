@@ -1,53 +1,57 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
-
 body {
-  font-family: "Helvetica", "Roboto", "Helvetica Neue","Arial Narrow","Arial",sans-serif;
+  font-family: "Helvetica", sans-serif;
   font-weight:500;
 }
-h1, h2, h3, h4, h5, h6, .nav, .article-duration, .archive-item-link, .footer, p, li, ol, ul {
-  font-family: "Helvetica Neue","Arial Narrow","Arial",sans-serif;
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Helvetica", sans-serif;
+	font-weight:500;
+}
+
+.nav, .article-duration, .archive-item-link, .footer, p, li, ol, ul {
+  font-family: "Helvetica", sans-serif;
   font-weight:500;
 }
 
 h1 {
-	font-family: "Helvetica", "Roboto", "Helvetica Neue","Arial Narrow","Arial",sans-serif;
+	font-family: "Helvetica", sans-serif;
 	font-weight:500;
 	font-size:24px;
 }
 
 h2 {
-	font-family: "Helvetica", "Roboto", "Helvetica Neue","Arial Narrow","Arial",sans-serif;
+	font-family: "Helvetica", sans-serif;
 	font-weight:500;
 	font-size:22px;
 }
 
 h3 {
-	font-family: "Helvetica", "Roboto", "Helvetica Neue","Arial Narrow","Arial",sans-serif;
+	font-family: "Helvetica", sans-serif;
 	font-weight:500;
 	font-size:20px
 }
 
 h4 {
-	font-family: "Helvetica", "Roboto", "Helvetica Neue","Arial Narrow","Arial",sans-serif;
+	font-family: "Helvetica", sans-serif;
 	font-weight:500;
 	font-size:18px
 }
 
 h5 {
-	font-family: "Helvetica", "Roboto", "Helvetica Neue","Arial Narrow","Arial", sans-serif;
+	font-family: "Helvetica", sans-serif;
 	font-size:16px;
 	font-weight: 500;
 	color:#222;
 }
 
 h6 {
-	font-family: "Helvetica", "Roboto", "Helvetica Neue","Arial Narrow","Arial",sans-serif;
+	font-family: "Helvetica", sans-serif;
 	font-weight:500;
 	font-size:14px
 }
 
 p, ul ol, li, a, sup, sub, tr, td {
-	font-family: "Helvetica", "Roboto", "Helvetica Neue","Arial Narrow","Arial",sans-serif;
+	font-family: "Helvetica", sans-serif;
 	line-height: 1.5;
 }
 
@@ -225,7 +229,7 @@ tr,td {
 }
 
 th {
-	font-family:"H, "Roboto"elvetica","HelveticaNeue-CondensedBold","Helvetic Neue Condensed Bold","HelveticaNeue-Bold","Helvetica Neue Bold","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: "Helvetica", sans-serif;
 	padding:7px;
 	font-size:17px;
 }
