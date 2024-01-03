@@ -45,7 +45,7 @@ Secondary:
 
 - Austin JL. A Plea for Excuses: The Presidential Address. Proceedings of the Aristotelian Society. 1956;57:1-30. 
 - Soames S. Austin’s Sense and Sensibilia. In: Philosophical Analysis in the Twentieth Century. Volume 2, The Age of Meaning. Princeton University Press; 2005:138-154. 
-- Baz A. (B) When Words Are Called for a Defense of Ordinary Language Philosophy. Harvard University Press; 2012. 
+- Baz A. When Words Are Called for a Defense of Ordinary Language Philosophy. Harvard University Press; 2012. 
 - Grice P. Prolegomena. In: Studies in the Way of Words. Harvard University Press; 1991:3-21. 
 
 # 2 Wittgenstein
@@ -95,7 +95,7 @@ The readings are grouped by the relevant section in the Philosophical Investigat
 
 ### §138-242 Rule-following
 
-- Kripke SA. (A) Wittgenstein on Rules and Private Language: An Elementary Exposition. Blackwell; 1982. 
+- Kripke SA. Wittgenstein on Rules and Private Language: An Elementary Exposition. Blackwell; 1982. 
 - McDowell J. Wittgenstein on Following a Rule. Synthese. 1984;58(3):325-363. 
 - Heal J. Interests, Activities and Meanings. In: Fact and Meaning: Quine and Wittgenstein on Philosophy of Language. Basil Blackwell; 1989. 
 - Miller A and Wright C, ed. Rule-Following and Meaning. Acumen; 2002. 
