@@ -9,6 +9,8 @@ Links: [all supervision subjects](/teaching);  [supervision instructions](/teach
 
 Here are the topics, questions, and reading lists for the Part IB History of Analytic Philosophy supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week when more than one is listed. One question must be comparative. This must involve the thinker which has not been covered by the other three choices. 
 
+NB: This is a draft. 
+
 # Frege
 
 ## Primary material
