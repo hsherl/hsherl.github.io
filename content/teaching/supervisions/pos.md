@@ -4,7 +4,7 @@ date: "2022-10-18"
 layout: "post"
 ---
 
-[Back to all supervision subjects](../).
+Links: [all supervision subjects](/teaching);  [supervision instructions](/teaching/supervisions/).
 
 Here are the topics, questions, and reading lists for the Part II Philosophy of Science supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered. 
 

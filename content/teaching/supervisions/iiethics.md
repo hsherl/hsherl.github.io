@@ -5,7 +5,7 @@ layout: "post"
 mathjax: true
 ---
 
-[Back to all supervision subjects](../).
+Links: [all supervision subjects](/teaching);  [supervision instructions](/teaching/supervisions/).
 
 Here are the topics, questions, and reading lists for the Part II Ethics supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question when more than one is listed. Only four topics will be covered. 
 

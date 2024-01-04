@@ -5,9 +5,9 @@ layout: "post"
 mathjax: true
 ---
 
-[Back to all supervision subjects](../).
+Links: [all supervision subjects](/teaching);  [supervision instructions](/teaching/supervisions/).
 
-Here are the topics, questions, and reading lists for the Part IB History of Analytic Philosophy supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week (i.e. one per thinker, for this paper) when more than one is listed. 
+Here are the topics, questions, and reading lists for the Part IB History of Analytic Philosophy supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week when more than one is listed. One question must be comparative. This must involve the thinker which has not been covered by the other three choices. 
 
 # Frege
 
@@ -28,6 +28,8 @@ Here are the topics, questions, and reading lists for the Part IB History of Ana
 - Was Frege correct to ascribe cardinal numbers to concepts rather than to ‘external things’?
 - Does it matter whether Julius Caesar is a natural number or not?
 
+## Secondary material
+
 # Russell
 
 ## Primary material
@@ -45,6 +47,8 @@ Here are the topics, questions, and reading lists for the Part IB History of Ana
 - Why did Russell adopt the multiple relation theory of judgment? Was he right to do so?
 - Why did Russell aim to construct things from appearances? Did he succeed?
 
+## Secondary material
+
 # Wittgenstein
 
 The primary material is the *Tractatus Logico-Philosophicus* (1922). 
@@ -58,6 +62,8 @@ The primary material is the *Tractatus Logico-Philosophicus* (1922).
 - What remains when the ladder is thrown away?
 - Is ethics nonsense? 
 
+## Secondary material
+
 # Ramsey
 
 ## Primary material
@@ -70,6 +76,8 @@ The primary material is the *Tractatus Logico-Philosophicus* (1922).
 
 - Was Ramsey right to think there is ‘no separate problem of truth’?
 - Was Ramsey correct to argue that no fundamental classification of objects can be based on the distinction between the subject and predicate of a proposition? 
+
+## Secondary material
 
 # Comparative
 
