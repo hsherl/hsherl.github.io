@@ -202,7 +202,7 @@ The *Doctrine of Elements* has *parts* (Pt.), which divide into *divisions* (Div
             <!-- - On the regulative use of the ideas of pure reason. --> 
             <!-- - On the final aim of the natural dialectic of human reason. --> 
 
-[^1]: The section numbers for this and the previous section were added in the second edition and are rather confusing, so I leave them out here. 
+[^1]: The section numbers for this and the previous section were added in the second (B) edition and are rather confusing, so I leave them out here, sticking with the first (A) edition where possible. I have also varied the level of detail quite haphazardly to make the outline more readable and fit for the exam questions. 
 
 Typical exam questions are as follows:  
 
