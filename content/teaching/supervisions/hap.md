@@ -7,7 +7,9 @@ mathjax: true
 
 Links: [all supervision subjects](/teaching);  [supervision instructions](/teaching/supervisions/).
 
-Here are the topics, questions, and reading lists for the Part IB History of Analytic Philosophy supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week when more than one is listed. One question must be comparative. This must involve the thinker which has not been covered by the other three choices. 
+Here are the topics, questions, and reading lists for the Part IB History of Analytic Philosophy supervisions in the Philosophy Tripos at Cambridge. 
+
+The reading list is suggestive and is ranked by importance. It is not feasible to do all the readings every week. However, it should be possible to do all the primary readings every week. Try to read the secondary readings as well for at least one week. Below the essay questions is a more extensive list of common exam questions and the primary material which will be examined. 
 
 # Essay 1: Frege
 
