@@ -6,9 +6,7 @@ layout: "single"
 
 I am currently teaching undergraduate [discussion groups](seminars/) and [supervisions](supervisions/) at Cambridge. 
 
-Teaching is important to me. I rely on student feedback both to detect my blindspots and improve and also to detect what is working so I can keep that going. If you are or have been my student, you may submit anonymous feedback [here](https://forms.gle/GkCDJrcPqpq2S4oL8) at any time. Alternatively, you can get in touch with me directly at *hrs53* at *cam.ac.uk*. 
-
-Starting in Michaelmas 2022, I have supervised students in the following papers: 
+I supervise the following papers: 
 
 - [Part IB Ethics](supervisions/ethics/)
 - [Part IB Knowledge, Language, and World](supervisions/klw)
@@ -21,16 +19,19 @@ Starting in Michaelmas 2022, I have supervised students in the following papers:
 - [Part II Ethics](supervisions/iiethics/)
 - [Part II European Philosophy after Kant](supervisions/epk/)
 
-Since Lent 2023, I have led the following discussion groups (seminars): 
+I also teach (or have taught) the following discussion groups (seminars): 
 
+- Part IA Formal Methods (Moodle access only)
 - Part IA Set Texts (Moodle access only)
 - [Part IB Ethics](seminars/ethics/)
 - [Part IB The Epistemology and Metaphysics of Science](seminars/ems/)
 - [Part IB History of Analytic Philosophy](seminars/hap/)
 
-I am also a teaching assistant and supervisor for the Part IA Formal Methods paper. 
+The linked syllabi have been curated from the Cambridge Faculty of Philosophy's [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists), usually with help from PhD students who have taught them before. 
 
-The linked supervision syllabi have been curated from the Cambridge Faculty of Philosophy's [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists), usually with help from PhD students who have taught them before. 
+Teaching is important to me. I rely on student feedback both to detect my blindspots and improve and also to detect what is working so I can keep that going. If you are or have been my student, you may submit anonymous feedback [here](https://forms.gle/GkCDJrcPqpq2S4oL8) at any time. Alternatively, you can get in touch with me directly at *hrs53* at *cam.ac.uk*. 
+
+--- 
 
 The letters IA, IB, and II refer respectively to the first, second, and third years of an undergraduate degree in philosophy at Cambridge. 
 
