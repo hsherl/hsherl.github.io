@@ -6,7 +6,7 @@ layout: "single"
 
 I am currently teaching undergraduate [discussion groups](seminars/) and [supervisions](supervisions/) at Cambridge. 
 
-I supervise the following papers: 
+I supervise (or have supervised) the following papers: 
 
 - [Part IB Ethics](supervisions/ethics/)
 - [Part IB Knowledge, Language, and World](supervisions/klw)
