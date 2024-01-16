@@ -4,20 +4,13 @@ date: "2022-12-16"
 layout: "single"
 ---
 
-Supervisions are small-group discussions between a supervisor (me) and one, two, or sometimes three students. They involve an in-depth discussion of a piece of writing on an agreed topic, submitted 24 hours in advance for the supervisor to mark. 
+Supervisions are small-group discussions between a supervisor (me) and one, two, or sometimes three students. They involve an in-depth discussion of a piece of writing on an agreed topic, submitted 24 hours in advance for the supervisor to mark. Go [back](../) to the previous page to find syllabi for the papers I supervise. 
 
 Key points: 
 
 - The essay is due **24 hours before the supervision**. 
 - It should be **at most 2,500 words**. 
-- Submit to *hrs53* at *cam.ac.uk* either as
-    - a **.docx**/**.pages** file or 
-    - a **pdf** scan of a handwritten essay. 
-
-Style: 
-
-- If the essay is handwritten, it should be double-spaced—i.e., every other line should be empty to make space for comments. 
-- If it is typed, it should have a serif font (i.e., EB Garamond or Times New Roman), line height 1.5, justified margins, wide margins with space for comments, and font-size 12. 
+- Submit to *hrs53* at *cam.ac.uk* either as a **pdf** typeset in **EB Garamond** with **line height 1.5**, **justified margins**, **font-size 12**, and **wide margins** with space for comments.[^1]
 
 The essay should
 
@@ -60,3 +53,5 @@ There are many ways to approach essays. Here is one step-by-step guide which can
 8. **Write-up**. Make a final document. On the basis of your outline document, write up the full essay. 
 
 For extended essays it is expected that key passages and key articles have been read many times with careful attention to details. 
+
+[^1]: If, for whatever reason, you cannot send a pdf with these precise specifications, then you must send a **.docx** or **.pages** document with in **EB Garamond** with **line height 1.5**, **justified margins**, **font-size 12**, and **wide margins** with space for comments. 

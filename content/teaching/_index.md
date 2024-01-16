@@ -22,7 +22,7 @@ I supervise the following papers:
 I also teach (or have taught) the following discussion groups (seminars): 
 
 - Part IA Formal Methods (Moodle access only)
-- Part IA Set Texts (Moodle access only)
+- Part IA Set Texts: Ethics and Political Philosophy (Moodle access only)
 - [Part IB Ethics](seminars/ethics/)
 - [Part IB The Epistemology and Metaphysics of Science](seminars/ems/)
 - [Part IB History of Analytic Philosophy](seminars/hap/)
