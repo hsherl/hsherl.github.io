@@ -50,8 +50,9 @@ Russell, B. (1917). The Relation of Sense Data to Physics. In: Mysticism and log
 
 > [...] the point of the book is an ethical one. I once wanted to include in the preface a sentence that is now actually not there, but that I will write to you now since it might be a key for you: I wanted to write that my book consists of two parts: of the one that is present here and of everything I have not written. Precisely this second part is the important one. For the ethical is delimited as it were from the inside by my book; and I am convinced that strictly speaking it can ONLY be delimited in this way. In short I think: everything of which many nowadays are blethering, I have defined in my book by being silent about it [...]. I would recommend you to read the preface and the conclusion since they express the point most  directly
 
-- Diamond, C. (2000). Ethics, Imagination And The Method Of Wittgenstein’s Tractatus. In The New Wittgenstein, Routledge.
+- Wittgenstein, L. 1922. Tractatus Logico-Philosophicus, §§6.4–7. 
 - Wittgenstein L. A Lecture on Ethics. The Philosophical Review. 1965;74(1):3-12. 
+- Diamond, C. (2000). Ethics, Imagination And The Method Of Wittgenstein’s Tractatus. In The New Wittgenstein, Routledge.
 
 <!-- *Week 7*: 
 
