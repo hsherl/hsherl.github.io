@@ -9,6 +9,8 @@ Links: [all supervision subjects](/teaching);  [supervision instructions](/teach
 
 Here are the topics, questions, and reading lists for the Part IA Set texts supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week when more than one is listed. Since there are three thinkers for the four weeks, students must choose two questions from one of them. 
 
+The extended reading list with secondary readings can for the moment be found on Moodle. 
+
 # Plato's *Meno*
 
 - ‘Socrates is only vulnerable to the paradox of inquiry because he insists, absurdly, that one must know the definition of something before one can know anything else about it.’ Discuss.
@@ -16,8 +18,6 @@ Here are the topics, questions, and reading lists for the Part IA Set texts supe
 - How seriously should we take the proposal that virtue comes to us as a gift from the gods?
 
 # Descartes's *Meditations*
-
-The Cartesian method
 
 - ‘I realized that it was necessary, once in the course of my life, to demolish everything completely and start again right from the foundations.’ (DESCARTES) Why did Descartes believe this demolition was necessary? Focusing on one sceptical argument in the First Meditation, describe and evaluate his attempt to ‘demolish everything’.
 - Is the cogito an inference? Did Descartes think it was?
