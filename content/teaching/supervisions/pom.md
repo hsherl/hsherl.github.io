@@ -86,3 +86,5 @@ Further reading:
 
 - Charles Travis, 'The Silence of the Senses'. 
 - Susanna Siegel, 'Cognitive Penetrability and Perceptual Justification'. 
+
+Thanks to Alex Fisher for help with this page. 

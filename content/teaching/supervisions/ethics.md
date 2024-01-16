@@ -216,3 +216,5 @@ Further reading:
 - Russell, 'Phronesis and the Virtues'. 
 - Snow, 'Comments on Intelligent Virtue: Outsmarting Situationism'. 
 - Sreenivasan, 'Errors about Errors: Virtue Theory and Trait Attribution'. 
+
+Thanks to Facundo Rodríguez for help with this page. 

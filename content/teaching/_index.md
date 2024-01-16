@@ -12,25 +12,25 @@ Starting in Michaelmas 2022, I have supervised students in the following papers:
 
 - [Part IB Ethics](supervisions/ethics/)
 - [Part IB Knowledge, Language, and World](supervisions/klw)
+- [Part IB History of Analytic Philosophy](supervisions/hap/)
 - [Part II Philosophy of Mind](supervisions/pom/)
 - [Part II Philosophy of Science](supervisions/pos/)
-- HPS Part II Philosophy of Economics
-- HPS Part II Ethical Issues in Psychiatry
+- HPS Part II Philosophy of Economics (Moodle access only)
+- HPS Part II Ethical Issues in Psychiatry (Moodle access only)
 - [Part II Wittgenstein and His Successors](supervisions/wah/)
 - [Part II Ethics](supervisions/iiethics/)
-<!-- - [Part IB History of Analytic Philosophy](supervisions/hap/) -->
-<!-- - [Part II European Philosophy after Kant](supervisions/epk/)  -->
+- [Part II European Philosophy after Kant](supervisions/epk/)
 
 Since Lent 2023, I have led the following discussion groups (seminars): 
 
+- Part IA Set Texts (Moodle access only)
 - [Part IB Ethics](seminars/ethics/)
 - [Part IB The Epistemology and Metaphysics of Science](seminars/ems/)
 - [Part IB History of Analytic Philosophy](seminars/hap/)
-<!-- - Part IA Set Texts -->
 
 I am also a teaching assistant and supervisor for the Part IA Formal Methods paper. 
 
-The linked supervision syllabi have been curated from the Cambridge Faculty of Philosophy's [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists). 
+The linked supervision syllabi have been curated from the Cambridge Faculty of Philosophy's [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists), usually with help from PhD students who have taught them before. 
 
 The letters IA, IB, and II refer respectively to the first, second, and third years of an undergraduate degree in philosophy at Cambridge. 
 

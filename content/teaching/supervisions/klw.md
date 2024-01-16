@@ -155,3 +155,5 @@ Action sentences:
 
 - Davidson, D. 1980. The Logical Form of Action Sentences. In his Essays on Actions and Events. OUP.
 - Cargile, J. 1970. Davidson’s Notion of Logical Form. Inquiry 13: 129-39.
+
+Thanks to Will Hornett and Marcus Ackermann with this page. 
