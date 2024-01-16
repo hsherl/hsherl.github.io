@@ -19,7 +19,7 @@ Primary readings:
 - §§22–24 and §§51–69 from *The Foundations of Arithmetic*. 
 - Kitcher, P. 1979. Frege’s epistemology. Philosophical Review 88: 235–262.
 
-Secondary reading: 
+Secondary readings: 
 
 - Heck, R. 1999. Frege’s theorem: an introduction. Harvard Review of
 Philosophy 7: 56–73. 
@@ -68,7 +68,7 @@ Primary readings:
 - Wittgenstein, L. 1922. *Tractatus Logico-Philosophicus*, §§6.4–7.
 - Wittgenstein, L. A lecture on ethics.
 
-Secondary reading: 
+Secondary readings: 
 
 - McGuinness. 1966. The mysticism of the Tractatus. Philosophical Review 75:
 305–328.
