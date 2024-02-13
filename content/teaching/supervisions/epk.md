@@ -232,4 +232,6 @@ When you write your essay you must cite the translation you are using and the **
 - If ‘slaves’ are as pathetic as Nietzsche depicts them to be, then how did it happen that slave morality triumphed over master morality?
 - Why does Nietzsche think we must ‘become’ who we ‘are’? Is this doctrine coherent?
 
-Thanks to Fearghus Horan for help with this page. 
+
+
+Thanks to Fearghus Horan and Colette Olive for help with this page. 

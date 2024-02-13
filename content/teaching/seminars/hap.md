@@ -34,7 +34,7 @@ Russell, B. (1917). The Relation of Sense Data to Physics. In: Mysticism and log
 
 *Week 5*: 
 
-- Ramsey, F. P. (1923). Critical notices. Mind, XXXII(128), 465–478. https://doi.org/10.1093/mind/XXXII.128.465
+- Ramsey, F. P. (1927). Symposium: Facts and Propositions. Proceedings of the Aristotelian Society, Supplementary Volumes, 7, 153–206. https://www.jstor.org/stable/4106403
 
 **Wittgenstein**
 
