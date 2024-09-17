@@ -8,7 +8,7 @@ draft: true
 **Publications**
 
 - Sherling, H. R. & Chin-Yee, B. (Under review). 'Making room for trust: against "explainable AI"'. 
-- Peters, U., Sherling, H. R., & Chin-Yee, B. (2024). 'Hasty generalizations and generics in medical research: A systematic review'. *PLoS ONE*. doi: https://dx.plos.org/10.1371/journal.pone.0306749
+- Peters, U., Sherling, H. R., & Chin-Yee, B. (2024). 'Hasty generalizations and generics in medical research: A systematic review'. *PLoS ONE*. doi:10.1371/journal.pone.0306749
 - Sherling, H. R. & Swinn, E. (2024). 'Philosophers in Schools: An assessment of the ongoing partnership between The Philosophy Foundation and King’s College London’s Philosophy Department'. *Journal of Philosophy in Schools*, 10(2). doi:10.46707/jps.v10i2.194
 
 **In progress**
