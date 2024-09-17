@@ -7,11 +7,7 @@ draft: true
 
 **Human kinds and looping effects**
 
-My thesis concerns how we represent kinds of people or human kinds in the human sciences, with a special focus on psychiatry and psychology.  
-
-- Looping effects and kinds of people
-- Natural kinds and kinds of people
-- Intentional action and kind of people
+My thesis concerns how we represent kinds of people or human kinds in the human sciences, with a special focus on psychiatry and psychology. 
 
 **Papers**
 
