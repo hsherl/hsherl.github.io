@@ -7,34 +7,23 @@ draft: true
 
 **Human kinds and looping effects**
 
-My thesis concerns the 
+My thesis concerns how we represent kinds of people or human kinds in the human sciences, with a special focus on psychiatry and psychology.  
 
 - Looping effects and kinds of people
 - Natural kinds and kinds of people
-- Intentional action and kind of peoplex
+- Intentional action and kind of people
 
-<!-- **Self-understanding and ordinary language**
+**Papers**
 
-**Work in progress**
+- Interactive disease kinds. (Manuscript). Presented: EENPS 5th Biennial Conference. Jagiellonian University, Kraków. 
+- Valus and psychiatric categories. (Manuscript). Presented: Serious Metaphysics Group. May 23, 2024. University of Cambridge. 
 
-- A paper on the nature of placebo effects and conceptual engineering. 
-- A paper on open texture and natural kinds. 
-- A paper on the ethics and epistemology of formulating question in science. 
-- A paper arguing against value-alignment ideals in the values in science literature. 
-
-**Planned work**
-
-- A paper on reactivity and natural kinds. 
-- A paper on Jessie Munton's concept of hermeneutic competition. 
-- A paper on internalism about representation (arguing against Nguyen and Frigg's DEKI account)
-- A paper arguing against the use of the concept of value in science -->
-
-**Values in science collaboration**
+**Values in science**
 
 A collaborative project with Benjamin Chin-Yee, in which we attempt to address what Bennett Holman and Torsten Wilholt have called 'The new demarcation problem' in science. This is the problem of demarcating legitimate value-ladenness in scientific judgment and communication. The project has so far resulted in two presentations and papers: 
 
-- Making room for trust: against ‘explainable AI’. Objectivity, values, and trust workshop. November 30, 2023. University of Cambridge.
-- Clinical Communication: A Model for Scientific Assertion? 8th Stockholm Graduate Conference. December 7, 2023; Bergen Philosophy of Science Workshop. October 23, 2023; and the Cambridge-MCMP Workshop. September 23, 2023.
+- Making room for trust: against ‘explainable AI’. (Under review). Presented: Objectivity, values, and trust workshop. November 30, 2023. University of Cambridge; Values in science reading group. May 29, 2024. University of Cambridge. 
+- Clinical Communication: A Model for Scientific Assertion? (Manuscript). Presented: 8th Stockholm Graduate Conference. December 7, 2023; Bergen Philosophy of Science Workshop. October 23, 2023; and the Cambridge-MCMP Workshop. September 23, 2023.
 
 **Papers**
 
