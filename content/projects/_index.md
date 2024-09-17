@@ -12,7 +12,7 @@ My thesis concerns how we represent kinds of people or human kinds in the human 
 **Papers**
 
 - Interactive disease kinds. (Manuscript). Presented: EENPS 5th Biennial Conference. Jagiellonian University, Kraków. 
-- Valus and psychiatric categories. (Manuscript). Presented: Serious Metaphysics Group. May 23, 2024. University of Cambridge. 
+- Values and psychiatric categories. (Manuscript). Presented: Serious Metaphysics Group. May 23, 2024. University of Cambridge. 
 
 **Values in science**
 
