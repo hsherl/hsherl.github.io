@@ -20,11 +20,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     identifier = "teaching"
     url = "/teaching/"
     weight = 3
-# [[menu.main]]
-#     name = "Projects"
-#     identifier = "projects"
-#     url = "/projects/"
-#     weight = 2
+[[menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    url = "/projects/"
+    weight = 2
 
 [params]
     description = "Henrik Sherling's academic website."
