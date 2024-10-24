@@ -8,9 +8,11 @@ Supervisions are small-group discussions between a supervisor (me) and one, two,
 
 Key points: 
 
-- The essay is due **24 _working_ hours before the supervision**. 
+- The essay is due **one full _working day_ before the supervision**. 
 - It should be **at most 2,500 words**. 
 - Submit to *hrs53* at *cam.ac.uk* either as a **pdf** typeset in **EB Garamond** with **line height 1.5**, **justified margins**, **font-size 12**, and **wide margins** with space for comments.[^1]
+
+(That means that essays due to be discussed on Monday at noon should be submitted by Friday at noon, not Sunday.)
 
 The essay should
 
