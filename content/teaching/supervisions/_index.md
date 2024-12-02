@@ -10,30 +10,31 @@ Key points:
 
 - The essay is due **one full _working day_ before the supervision**. 
 - It should be **at most 2,500 words**. 
-- Submit to *hrs53* at *cam.ac.uk* either as a **pdf** typeset in **EB Garamond** with **line height 1.5**, **justified margins**, **font-size 12**, and **wide margins** with space for comments.[^1]
+- It should be emailed to *hrs53* at *cam.ac.uk* as a **pdf** typeset in **EB Garamond** with **line height 1.5**, **justified margins**, **font-size 12**, and **wide margins** with space for comments.[^1]
 
-(That means that essays due to be discussed on Monday at noon should be submitted by Friday at noon, not Sunday.)
+The most important rule for writing philosophy papers is ***omit or explain***. That means that everything that goes into the paper should (a) answer the titular question or prompt and (b) be explained in the text. If it does not do *both* (a) and (b) it should be omitted.  
 
-The essay should
+Beyond that, the paper should
 
 - explain and frame what the question is getting at (in the introduction), 
 - outline how the essay plans to answer the question (in the introduction), 
-- signpost (make it clear to the reader what you are trying to do), 
-- explain technical vocabulary,
+- make it clear to the reader what you are trying to do (*signpost*), 
+- explain all technical vocabulary,
 - use the same words for the same things throughout, 
-- give reasons for its claims, 
-- use concrete examples to illustrate abstract ideas, 
+- use the standard (dictionary) meanings for all words, 
+- justify significant claims, 
+- use easy-to-understand, concrete examples to illustrate abstract ideas, 
 - demonstrate familiary with the primary readings, 
-- consider at least one central argument in depth, 
-- consider at least one rebuttal, and
-- **omit needless ideas**. 
+- consider and evaluate at least one central argument in depth, and
+- consider and evaluate at least one objection to that argument. 
 
 The last point is perhaps the most important. The student must demonstrate both *that* and *how* what they say in the essay goes towards answering the essay question. They should treat the marker as if they were a peer who is studying a different course and needs to have everything explained from scratch. Extraneous parts count against the essay, even if they are interesting in their own right. Even a publishable argument will not lead to a good grade if it does not answer the question under discussion. 
 
 Some useful resources are
 
 - the [library search service](https://idiscover.lib.cam.ac.uk/), 
-- the faculty's [essay writing guide](https://www.phil.cam.ac.uk/curr-students/writing-skils/phil-essay-guide), and
+- the faculty's [essay writing guide](https://www.phil.cam.ac.uk/curr-students/writing-skils/phil-essay-guide), 
+- Jim's Pryor's [guidelines on writing a philosophy paper](http://www.jimpryor.net/teaching/guidelines/writing.html), and
 - the faculty's reading lists for part [IA](https://www.phil.cam.ac.uk/curr-students/IA/IA-reading-lists), [IB](https://www.phil.cam.ac.uk/curr-students/IB/IB-reading-lists), and [II](https://www.phil.cam.ac.uk/curr-students/II/II-reading-lists). 
 
 There are many ways to approach essays. Here is one step-by-step guide which can be useful for students who find it difficult to recall what they have read while writing. Students should modify this guide to fit their own ways of working. 
