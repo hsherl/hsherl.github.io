@@ -12,7 +12,7 @@ Key points:
 - It should be **at most 2,500 words**. 
 - It should be emailed to *hrs53* at *cam.ac.uk* as a **pdf** typeset in **EB Garamond** with **line height 1.5**, **justified margins**, **font-size 12**, and **wide margins** with space for comments.[^1]
 
-The most important rule for writing philosophy papers is ***omit or explain***. That means that everything that goes into the paper should (a) answer the titular question or prompt and (b) be explained in the text. If it does not do *both* (a) and (b) it should be omitted.  
+The most important rule for writing philosophy papers is ***omit or explain***. That means that everything that goes into the paper should (a) help to answer the titular question or prompt and (b) be explained in the text. If it does not do *both* (a) and (b) it should be omitted.  
 
 Beyond that, the paper should
 
