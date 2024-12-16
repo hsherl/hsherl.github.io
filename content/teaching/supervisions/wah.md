@@ -9,6 +9,8 @@ Links: [all supervision subjects](/teaching);  [supervision instructions](/teach
 
 Here are the topics, questions, and reading lists for the Part II Wittgenstein and His Successors supervisions in the Philosophy Tripos at Cambridge. Students must choose just one question per week (four in total, except for semester students) on a new topic and at least one topic from each philosopher. 
 
+This is only meant as a very introductory overview. 
+
 # 1 Austin
 
 > 1. ‘But if we are prepared to admit that there may be… some cases in which “delusive and veridical perceptions” really are indistinguishable, does this admission require us to drag in, or even let in sense-data?’. Does it?
@@ -59,9 +61,15 @@ Secondary:
 
 ## 2.1 General
 
+### 2.1.1 Primary sources
+
 - Wittgenstein L. Philosophical Investigations. 2nd ed. (translated by G.E.M. Anscombe, ed.). Blackwell; 1967. 
 - Wittgenstein L. Preliminary Studies for the Philosophical Investigations: Generally Known as the Blue and Brown Books. 2nd ed. Blackwell; 1969. 
+
+### 2.1.2 Secondary sources
+
 - Child W. Wittgenstein. Routledge; 2011. 
+- Ahmed, A. Wittgenstein's Philosophical Investigations. Routledge; 2010. 
 - Kenny A. Wittgenstein. Rev. ed. Blackwell; 2006. 
 
 ## 2.2 Blue book
