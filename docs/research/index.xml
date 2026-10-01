@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Henrik Røed Sherling</title>
-    <link>https://hsherl.github.io/projects/</link>
+    <link>https://hsherl.github.io/research/</link>
     <description>Recent content in Research on Henrik Røed Sherling</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hsherl.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hsherl.github.io/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

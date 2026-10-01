@@ -61,9 +61,7 @@ p {
 	font-weight:500;
 	line-height: 1.5;
 	/*background: blue;*/
-	text-align: justify;
-	text-justify: inter-word;
-	text-align-last: left;
+	text-align: left;
 	word-break: break-word;
 }
 
