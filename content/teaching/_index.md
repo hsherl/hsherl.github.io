@@ -4,9 +4,7 @@ date: "2022-12-16"
 layout: "single"
 ---
 
-I am currently teaching undergraduate [discussion groups](seminars/) and [supervisions](supervisions/) at Cambridge. 
-
-I supervise (or have supervised) the following papers: 
+Here are some of the papers I have [supervisions](supervisions/)  or led [discussion groups](seminars/) for at Cambridge. Firstly, those I have supervised, with links to their syllabi: 
 
 - [Part IB Ethics](supervisions/ethics/)
 - [Part IB Knowledge, Language, and World](supervisions/klw)
@@ -19,7 +17,7 @@ I supervise (or have supervised) the following papers:
 - [Part II Ethics](supervisions/iiethics/)
 - [Part II European Philosophy after Kant](supervisions/epk/)
 
-I also teach (or have taught) the following discussion groups (seminars): 
+Secondly, those I have led read-ahead discussion groups (seminars) for, with links to their reading lists: 
 
 - Part IA Formal Methods (Moodle access only)
 - Part IA Set Texts: Ethics and Political Philosophy (Moodle access only)
@@ -27,9 +25,7 @@ I also teach (or have taught) the following discussion groups (seminars):
 - [Part IB The Epistemology and Metaphysics of Science](seminars/ems/)
 - [Part IB History of Analytic Philosophy](seminars/hap/)
 
-The linked syllabi have been curated from the Cambridge Faculty of Philosophy's [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists), usually with help from PhD students who have taught them before. 
-
-Teaching is important to me. I rely on student feedback both to detect my blindspots and improve and also to detect what is working so I can keep that going. If you are or have been my student, you may submit anonymous feedback [here](https://forms.gle/GkCDJrcPqpq2S4oL8) at any time. Alternatively, you can get in touch with me directly at *hrs53* at *cam.ac.uk*. 
+These syllabi and reading lists have been based on the Cambridge Faculty of Philosophy's [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists), but have been curated and updated as I have seen fit. 
 
 --- 
 

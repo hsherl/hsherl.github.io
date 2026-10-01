@@ -4,7 +4,7 @@ date: ""
 layout: "single"
 ---
 
-I teach or have taught seminars for second-year undergraduates at Cambridge in following subjects: 
+I have taught discussion groups for second-year undergraduates at Cambridge for the following papers: 
 
 - Part IA Set Texts: Ethics and Political Philosophy (Lent 2024)
 - Part IA Formal Methods (Michaelmas 2022—)
