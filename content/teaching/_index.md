@@ -4,7 +4,7 @@ date: "2022-12-16"
 layout: "single"
 ---
 
-Here are some of the papers I have [supervisions](supervisions/)  or led [discussion groups](seminars/) for at Cambridge. Firstly, those I have supervised, with links to their syllabi: 
+Here are some of the papers I have [supervised](supervisions/)  or [led discussion groups](seminars/) for at Cambridge. Firstly, those I have supervised, with links to their syllabi: 
 
 - [Part IB Ethics](supervisions/ethics/)
 - [Part IB Knowledge, Language, and World](supervisions/klw)
