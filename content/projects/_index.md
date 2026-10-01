@@ -2,39 +2,39 @@
 title: "Projects"
 date: "2023-10-08"
 layout: "post"
-draft: true
 ---
 
-**Publications**
+Publications
 
 - Sherling, H. R. (In press). Disease as integrated dysfunction. *Philosophy of Science*.
-- Sherling, H. R. (2025). Change in looping effects. *Philosophical Psychology*. [doi:10.1080/09515089.2026.2718428](https://doi.org/10.1080/09515089.2026.2718428) 
-- Peters, U., Sherling, H. R., & Chin-Yee, B. (2024). Hasty generalizations and generics in medical research: A systematic review. *PLoS ONE*. [doi:10.1371/journal.pone.0306749](https://doi.org/10.1371/journal.pone.0306749)
-- Sherling, H. R. & Swinn, E. (2024). Philosophers in Schools: An assessment of the ongoing partnership between The Philosophy Foundation and King’s College London’s Philosophy Department. *Journal of Philosophy in Schools*, 10(2). [doi:10.46707/jps.v10i2.194](https://doi.org/10.46707/jps.v10i2.194)
+- Sherling, H. R. (2026). Change in looping effects. *Philosophical Psychology*. [doi:10.1080/09515089.2026.2718428](https://doi.org/10.1080/09515089.2026.2718428)
+- Peters, U., Sherling, H. R., & Chin-Yee, B. (2024). Hasty generalizations and generics in medical research: A systematic review. *PLOS ONE*. [doi:10.1371/journal.pone.0306749](https://doi.org/10.1371/journal.pone.0306749)
+- Sherling, H. R., & Swinn, E. (2024). Philosophers in Schools: An assessment of the ongoing partnership between The Philosophy Foundation and King’s College London’s Philosophy Department. *Journal of Philosophy in Schools*, 10(2). [doi:10.46707/jps.v10i2.194](https://doi.org/10.46707/jps.v10i2.194)
+{.bib}
 
-**In progress**
+In progress
 
-- 'Values and psychiatric categories'. (Manuscript). Presented: Serious Metaphysics Group. May 23, 2024. University of Cambridge. 
-- Sherling, H. R. & Chin-Yee, B. (Manuscript). 'Making room for trust: against "explainable AI"'. 
+- 'What makes mental disorder mental?' (Manuscript). 
+- 'Taxonomic choice'. (Manuscript). 
+- 'Natural kinds in psychiatry'. (Manuscript). 
 
-My PhD thesis (in progress) concerns how we represent kinds of people or human kinds in the human sciences, with a special focus on psychiatry and psychology. 
+In-progress collaborations with Ben Chin-Yee: 
 
-**Values in science collaboration**
+- 'Making room for trust: Against "explainable AI"'. (Manuscript). 
+- 'Clinical communication: A model for scientific advice?' (Manuscript). 
 
-A collaborative project with Benjamin Chin-Yee. We address 'the new demarcation problem' in science (as Holman and Wilholt have called it): the problem of demarcating legitimate value-ladenness in scientific judgment and communication. The project has so far resulted in two presentations and papers: 
+Manuscripts available upon request. 
 
-- 'Making room for trust: against "explainable AI"'. (Under review). Presented: Objectivity, values, and trust workshop. November 30, 2023. University of Cambridge; Values in science reading group. May 29, 2024. University of Cambridge. 
-- 'Clinical Communication: A Model for Scientific Advice?' (Manuscript). Presented: 8th Stockholm Graduate Conference. December 7, 2023; Bergen Philosophy of Science Workshop. October 23, 2023; and the Cambridge-MCMP Workshop. September 23, 2023.
-
-**Socities and reading groups**
+Societies and reading groups
 
 - Cambridge-London Philosophy of Medicine (Cambridge and KCL, 2024)
     - With Rivkah Hatchwell and Harriet Fagerberg
-- Secretary, Moral Sciences Club (Cambridge, 2023-2024)
+    - Succeeded by the [Ox-Cam-Lon Philosophy of Medicine Society](https://philmed.framer.website)
+- Secretary, Moral Sciences Club (Cambridge, 2023–2024)
     - With Alice Roberts and Sam Cole
 - The Genealogical Methods Reading Group (Cambridge, 2023)
-    - With Andi Schubert and Benedikt Pètursson
-- Philosophy of Mental Disorder Reading Group (KCL, 2019-2021)
+    - With Andi Schubert and Benedikt Pétursson
+- Philosophy of Mental Disorder Reading Group (KCL, 2019–2021)
     - With Eveliina Ilola
 - Epistemology of Peer Disagreement Reading Group (KCL, 2018)
     - With Ariel de la Garza Davidoff and Chiara Zucchelli

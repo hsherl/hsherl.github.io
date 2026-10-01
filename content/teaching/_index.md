@@ -26,9 +26,3 @@ Secondly, those I have led read-ahead discussion groups (seminars) for, with lin
 - [Part IB History of Analytic Philosophy](seminars/hap/)
 
 These syllabi and reading lists have been based on the Cambridge Faculty of Philosophy's [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists), but have been curated and updated as I have seen fit. 
-
---- 
-
-The letters IA, IB, and II refer respectively to the first, second, and third years of an undergraduate degree in philosophy at Cambridge. 
-
-Papers in the Department of the History and Philosophy of Science have centrally designed reading lists and syllabi (accessible on Moodle), whereas papers in the Philosophy Faculty have a centrally designed reading list on the basis of which each supervisor makes their own syllabi (linked). 
