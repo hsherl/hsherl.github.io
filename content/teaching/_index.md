@@ -29,4 +29,4 @@ Part IA Set Texts: Ethics and Political Philosophy (Moodle access only)
 [Part IB The Epistemology and Metaphysics of Science](seminars/ems/)  
 [Part IB History of Analytic Philosophy](seminars/hap/)  
 
-The syllabi as based on the [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists) course outlines and reading lists of the Faculty of Philosophy, University of Cambridge. 
+The above syllabi are tailored to the papers taught by the Faculty of Philosophy at the University of Cambridge. They are made to fit the [publicly available materials](https://www.phil.cam.ac.uk/curr-students/course-outlines-and-reading-lists) course outlines and reading lists of the Faculty of Philosophy, University of Cambridge. 
