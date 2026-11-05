@@ -8,7 +8,7 @@ layout: "single"
 
 I am a PhD candidate in Philosophy at St. John's College, University of Cambridge.  
 
-My thesis is on topics in philosophy of science, medicine, and psychiatry, specifically the nature and classificsation of disease and mental disorder. 
+My thesis deals with topics in philosophy of science, medicine, and psychiatry, including the nature of disease, the nature of mental disorder, and medical classification. 
 
 Before my PhD, I got an MSci in Physics and Philosophy at King’s College London, focusing on the philosophy of quantum mechanics. 
 
