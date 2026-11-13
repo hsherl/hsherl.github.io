@@ -6,7 +6,7 @@ layout: "single"
 
 Lectures: 
 
-Part II Philosophy of Mind — Epistemology of Mind  
+Part II Philosophy of Mind — Epistemology of Mind (Lent 2025)  
 
 Supervisions: 
 
@@ -20,11 +20,12 @@ HPS Part II Ethical Issues in Psychiatry (Moodle access only)
 [Part II Wittgenstein and His Successors](supervisions/wah/)  
 [Part II Ethics](supervisions/iiethics/)  
 [Part II European Philosophy after Kant](supervisions/epk/)  
+[Part IA Set Texts (Plato, Descartes, Mill)](supervisions/set-texts/)  
 
 Discussion groups (seminars): 
 
 Part IA Formal Methods (Moodle access only)  
-Part IA Set Texts: Ethics and Political Philosophy (Moodle access only)  
+Part IA Ethics and Political Philosophy (Moodle access only)  
 [Part IB Ethics](seminars/ethics/)  
 [Part IB The Epistemology and Metaphysics of Science](seminars/ems/)  
 [Part IB History of Analytic Philosophy](seminars/hap/)  
