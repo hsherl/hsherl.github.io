@@ -27,40 +27,38 @@ In-progress collaborations with Ben Chin-Yee:
 
 _Manuscripts available upon request._
 
-Presentations (\* = contributed; † = invited): 
+Presentations: 
 
 *Disease as integrated dysfunction*
 
-- Workshop on Functions and Dysfunctions in Medicine and Psychiatry, Universitat de València (2026) †
-- Philosophy of Medicine Roundtable, King's College London (2025) \*
-- Moral Sciences Club, University of Cambridge (2025) †
-- Serious Metaphysics Group, University of Cambridge (2025) †
-- Eastern European Network for Philosophy of Science, Jagiellonian University (2024) \*
+- Workshop on Functions and Dysfunctions in Medicine and Psychiatry, Universitat de València (2026)
+- Philosophy of Medicine Roundtable, King's College London (2025)
+- Moral Sciences Club, University of Cambridge (2025)
+- Serious Metaphysics Group, University of Cambridge (2025)
+- Eastern European Network for Philosophy of Science, Jagiellonian University (2024)
 
 *Change in looping effects*
 
-- R&D Forum, Dept. of Psychological Health and Addiction, Vestre Viken Hospital (2025) †
-- Philosophy of Science Association Around the World (2025) \*
-- Managing Performativity in Science Symposium, Leibniz Universität Hannover (2025) †
-- Retreat, Munich Center for Mathematical Philosophy, LMU Munich (2024) †
+- R&D Forum, Dept. of Psychological Health and Addiction, Vestre Viken Hospital (2025)
+- Philosophy of Science Association Around the World (2025)
+- Managing Performativity in Science Symposium, Leibniz Universität Hannover (2025)
+- Retreat, Munich Center for Mathematical Philosophy, LMU Munich (2024)
 
 *Would would-be functions satisfy conceptual engineers?*
 
-- Functions Workshop, Universitetet i Oslo (2025) \*
-- Faculty of Philosophy Graduate Seminar, University of Cambridge (2025) \*
+- Functions Workshop, Universitetet i Oslo (2025)
+- Faculty of Philosophy Graduate Seminar, University of Cambridge (2025)
 
 *Values and psychiatric categories*
 
-- Serious Metaphysics Group, University of Cambridge (2024) †
+- Serious Metaphysics Group, University of Cambridge (2024)
 
 *Making room for trust: Against "explainable AI"* (with Ben Chin-Yee)
 
-- Values in Science Group, University of Cambridge (2024) \*
+- Values in Science Group, University of Cambridge (2024)
 
 *Clinical communication: A model for scientific assertion?* (with Ben Chin-Yee)
 
-- Values in Science Group, University of Cambridge (2024) \*
-- Stockholm Graduate Workshop, Stockholms universitet (2023) \*
-- Annual Workshop in Philosophy of Science, Universitetet i Bergen (2023) \*
-
-Peer review: *Synthese*; *Studies in History and Philosophy of Science*; *Philosophical Psychology*; *Journal of the Royal Society of Medicine*; *Philosophy of Medicine*.
+- Values in Science Group, University of Cambridge (2024)
+- Stockholm Graduate Workshop, Stockholms universitet (2023)
+- Annual Workshop in Philosophy of Science, Universitetet i Bergen (2023)
