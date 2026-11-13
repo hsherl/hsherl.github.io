@@ -6,7 +6,9 @@ layout: "post"
 
 Publications: 
 
-- Sherling, H. R. (In press). Disease as integrated dysfunction. *Philosophy of Science*.
+<!-- - Sherling, H. R. (2026). Disease as integrated dysfunction. *Philosophy of Science*. [doi:10.1017/psa.2026.10283](https://doi.org/10.1017/psa.2026.10283) [[Preprint]](/papers/sherling-2026-disease-as-integrated-dysfunction.pdf)
+ -->
+- Sherling, H. R. (In press). Disease as integrated dysfunction. *Philosophy of Science*. Accepted 14 August 2026. [[Preprint]](/papers/sherling-2026-disease-as-integrated-dysfunction.pdf) 
 - Sherling, H. R. (2026). Change in looping effects. *Philosophical Psychology*. [doi:10.1080/09515089.2026.2718428](https://doi.org/10.1080/09515089.2026.2718428)
 - Peters, U., Sherling, H. R., & Chin-Yee, B. (2024). Hasty generalizations and generics in medical research: A systematic review. *PLOS ONE*. [doi:10.1371/journal.pone.0306749](https://doi.org/10.1371/journal.pone.0306749)
 - Sherling, H. R., & Swinn, E. (2024). Philosophers in Schools: An assessment of the ongoing partnership between The Philosophy Foundation and King’s College London’s Philosophy Department. *Journal of Philosophy in Schools*, 10(2). [doi:10.46707/jps.v10i2.194](https://doi.org/10.46707/jps.v10i2.194)
